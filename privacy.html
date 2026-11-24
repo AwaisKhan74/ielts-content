@@ -16,27 +16,31 @@
 <body>
 <main>
 <h1>Bandprep Privacy Policy</h1>
-<p class="muted">Last updated: 9 November 2026</p>
+<p class="muted">Last updated: 24 November 2026</p>
 
 <p>Bandprep ("the app") helps you practise for the IELTS test. The app is not affiliated with or endorsed by the owners of the IELTS test. This page explains what data the app uses and how you can delete it.</p>
 
 <h2>Data we keep</h2>
 <ul>
-  <li><strong>Account ID.</strong> The app signs you in anonymously with Firebase Authentication. If you choose "Sign in with Google", your Google email address and name are also stored by Firebase Authentication.</li>
+  <li><strong>Account ID.</strong> The app signs you in anonymously with Firebase Authentication. We do not ask for your name, email address or phone number. Because there is no sign-in, your progress cannot be restored if you remove the app or change phones.</li>
   <li><strong>Study data.</strong> Your test type, target band, exam date, credit balance, study streak, test attempts (scores, answers and time spent), saved vocabulary progress and AI feedback. This is stored in Google Cloud Firestore and on your phone.</li>
-  <li><strong>Text you send to the AI.</strong> When you ask for Writing or Speaking feedback or use the AI tutor, the text you wrote, or the text transcript of what you said, is sent to Google's Gemini model through Firebase AI Logic. Audio recordings are never uploaded: speech is turned into text on your phone by Android's speech recognition service.</li>
+  <li><strong>Text you send to the AI.</strong> When you ask for Writing or Speaking feedback or use the AI tutor, the text you wrote, or the text transcript of what you said, is sent through our server (Supabase) to the AI service Groq, which writes the answer. Our server does not store this text. Groq says it does not keep it by default, but may log it for up to 30 days to fix problems or stop abuse. If we have to switch to our backup, the text goes to Google's Gemini model through Firebase AI Logic instead; on its free service Google may use this text to improve its products and people may read it. Please do not write private information in your answers or questions.</li>
+  <li><strong>Speech.</strong> In Speaking practice, the speech recognition service of your phone (on most phones Google's) turns your voice into text. Depending on your phone it may send the sound to its own servers. We never receive or store the sound.</li>
+  <li><strong>AI use counter.</strong> To share the AI fairly, our server keeps your account ID and the number of AI requests you made. It is removed after about two days of AI use in the app.</li>
   <li><strong>Advertising data.</strong> The app shows ads with Google AdMob. AdMob may collect your device's advertising ID, IP address and information about ad interactions. In the EEA and the UK you are asked for consent first, and you can change your choice in Profile, "Ad privacy choices".</li>
   <li><strong>Notifications.</strong> If you allow notifications, Firebase Cloud Messaging uses a device token to send a message when a new test is ready.</li>
   <li><strong>App security.</strong> Firebase App Check uses Google Play Integrity to confirm requests come from the real app.</li>
 </ul>
 
 <h2>Data we do not collect</h2>
-<p>We do not collect your contacts, location, photos or audio recordings. We do not sell your data.</p>
+<p>We do not collect your contacts, exact location, photos or audio recordings. We do not sell your data.</p>
 
 <h2>Services we use</h2>
 <ul>
   <li>Google Firebase (Authentication, Cloud Firestore, Cloud Messaging, Remote Config, App Check, AI Logic): <a href="https://firebase.google.com/support/privacy">Firebase privacy</a></li>
-  <li>Google Gemini through Firebase AI Logic: <a href="https://ai.google.dev/gemini-api/terms">Gemini API terms</a></li>
+  <li>Supabase (runs our AI server): <a href="https://supabase.com/privacy">Supabase privacy</a></li>
+  <li>Groq (AI answers): <a href="https://groq.com/privacy-policy">Groq privacy</a></li>
+  <li>Google Gemini through Firebase AI Logic (backup): <a href="https://ai.google.dev/gemini-api/terms">Gemini API terms</a></li>
   <li>Google AdMob: <a href="https://policies.google.com/technologies/ads">How Google uses data in ads</a></li>
   <li>GitHub Pages hosts the practice tests the app downloads: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub privacy</a></li>
 </ul>
@@ -45,13 +49,14 @@
 <p>Band scores from the AI and from the app are estimates, not official IELTS scores.</p>
 
 <h2>Delete your data</h2>
-<p>In the app, open Profile and tap "Delete my account and data". This deletes your account and every document stored for it straight away. Read more on the <a href="delete-account.html">account deletion page</a>.</p>
+<p>In the app, open Profile and tap "Delete my account and data". This deletes your account and the study data stored for it straight away. The AI use counter described above is removed separately. Read more on the <a href="delete-account.html">account deletion page</a>.</p>
 
 <h2>Children</h2>
 <p>The app is meant for people aged 16 and over.</p>
 
 <h2>Contact</h2>
-<p>Questions: <strong>[YOUR SUPPORT EMAIL]</strong></p>
+<p>Questions or requests about your data: <a href="mailto:awais9876khan@gmail.com"><strong>awais9876khan@gmail.com</strong></a></p>
+<p>If you email us, we use your address only to answer you.</p>
 </main>
 </body>
 </html>

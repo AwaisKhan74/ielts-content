@@ -1,0 +1,2130 @@
+{
+"schemaVersion": 1,
+"words": [
+{
+"word": "abandon",
+"meaning": "to leave something and not come back to it",
+"example": "Many farmers had to abandon their land."
+},
+{
+"word": "abolish",
+"meaning": "to end a law or system officially",
+"example": "Some people want to abolish school uniforms."
+},
+{
+"word": "absorb",
+"meaning": "to take in liquid, heat or information",
+"example": "Trees absorb carbon dioxide from the air."
+},
+{
+"word": "accelerate",
+"meaning": "to make something happen faster",
+"example": "New tools can accelerate research."
+},
+{
+"word": "accessible",
+"meaning": "easy to reach, enter or use",
+"example": "The museum is accessible by bus."
+},
+{
+"word": "accommodate",
+"meaning": "to have enough space for",
+"example": "The hall can accommodate 300 students."
+},
+{
+"word": "accompany",
+"meaning": "to go somewhere with someone",
+"example": "Children must be accompanied by an adult."
+},
+{
+"word": "accomplish",
+"meaning": "to succeed in doing something",
+"example": "She accomplished her goal in two years."
+},
+{
+"word": "accumulate",
+"meaning": "to collect more and more over time",
+"example": "Plastic accumulates in the ocean."
+},
+{
+"word": "accurate",
+"meaning": "correct in every detail",
+"example": "The report gives accurate figures."
+},
+{
+"word": "acknowledge",
+"meaning": "to accept that something is true",
+"example": "The company acknowledged the problem."
+},
+{
+"word": "acquire",
+"meaning": "to get or learn something",
+"example": "Children acquire language quickly."
+},
+{
+"word": "adapt",
+"meaning": "to change in order to suit a new situation",
+"example": "Animals adapt to cold weather."
+},
+{
+"word": "adequate",
+"meaning": "enough for what is needed",
+"example": "The school has adequate equipment."
+},
+{
+"word": "adjacent",
+"meaning": "next to something",
+"example": "The library is adjacent to the park."
+},
+{
+"word": "adjust",
+"meaning": "to change something a little",
+"example": "You can adjust the height of the chair."
+},
+{
+"word": "administer",
+"meaning": "to manage or give something officially",
+"example": "The test is administered twice a year."
+},
+{
+"word": "admire",
+"meaning": "to respect and like someone",
+"example": "Many students admire their teachers."
+},
+{
+"word": "adolescent",
+"meaning": "a young person growing into an adult",
+"example": "Adolescents need more sleep than adults."
+},
+{
+"word": "adopt",
+"meaning": "to start using a plan or idea",
+"example": "The city adopted a new transport plan."
+},
+{
+"word": "advantage",
+"meaning": "something that helps you",
+"example": "Speaking two languages is an advantage."
+},
+{
+"word": "adverse",
+"meaning": "bad or harmful",
+"example": "Smoking has adverse effects on health."
+},
+{
+"word": "advocate",
+"meaning": "to support an idea in public",
+"example": "Doctors advocate regular exercise."
+},
+{
+"word": "affect",
+"meaning": "to change or influence something",
+"example": "Noise affects how well people sleep."
+},
+{
+"word": "affluent",
+"meaning": "having a lot of money",
+"example": "They live in an affluent area."
+},
+{
+"word": "affordable",
+"meaning": "cheap enough for most people",
+"example": "The city needs affordable housing."
+},
+{
+"word": "aggravate",
+"meaning": "to make a bad situation worse",
+"example": "Heavy traffic aggravates air pollution."
+},
+{
+"word": "allocate",
+"meaning": "to give money or time for a purpose",
+"example": "The government allocated funds to schools."
+},
+{
+"word": "alter",
+"meaning": "to change",
+"example": "The plan was altered after the meeting."
+},
+{
+"word": "alternative",
+"meaning": "another choice",
+"example": "Cycling is a good alternative to driving."
+},
+{
+"word": "ambiguous",
+"meaning": "having more than one possible meaning",
+"example": "The instructions were ambiguous."
+},
+{
+"word": "ambitious",
+"meaning": "wanting very much to succeed",
+"example": "She is an ambitious young scientist."
+},
+{
+"word": "amend",
+"meaning": "to change a text or law to improve it",
+"example": "The law was amended last year."
+},
+{
+"word": "analyse",
+"meaning": "to study something carefully in parts",
+"example": "The team analysed the results."
+},
+{
+"word": "annual",
+"meaning": "happening once a year",
+"example": "The annual festival is held in May."
+},
+{
+"word": "anticipate",
+"meaning": "to expect something to happen",
+"example": "We anticipate a rise in prices."
+},
+{
+"word": "anxiety",
+"meaning": "a feeling of worry",
+"example": "Exams cause anxiety in some students."
+},
+{
+"word": "apparent",
+"meaning": "easy to see or understand",
+"example": "The reason soon became apparent."
+},
+{
+"word": "appeal",
+"meaning": "to be attractive or interesting",
+"example": "City life appeals to young people."
+},
+{
+"word": "appliance",
+"meaning": "a machine used in the home",
+"example": "A fridge is a kitchen appliance."
+},
+{
+"word": "appoint",
+"meaning": "to choose someone for a job",
+"example": "They appointed a new manager."
+},
+{
+"word": "appreciate",
+"meaning": "to understand the value of something",
+"example": "Visitors appreciate the quiet beaches."
+},
+{
+"word": "appropriate",
+"meaning": "right for a situation",
+"example": "Wear appropriate clothes for an interview."
+},
+{
+"word": "approximately",
+"meaning": "about, not exactly",
+"example": "The trip takes approximately two hours."
+},
+{
+"word": "aspect",
+"meaning": "one part of a situation or problem",
+"example": "Cost is an important aspect of the plan."
+},
+{
+"word": "assess",
+"meaning": "to judge the quality or amount of something",
+"example": "Teachers assess the students each term."
+},
+{
+"word": "assign",
+"meaning": "to give someone a job to do",
+"example": "The teacher assigned a short essay."
+},
+{
+"word": "assist",
+"meaning": "to help",
+"example": "Robots assist doctors during operations."
+},
+{
+"word": "associate",
+"meaning": "to connect things in your mind",
+"example": "People associate summer with holidays."
+},
+{
+"word": "assume",
+"meaning": "to think something is true without proof",
+"example": "Do not assume that cheap means bad."
+},
+{
+"word": "attain",
+"meaning": "to reach a goal after hard work",
+"example": "He attained a high level of English."
+},
+{
+"word": "attitude",
+"meaning": "the way you think about something",
+"example": "Her attitude to work is positive."
+},
+{
+"word": "attribute",
+"meaning": "to say what caused something",
+"example": "They attribute their success to teamwork."
+},
+{
+"word": "authentic",
+"meaning": "real, not copied",
+"example": "The cafe serves authentic local food."
+},
+{
+"word": "authority",
+"meaning": "the power to make decisions",
+"example": "The local authority repairs the roads."
+},
+{
+"word": "available",
+"meaning": "able to be used or found",
+"example": "The book is available online."
+},
+{
+"word": "aware",
+"meaning": "knowing about something",
+"example": "Many people are not aware of the risks."
+},
+{
+"word": "barrier",
+"meaning": "something that stops progress",
+"example": "Language can be a barrier at work."
+},
+{
+"word": "beneficial",
+"meaning": "having a good effect",
+"example": "Walking is beneficial to your health."
+},
+{
+"word": "bias",
+"meaning": "an unfair opinion for or against something",
+"example": "The report shows a clear bias."
+},
+{
+"word": "biodiversity",
+"meaning": "the variety of living things in a place",
+"example": "Forests protect biodiversity."
+},
+{
+"word": "boost",
+"meaning": "to increase or improve something",
+"example": "Tourism boosts the local economy."
+},
+{
+"word": "boundary",
+"meaning": "a line that marks the edge of an area",
+"example": "The river forms the boundary of the park."
+},
+{
+"word": "brief",
+"meaning": "lasting a short time",
+"example": "He gave a brief talk about his work."
+},
+{
+"word": "budget",
+"meaning": "a plan for spending money",
+"example": "The project is within budget."
+},
+{
+"word": "burden",
+"meaning": "something difficult that you must deal with",
+"example": "High rent is a burden for families."
+},
+{
+"word": "capable",
+"meaning": "able to do something",
+"example": "Modern phones are capable of many tasks."
+},
+{
+"word": "capacity",
+"meaning": "the most that something can hold",
+"example": "The stadium has a capacity of 50,000."
+},
+{
+"word": "catastrophe",
+"meaning": "a terrible event",
+"example": "The flood was a catastrophe for the town."
+},
+{
+"word": "category",
+"meaning": "a group of similar things",
+"example": "The books are sorted into categories."
+},
+{
+"word": "cease",
+"meaning": "to stop",
+"example": "The factory ceased production in 2010."
+},
+{
+"word": "challenge",
+"meaning": "something difficult that tests you",
+"example": "Learning to drive was a challenge."
+},
+{
+"word": "circumstance",
+"meaning": "a fact that affects a situation",
+"example": "Under these circumstances we must wait."
+},
+{
+"word": "cite",
+"meaning": "to mention something as an example or proof",
+"example": "The writer cites several studies."
+},
+{
+"word": "clarify",
+"meaning": "to make something easier to understand",
+"example": "Could you clarify the last point?"
+},
+{
+"word": "coincide",
+"meaning": "to happen at the same time",
+"example": "The fair coincides with the holidays."
+},
+{
+"word": "collaborate",
+"meaning": "to work together",
+"example": "Scientists collaborate across countries."
+},
+{
+"word": "collapse",
+"meaning": "to fall down suddenly",
+"example": "The old bridge collapsed in the storm."
+},
+{
+"word": "commence",
+"meaning": "to begin",
+"example": "Classes commence in September."
+},
+{
+"word": "commodity",
+"meaning": "a product that is bought and sold",
+"example": "Oil is a valuable commodity."
+},
+{
+"word": "commute",
+"meaning": "to travel regularly to work",
+"example": "She commutes by train every day."
+},
+{
+"word": "compatible",
+"meaning": "able to exist or work together",
+"example": "The software is compatible with most phones."
+},
+{
+"word": "compel",
+"meaning": "to force someone to do something",
+"example": "The law compels drivers to wear seat belts."
+},
+{
+"word": "compensate",
+"meaning": "to pay for or balance something bad",
+"example": "Good pay compensates for the long hours."
+},
+{
+"word": "competent",
+"meaning": "able to do something well",
+"example": "We need a competent engineer."
+},
+{
+"word": "compile",
+"meaning": "to collect information into a list or report",
+"example": "She compiled a list of local shops."
+},
+{
+"word": "complement",
+"meaning": "to go well with something",
+"example": "The sauce complements the fish."
+},
+{
+"word": "complex",
+"meaning": "having many parts and hard to understand",
+"example": "The human brain is very complex."
+},
+{
+"word": "component",
+"meaning": "one part of a whole",
+"example": "Trust is a key component of teamwork."
+},
+{
+"word": "comprehensive",
+"meaning": "including everything that is needed",
+"example": "The guide is comprehensive and clear."
+},
+{
+"word": "comprise",
+"meaning": "to be made up of",
+"example": "The course comprises six units."
+},
+{
+"word": "compulsory",
+"meaning": "that must be done",
+"example": "Maths is compulsory at school."
+},
+{
+"word": "conceal",
+"meaning": "to hide something",
+"example": "He could not conceal his surprise."
+},
+{
+"word": "conceive",
+"meaning": "to think of a new idea",
+"example": "The plan was conceived ten years ago."
+},
+{
+"word": "concentrate",
+"meaning": "to give all your attention to something",
+"example": "It is hard to concentrate in a noisy room."
+},
+{
+"word": "concept",
+"meaning": "an idea",
+"example": "The concept of time differs between cultures."
+},
+{
+"word": "conclude",
+"meaning": "to decide after thinking about the facts",
+"example": "The study concluded that sleep is vital."
+},
+{
+"word": "concrete",
+"meaning": "clear and certain",
+"example": "We need concrete evidence."
+},
+{
+"word": "conduct",
+"meaning": "to organise and carry out",
+"example": "They conducted a survey of 500 people."
+},
+{
+"word": "confine",
+"meaning": "to keep within limits",
+"example": "The problem is not confined to cities."
+},
+{
+"word": "confirm",
+"meaning": "to show that something is true",
+"example": "Tests confirmed the result."
+},
+{
+"word": "conflict",
+"meaning": "a serious disagreement",
+"example": "There was a conflict over land."
+},
+{
+"word": "conform",
+"meaning": "to follow rules or customs",
+"example": "All toys must conform to safety rules."
+},
+{
+"word": "consequence",
+"meaning": "a result of an action",
+"example": "Pollution has serious consequences."
+},
+{
+"word": "conserve",
+"meaning": "to protect or use carefully",
+"example": "We must conserve water in summer."
+},
+{
+"word": "considerable",
+"meaning": "large or important",
+"example": "It took a considerable amount of time."
+},
+{
+"word": "consistent",
+"meaning": "always the same in quality or behaviour",
+"example": "Her work is consistent and careful."
+},
+{
+"word": "constitute",
+"meaning": "to form or be equal to",
+"example": "Women constitute half of the staff."
+},
+{
+"word": "constrain",
+"meaning": "to limit something",
+"example": "Growth is constrained by a lack of money."
+},
+{
+"word": "consume",
+"meaning": "to use, eat or drink",
+"example": "Cars consume a lot of fuel."
+},
+{
+"word": "contaminate",
+"meaning": "to make something dirty or harmful",
+"example": "Waste contaminated the river."
+},
+{
+"word": "contemporary",
+"meaning": "belonging to the present time",
+"example": "The gallery shows contemporary art."
+},
+{
+"word": "contradict",
+"meaning": "to say the opposite of something",
+"example": "The two reports contradict each other."
+},
+{
+"word": "contrast",
+"meaning": "a clear difference between things",
+"example": "There is a contrast between rich and poor areas."
+},
+{
+"word": "contribute",
+"meaning": "to help to cause or give to something",
+"example": "Trees contribute to clean air."
+},
+{
+"word": "controversial",
+"meaning": "causing a lot of disagreement",
+"example": "The new tax is controversial."
+},
+{
+"word": "convenient",
+"meaning": "easy to use or suitable",
+"example": "Online shopping is convenient."
+},
+{
+"word": "conventional",
+"meaning": "usual or traditional",
+"example": "Electric cars are quieter than conventional ones."
+},
+{
+"word": "convey",
+"meaning": "to communicate an idea or feeling",
+"example": "The painting conveys a sense of peace."
+},
+{
+"word": "convince",
+"meaning": "to make someone believe something",
+"example": "She convinced me to apply."
+},
+{
+"word": "cooperate",
+"meaning": "to work with others to reach a goal",
+"example": "Countries must cooperate on climate change."
+},
+{
+"word": "cope",
+"meaning": "to deal with a difficult situation",
+"example": "Some students cannot cope with stress."
+},
+{
+"word": "core",
+"meaning": "the most important part",
+"example": "Reading is a core skill."
+},
+{
+"word": "correspond",
+"meaning": "to match or be similar to",
+"example": "The numbers correspond to places on the map."
+},
+{
+"word": "counteract",
+"meaning": "to reduce a bad effect",
+"example": "Exercise counteracts the effects of sitting."
+},
+{
+"word": "crucial",
+"meaning": "extremely important",
+"example": "Water is crucial for life."
+},
+{
+"word": "cultivate",
+"meaning": "to grow crops or develop a skill",
+"example": "Farmers cultivate rice in this valley."
+},
+{
+"word": "curb",
+"meaning": "to control or limit something bad",
+"example": "The city wants to curb traffic."
+},
+{
+"word": "curriculum",
+"meaning": "the subjects taught at a school",
+"example": "Art is part of the curriculum."
+},
+{
+"word": "debate",
+"meaning": "a discussion with different opinions",
+"example": "There is a debate about homework."
+},
+{
+"word": "decade",
+"meaning": "a period of ten years",
+"example": "Prices doubled in a decade."
+},
+{
+"word": "decline",
+"meaning": "to become less or worse",
+"example": "The number of birds has declined."
+},
+{
+"word": "dedicate",
+"meaning": "to give time and effort to something",
+"example": "She dedicated her life to teaching."
+},
+{
+"word": "deficiency",
+"meaning": "a lack of something necessary",
+"example": "Iron deficiency makes people tired."
+},
+{
+"word": "deliberate",
+"meaning": "done on purpose",
+"example": "It was a deliberate decision."
+},
+{
+"word": "demonstrate",
+"meaning": "to show something clearly",
+"example": "The results demonstrate a clear trend."
+},
+{
+"word": "dense",
+"meaning": "crowded close together",
+"example": "Fog and dense forest slowed the climbers."
+},
+{
+"word": "deplete",
+"meaning": "to use up most of something",
+"example": "Fishing has depleted the sea."
+},
+{
+"word": "deprive",
+"meaning": "to stop someone having something",
+"example": "Noise deprives people of sleep."
+},
+{
+"word": "derive",
+"meaning": "to come from a source",
+"example": "Many English words derive from Latin."
+},
+{
+"word": "despite",
+"meaning": "without being stopped by",
+"example": "Despite the rain, the match went on."
+},
+{
+"word": "deteriorate",
+"meaning": "to become worse",
+"example": "His health began to deteriorate."
+},
+{
+"word": "detect",
+"meaning": "to notice or discover something",
+"example": "Dogs can detect certain smells."
+},
+{
+"word": "determine",
+"meaning": "to find out or decide",
+"example": "Experts tried to determine the cause."
+},
+{
+"word": "detrimental",
+"meaning": "harmful",
+"example": "Too much sugar is detrimental to teeth."
+},
+{
+"word": "devastate",
+"meaning": "to destroy or damage badly",
+"example": "The fire devastated the forest."
+},
+{
+"word": "deviate",
+"meaning": "to move away from the usual way",
+"example": "The bus deviated from its normal route."
+},
+{
+"word": "devise",
+"meaning": "to invent a plan or method",
+"example": "They devised a new way to save energy."
+},
+{
+"word": "devote",
+"meaning": "to give time or effort to something",
+"example": "He devotes an hour a day to reading."
+},
+{
+"word": "diminish",
+"meaning": "to become smaller or less",
+"example": "The pain slowly diminished."
+},
+{
+"word": "disclose",
+"meaning": "to make information known",
+"example": "The firm did not disclose its profits."
+},
+{
+"word": "discourage",
+"meaning": "to make someone less likely to act",
+"example": "High prices discourage tourists."
+},
+{
+"word": "discriminate",
+"meaning": "to treat a group unfairly",
+"example": "Employers must not discriminate by age."
+},
+{
+"word": "disperse",
+"meaning": "to spread over a wide area",
+"example": "Wind disperses the seeds."
+},
+{
+"word": "display",
+"meaning": "to show something",
+"example": "The shop displays local products."
+},
+{
+"word": "dispose",
+"meaning": "to get rid of something (with \"of\")",
+"example": "Dispose of old batteries safely."
+},
+{
+"word": "disrupt",
+"meaning": "to stop something continuing normally",
+"example": "Snow disrupted train services."
+},
+{
+"word": "distinct",
+"meaning": "clearly different",
+"example": "The island has a distinct culture."
+},
+{
+"word": "distinguish",
+"meaning": "to see the difference between things",
+"example": "It is hard to distinguish the twins."
+},
+{
+"word": "distort",
+"meaning": "to change something so it is not true",
+"example": "The graph distorts the facts."
+},
+{
+"word": "distribute",
+"meaning": "to give or share things out",
+"example": "Volunteers distributed food."
+},
+{
+"word": "diverse",
+"meaning": "including many different types",
+"example": "London has a diverse population."
+},
+{
+"word": "domestic",
+"meaning": "of the home or your own country",
+"example": "Domestic flights are often cheap."
+},
+{
+"word": "dominate",
+"meaning": "to be the most important or powerful",
+"example": "One company dominates the market."
+},
+{
+"word": "drastic",
+"meaning": "strong and sudden",
+"example": "The firm made drastic changes."
+},
+{
+"word": "drawback",
+"meaning": "a disadvantage",
+"example": "The main drawback is the cost."
+},
+{
+"word": "durable",
+"meaning": "strong and lasting a long time",
+"example": "Wool is a warm and durable material."
+},
+{
+"word": "dwell",
+"meaning": "to live in a place",
+"example": "Some animals dwell underground."
+},
+{
+"word": "dynamic",
+"meaning": "full of energy and change",
+"example": "It is a young and dynamic company."
+},
+{
+"word": "economical",
+"meaning": "using little money or fuel",
+"example": "Small cars are more economical."
+},
+{
+"word": "efficient",
+"meaning": "working well without waste",
+"example": "The new lights are very efficient."
+},
+{
+"word": "elaborate",
+"meaning": "having many detailed parts",
+"example": "The palace has an elaborate design."
+},
+{
+"word": "elderly",
+"meaning": "old (of people)",
+"example": "The bus is free for elderly people."
+},
+{
+"word": "eligible",
+"meaning": "allowed to do or receive something",
+"example": "Students are eligible for a discount."
+},
+{
+"word": "eliminate",
+"meaning": "to remove completely",
+"example": "The vaccine eliminated the disease."
+},
+{
+"word": "emerge",
+"meaning": "to appear or become known",
+"example": "New problems emerged during the test."
+},
+{
+"word": "emission",
+"meaning": "gas sent out into the air",
+"example": "Car emissions damage our lungs."
+},
+{
+"word": "emphasise",
+"meaning": "to show that something is important",
+"example": "The teacher emphasised good spelling."
+},
+{
+"word": "employ",
+"meaning": "to give someone a paid job",
+"example": "The hotel employs 200 people."
+},
+{
+"word": "enable",
+"meaning": "to make something possible",
+"example": "The internet enables people to work at home."
+},
+{
+"word": "encounter",
+"meaning": "to meet or experience something",
+"example": "We encountered a few difficulties."
+},
+{
+"word": "endangered",
+"meaning": "at risk of disappearing",
+"example": "Tigers are an endangered species."
+},
+{
+"word": "endure",
+"meaning": "to live through something difficult",
+"example": "The explorers endured extreme cold."
+},
+{
+"word": "enhance",
+"meaning": "to improve the quality of something",
+"example": "Music can enhance our mood."
+},
+{
+"word": "enormous",
+"meaning": "very large",
+"example": "The project had an enormous budget."
+},
+{
+"word": "ensure",
+"meaning": "to make certain",
+"example": "Please ensure that the door is locked."
+},
+{
+"word": "enterprise",
+"meaning": "a business or a new project",
+"example": "She runs a small family enterprise."
+},
+{
+"word": "enthusiasm",
+"meaning": "great interest and excitement",
+"example": "He spoke with enthusiasm about his trip."
+},
+{
+"word": "entitle",
+"meaning": "to give someone the right to something",
+"example": "The card entitles you to free entry."
+},
+{
+"word": "environment",
+"meaning": "the natural world or your surroundings",
+"example": "Plastic harms the environment."
+},
+{
+"word": "equivalent",
+"meaning": "equal in value or meaning",
+"example": "One mile is equivalent to 1.6 kilometres."
+},
+{
+"word": "erode",
+"meaning": "to wear away slowly",
+"example": "The sea is eroding the cliffs."
+},
+{
+"word": "establish",
+"meaning": "to start or create something",
+"example": "The university was established in 1850."
+},
+{
+"word": "estimate",
+"meaning": "to guess an amount using facts",
+"example": "Experts estimate that prices will rise."
+},
+{
+"word": "ethical",
+"meaning": "connected with what is right and wrong",
+"example": "Some shoppers choose ethical brands."
+},
+{
+"word": "evaluate",
+"meaning": "to judge how good something is",
+"example": "We evaluate the course every year."
+},
+{
+"word": "evident",
+"meaning": "easy to see",
+"example": "It is evident that the plan worked."
+},
+{
+"word": "evolve",
+"meaning": "to develop slowly over time",
+"example": "Languages evolve over centuries."
+},
+{
+"word": "exaggerate",
+"meaning": "to make something seem bigger than it is",
+"example": "The newspaper exaggerated the danger."
+},
+{
+"word": "exceed",
+"meaning": "to be more than",
+"example": "Costs must not exceed the budget."
+},
+{
+"word": "exclude",
+"meaning": "to leave out",
+"example": "The price excludes breakfast."
+},
+{
+"word": "exhaust",
+"meaning": "to use up completely or make very tired",
+"example": "The long walk exhausted us."
+},
+{
+"word": "exhibit",
+"meaning": "to show in public",
+"example": "The museum exhibits ancient tools."
+},
+{
+"word": "expand",
+"meaning": "to become larger",
+"example": "The company plans to expand abroad."
+},
+{
+"word": "expenditure",
+"meaning": "the amount of money spent",
+"example": "Public expenditure rose last year."
+},
+{
+"word": "exploit",
+"meaning": "to use something, sometimes unfairly",
+"example": "Some firms exploit their workers."
+},
+{
+"word": "expose",
+"meaning": "to leave without protection",
+"example": "Workers were exposed to dust."
+},
+{
+"word": "extend",
+"meaning": "to make longer or larger",
+"example": "The library extended its opening hours."
+},
+{
+"word": "extinct",
+"meaning": "no longer existing",
+"example": "Dinosaurs are extinct."
+},
+{
+"word": "extract",
+"meaning": "to take something out",
+"example": "They extract oil from the seeds."
+},
+{
+"word": "facilitate",
+"meaning": "to make something easier",
+"example": "Maps facilitate travel."
+},
+{
+"word": "factor",
+"meaning": "one of the things that cause a result",
+"example": "Cost was a major factor."
+},
+{
+"word": "feasible",
+"meaning": "possible to do",
+"example": "The plan is simple and feasible."
+},
+{
+"word": "fertile",
+"meaning": "good for growing plants",
+"example": "The river valley has fertile soil."
+},
+{
+"word": "finance",
+"meaning": "to provide money for something",
+"example": "The bank financed the new road."
+},
+{
+"word": "flexible",
+"meaning": "able to change easily",
+"example": "Many workers want flexible hours."
+},
+{
+"word": "flourish",
+"meaning": "to grow or develop well",
+"example": "Plants flourish in warm weather."
+},
+{
+"word": "fluctuate",
+"meaning": "to go up and down often",
+"example": "Oil prices fluctuate every month."
+},
+{
+"word": "forecast",
+"meaning": "to say what will probably happen",
+"example": "Experts forecast a hot summer."
+},
+{
+"word": "foster",
+"meaning": "to encourage something to develop",
+"example": "Sport fosters team spirit."
+},
+{
+"word": "fragile",
+"meaning": "easily broken or damaged",
+"example": "The old vase is fragile."
+},
+{
+"word": "fulfil",
+"meaning": "to do what is needed or promised",
+"example": "He fulfilled his dream of flying."
+},
+{
+"word": "fundamental",
+"meaning": "basic and very important",
+"example": "Clean water is a fundamental need."
+},
+{
+"word": "generate",
+"meaning": "to produce",
+"example": "Wind farms generate electricity."
+},
+{
+"word": "genuine",
+"meaning": "real and honest",
+"example": "She showed genuine interest."
+},
+{
+"word": "gradual",
+"meaning": "happening slowly",
+"example": "There was a gradual rise in sales."
+},
+{
+"word": "grant",
+"meaning": "money given for a special purpose",
+"example": "He won a grant to study abroad."
+},
+{
+"word": "guarantee",
+"meaning": "to promise that something will happen",
+"example": "Hard work does not guarantee success."
+},
+{
+"word": "habitat",
+"meaning": "the natural home of an animal or plant",
+"example": "Building roads destroys wildlife habitats."
+},
+{
+"word": "halt",
+"meaning": "to stop",
+"example": "Rain halted the building work."
+},
+{
+"word": "hazard",
+"meaning": "something dangerous",
+"example": "Ice on the road is a hazard."
+},
+{
+"word": "heritage",
+"meaning": "things from the past worth keeping",
+"example": "The old town is part of our heritage."
+},
+{
+"word": "hesitate",
+"meaning": "to wait before acting because you are unsure",
+"example": "Do not hesitate to ask for help."
+},
+{
+"word": "highlight",
+"meaning": "to draw attention to something",
+"example": "The report highlights two problems."
+},
+{
+"word": "hinder",
+"meaning": "to make progress difficult",
+"example": "Bad weather hindered the search."
+},
+{
+"word": "hypothesis",
+"meaning": "an idea that has not been proved yet",
+"example": "The experiment tested his hypothesis."
+},
+{
+"word": "identical",
+"meaning": "exactly the same",
+"example": "The two copies look identical."
+},
+{
+"word": "identify",
+"meaning": "to recognise or name something",
+"example": "The study identified three causes."
+},
+{
+"word": "illustrate",
+"meaning": "to explain with examples or pictures",
+"example": "The chart illustrates the trend."
+},
+{
+"word": "immense",
+"meaning": "extremely large",
+"example": "The desert covers an immense area."
+},
+{
+"word": "impact",
+"meaning": "a strong effect",
+"example": "Social media has an impact on sleep."
+},
+{
+"word": "implement",
+"meaning": "to put a plan into action",
+"example": "The school implemented new rules."
+},
+{
+"word": "imply",
+"meaning": "to suggest without saying directly",
+"example": "His smile implied that he agreed."
+},
+{
+"word": "impose",
+"meaning": "to force a rule or tax on people",
+"example": "The council imposed a parking charge."
+},
+{
+"word": "impress",
+"meaning": "to make someone admire you",
+"example": "Her answer impressed the judges."
+},
+{
+"word": "incentive",
+"meaning": "something that encourages you to act",
+"example": "Tax cuts are an incentive to save."
+},
+{
+"word": "incorporate",
+"meaning": "to include as part of something",
+"example": "The design incorporates solar panels."
+},
+{
+"word": "indicate",
+"meaning": "to show or point out",
+"example": "Surveys indicate a change in habits."
+},
+{
+"word": "indigenous",
+"meaning": "coming naturally from a place",
+"example": "These plants are indigenous to Chile."
+},
+{
+"word": "inevitable",
+"meaning": "certain to happen",
+"example": "Some mistakes are inevitable."
+},
+{
+"word": "infer",
+"meaning": "to work out from facts",
+"example": "We can infer his age from the letter."
+},
+{
+"word": "influence",
+"meaning": "to have an effect on someone",
+"example": "Friends influence our choices."
+},
+{
+"word": "infrastructure",
+"meaning": "basic systems such as roads and power",
+"example": "The country invested in infrastructure."
+},
+{
+"word": "inhabit",
+"meaning": "to live in a place",
+"example": "Few people inhabit the island."
+},
+{
+"word": "inherent",
+"meaning": "being a natural part of something",
+"example": "Every sport has inherent risks."
+},
+{
+"word": "inhibit",
+"meaning": "to slow down or prevent",
+"example": "Cold weather inhibits plant growth."
+},
+{
+"word": "initial",
+"meaning": "at the beginning",
+"example": "My initial reaction was surprise."
+},
+{
+"word": "initiative",
+"meaning": "a new plan to solve a problem",
+"example": "The recycling initiative was a success."
+},
+{
+"word": "innovation",
+"meaning": "a new idea or method",
+"example": "Innovation helps companies grow."
+},
+{
+"word": "insight",
+"meaning": "a clear understanding of something",
+"example": "The book gives an insight into city life."
+},
+{
+"word": "inspect",
+"meaning": "to look at carefully",
+"example": "Officials inspected the kitchen."
+},
+{
+"word": "inspire",
+"meaning": "to make someone want to do something",
+"example": "The speech inspired many students."
+},
+{
+"word": "install",
+"meaning": "to put equipment in place",
+"example": "They installed cameras in the street."
+},
+{
+"word": "integrate",
+"meaning": "to join so that parts work together",
+"example": "The app integrates maps and timetables."
+},
+{
+"word": "intense",
+"meaning": "very strong",
+"example": "The heat was intense at midday."
+},
+{
+"word": "interact",
+"meaning": "to communicate or have an effect on each other",
+"example": "Children learn when they interact."
+},
+{
+"word": "interpret",
+"meaning": "to explain the meaning of something",
+"example": "People interpret the poem in many ways."
+},
+{
+"word": "intervene",
+"meaning": "to act in order to change a situation",
+"example": "The police intervened to stop the fight."
+},
+{
+"word": "investigate",
+"meaning": "to try to find the facts",
+"example": "Scientists investigated the cause."
+},
+{
+"word": "isolated",
+"meaning": "far away or alone",
+"example": "They live in an isolated village."
+},
+{
+"word": "justify",
+"meaning": "to give a good reason for something",
+"example": "How can you justify the high price?"
+},
+{
+"word": "labour",
+"meaning": "work, or workers as a group",
+"example": "The firm cut its labour costs."
+},
+{
+"word": "launch",
+"meaning": "to start or introduce something new",
+"example": "The company launched a new phone."
+},
+{
+"word": "legislation",
+"meaning": "laws made by a government",
+"example": "New legislation protects workers."
+},
+{
+"word": "leisure",
+"meaning": "free time",
+"example": "Reading is my favourite leisure activity."
+},
+{
+"word": "likelihood",
+"meaning": "how probable something is",
+"example": "Exercise lowers the likelihood of illness."
+},
+{
+"word": "literacy",
+"meaning": "the ability to read and write",
+"example": "The literacy rate has improved."
+},
+{
+"word": "maintain",
+"meaning": "to keep in good condition or at the same level",
+"example": "It costs a lot to maintain the roads."
+},
+{
+"word": "mandatory",
+"meaning": "required by law or rules",
+"example": "Helmets are mandatory on this site."
+},
+{
+"word": "manipulate",
+"meaning": "to control in a clever or unfair way",
+"example": "Adverts can manipulate our choices."
+},
+{
+"word": "marginal",
+"meaning": "very small",
+"example": "There was only a marginal difference."
+},
+{
+"word": "mature",
+"meaning": "fully grown or sensible",
+"example": "She is mature for her age."
+},
+{
+"word": "merit",
+"meaning": "a good quality",
+"example": "Both plans have merit."
+},
+{
+"word": "migrate",
+"meaning": "to move from one place to another",
+"example": "Birds migrate south in winter."
+},
+{
+"word": "minimise",
+"meaning": "to make as small as possible",
+"example": "Planning minimises the risk of delay."
+},
+{
+"word": "misleading",
+"meaning": "giving a wrong idea",
+"example": "The headline was misleading."
+},
+{
+"word": "modify",
+"meaning": "to change slightly",
+"example": "Engineers modified the engine."
+},
+{
+"word": "monitor",
+"meaning": "to watch carefully over time",
+"example": "Nurses monitor the patients at night."
+},
+{
+"word": "motivate",
+"meaning": "to make someone want to work or act",
+"example": "Praise motivates children."
+},
+{
+"word": "mutual",
+"meaning": "shared by two or more people",
+"example": "Friendship needs mutual respect."
+},
+{
+"word": "negligible",
+"meaning": "too small to matter",
+"example": "The cost was negligible."
+},
+{
+"word": "neutral",
+"meaning": "not supporting either side",
+"example": "The judge must stay neutral."
+},
+{
+"word": "norm",
+"meaning": "something usual or expected",
+"example": "Working from home is now the norm."
+},
+{
+"word": "notion",
+"meaning": "an idea or belief",
+"example": "He rejected the notion that money is everything."
+},
+{
+"word": "nutrition",
+"meaning": "food and its effect on health",
+"example": "Good nutrition helps children learn."
+},
+{
+"word": "objective",
+"meaning": "something you plan to achieve",
+"example": "Our main objective is to cut waste."
+},
+{
+"word": "oblige",
+"meaning": "to make someone do something by law or duty",
+"example": "Employers are obliged to pay for training."
+},
+{
+"word": "obsolete",
+"meaning": "no longer used because there is something newer",
+"example": "Typewriters are now obsolete."
+},
+{
+"word": "obstacle",
+"meaning": "something that makes progress hard",
+"example": "Lack of money is the main obstacle."
+},
+{
+"word": "obtain",
+"meaning": "to get",
+"example": "You can obtain a form online."
+},
+{
+"word": "obvious",
+"meaning": "easy to see or understand",
+"example": "The answer was obvious."
+},
+{
+"word": "occupy",
+"meaning": "to fill a space or time",
+"example": "The desk occupies half the room."
+},
+{
+"word": "occur",
+"meaning": "to happen",
+"example": "Most accidents occur at home."
+},
+{
+"word": "offset",
+"meaning": "to balance one effect with another",
+"example": "Higher sales offset the extra costs."
+},
+{
+"word": "ongoing",
+"meaning": "still happening",
+"example": "The research is ongoing."
+},
+{
+"word": "optimistic",
+"meaning": "expecting good things to happen",
+"example": "She is optimistic about the future."
+},
+{
+"word": "option",
+"meaning": "a choice",
+"example": "You have the option to study online."
+},
+{
+"word": "outcome",
+"meaning": "a result",
+"example": "The outcome of the vote was clear."
+},
+{
+"word": "outweigh",
+"meaning": "to be more important than",
+"example": "The benefits outweigh the risks."
+},
+{
+"word": "overcome",
+"meaning": "to succeed in dealing with a problem",
+"example": "He overcame his fear of flying."
+},
+{
+"word": "overlook",
+"meaning": "to fail to notice something",
+"example": "Do not overlook small details."
+},
+{
+"word": "perceive",
+"meaning": "to see or understand in a certain way",
+"example": "Teenagers perceive risk differently."
+},
+{
+"word": "permanent",
+"meaning": "lasting for ever or a long time",
+"example": "She found a permanent job."
+},
+{
+"word": "persist",
+"meaning": "to continue to exist or try",
+"example": "If the pain persists, see a doctor."
+},
+{
+"word": "perspective",
+"meaning": "a way of thinking about something",
+"example": "Travel gives you a new perspective."
+},
+{
+"word": "pessimistic",
+"meaning": "expecting bad things to happen",
+"example": "He is pessimistic about the economy."
+},
+{
+"word": "phenomenon",
+"meaning": "something that exists and can be studied",
+"example": "Rainbows are a natural phenomenon."
+},
+{
+"word": "policy",
+"meaning": "an official plan of action",
+"example": "The school has a strict policy on phones."
+},
+{
+"word": "portion",
+"meaning": "a part or amount",
+"example": "A large portion of the money goes on rent."
+},
+{
+"word": "possess",
+"meaning": "to have or own",
+"example": "She possesses great patience."
+},
+{
+"word": "potential",
+"meaning": "possible in the future",
+"example": "Solar power has great potential."
+},
+{
+"word": "precaution",
+"meaning": "something done to prevent danger",
+"example": "Take precautions against the sun."
+},
+{
+"word": "precede",
+"meaning": "to come before",
+"example": "A short talk preceded the film."
+},
+{
+"word": "precise",
+"meaning": "exact",
+"example": "We need precise measurements."
+},
+{
+"word": "predict",
+"meaning": "to say what will happen",
+"example": "It is hard to predict the weather."
+},
+{
+"word": "predominantly",
+"meaning": "mostly",
+"example": "The area is predominantly rural."
+},
+{
+"word": "preserve",
+"meaning": "to keep something in good condition",
+"example": "The town preserves its old buildings."
+},
+{
+"word": "prevalent",
+"meaning": "common in a place or time",
+"example": "Asthma is prevalent in big cities."
+},
+{
+"word": "primary",
+"meaning": "most important or first",
+"example": "Safety is our primary concern."
+},
+{
+"word": "priority",
+"meaning": "something more important than others",
+"example": "Health should be a priority."
+},
+{
+"word": "proficient",
+"meaning": "very good at something",
+"example": "He is proficient in three languages."
+},
+{
+"word": "profound",
+"meaning": "very great or deep",
+"example": "The book had a profound effect on me."
+},
+{
+"word": "prohibit",
+"meaning": "to forbid by law or rules",
+"example": "Smoking is prohibited in the building."
+},
+{
+"word": "prolong",
+"meaning": "to make something last longer",
+"example": "Good care prolongs the life of a car."
+},
+{
+"word": "prominent",
+"meaning": "important or easy to notice",
+"example": "She is a prominent scientist."
+},
+{
+"word": "promote",
+"meaning": "to encourage or support",
+"example": "The campaign promotes healthy eating."
+},
+{
+"word": "prompt",
+"meaning": "done without delay",
+"example": "Thank you for your prompt reply."
+},
+{
+"word": "proportion",
+"meaning": "a part of the whole",
+"example": "A large proportion of workers walk to work."
+},
+{
+"word": "prospect",
+"meaning": "the chance that something will happen",
+"example": "The job has good prospects."
+},
+{
+"word": "prosperous",
+"meaning": "rich and successful",
+"example": "Trade made the city prosperous."
+},
+{
+"word": "provoke",
+"meaning": "to cause a reaction",
+"example": "The article provoked a strong response."
+},
+{
+"word": "pursue",
+"meaning": "to try to achieve something",
+"example": "She left to pursue a career in law."
+},
+{
+"word": "radical",
+"meaning": "very great or new",
+"example": "The school needs radical change."
+},
+{
+"word": "reassure",
+"meaning": "to make someone less worried",
+"example": "The doctor reassured the patient."
+},
+{
+"word": "recede",
+"meaning": "to move back or become less",
+"example": "The flood water slowly receded."
+},
+{
+"word": "recruit",
+"meaning": "to find new people for a job",
+"example": "The company recruits graduates."
+},
+{
+"word": "reinforce",
+"meaning": "to make stronger",
+"example": "The walls were reinforced with steel."
+},
+{
+"word": "reject",
+"meaning": "to refuse to accept",
+"example": "The council rejected the plan."
+},
+{
+"word": "relevant",
+"meaning": "connected with the subject",
+"example": "Include only relevant information."
+},
+{
+"word": "reliable",
+"meaning": "able to be trusted",
+"example": "The train service is reliable."
+},
+{
+"word": "reluctant",
+"meaning": "not wanting to do something",
+"example": "He was reluctant to speak in public."
+},
+{
+"word": "remedy",
+"meaning": "a way to solve a problem or cure an illness",
+"example": "Honey is an old remedy for a cough."
+},
+{
+"word": "remote",
+"meaning": "far from towns",
+"example": "They visited a remote mountain village."
+},
+{
+"word": "renewable",
+"meaning": "that can be replaced naturally",
+"example": "Wind is a renewable source of energy."
+},
+{
+"word": "renowned",
+"meaning": "famous for something",
+"example": "The city is renowned for its food."
+},
+{
+"word": "replicate",
+"meaning": "to do or make again in the same way",
+"example": "Others could not replicate the test."
+},
+{
+"word": "reputation",
+"meaning": "what people think of someone",
+"example": "The school has a good reputation."
+},
+{
+"word": "reside",
+"meaning": "to live in a place",
+"example": "Most students reside on campus."
+},
+{
+"word": "resilient",
+"meaning": "able to recover quickly",
+"example": "Children are often resilient."
+},
+{
+"word": "resist",
+"meaning": "to fight against or refuse",
+"example": "Some plants resist disease."
+},
+{
+"word": "resolve",
+"meaning": "to find a solution",
+"example": "They resolved the problem quickly."
+},
+{
+"word": "restore",
+"meaning": "to return to a good condition",
+"example": "Workers restored the old church."
+},
+{
+"word": "restrict",
+"meaning": "to limit",
+"example": "The road is restricted to buses."
+},
+{
+"word": "retain",
+"meaning": "to keep",
+"example": "The company wants to retain its staff."
+},
+{
+"word": "reveal",
+"meaning": "to make something known",
+"example": "The survey revealed a surprising fact."
+},
+{
+"word": "reverse",
+"meaning": "to change to the opposite",
+"example": "The government reversed its decision."
+},
+{
+"word": "rigid",
+"meaning": "not able to bend or change",
+"example": "The rules are too rigid."
+},
+{
+"word": "rural",
+"meaning": "of the countryside",
+"example": "Rural schools are often small."
+},
+{
+"word": "scarce",
+"meaning": "not enough, hard to find",
+"example": "Water is scarce in the desert."
+},
+{
+"word": "sedentary",
+"meaning": "involving a lot of sitting",
+"example": "A sedentary job can harm your health."
+},
+{
+"word": "shortage",
+"meaning": "a lack of something needed",
+"example": "There is a shortage of nurses."
+},
+{
+"word": "significant",
+"meaning": "large or important",
+"example": "There was a significant rise in sales."
+},
+{
+"word": "simulate",
+"meaning": "to copy a real situation",
+"example": "The machine simulates a flight."
+},
+{
+"word": "simultaneously",
+"meaning": "at the same time",
+"example": "The film opened simultaneously in ten cities."
+},
+{
+"word": "sceptical",
+"meaning": "having doubts",
+"example": "Many people were sceptical about the idea."
+},
+{
+"word": "sophisticated",
+"meaning": "advanced and complex",
+"example": "The phone has a sophisticated camera."
+},
+{
+"word": "specify",
+"meaning": "to state clearly",
+"example": "Please specify the date and time."
+},
+{
+"word": "stable",
+"meaning": "not likely to change",
+"example": "Prices have been stable this year."
+},
+{
+"word": "stimulate",
+"meaning": "to make more active",
+"example": "Games stimulate the brain."
+},
+{
+"word": "strategy",
+"meaning": "a plan to reach a goal",
+"example": "We need a new strategy."
+},
+{
+"word": "strive",
+"meaning": "to try very hard",
+"example": "We strive to improve our service."
+},
+{
+"word": "subsequent",
+"meaning": "coming after",
+"example": "Subsequent tests gave the same result."
+},
+{
+"word": "subsidy",
+"meaning": "money from the government to lower costs",
+"example": "Farmers receive a subsidy."
+},
+{
+"word": "substantial",
+"meaning": "large in amount",
+"example": "She saved a substantial sum of money."
+},
+{
+"word": "substitute",
+"meaning": "to use one thing instead of another",
+"example": "You can substitute oil for butter."
+},
+{
+"word": "subtle",
+"meaning": "not easy to notice",
+"example": "There is a subtle difference in taste."
+},
+{
+"word": "sufficient",
+"meaning": "enough",
+"example": "We have sufficient time to finish."
+},
+{
+"word": "surpass",
+"meaning": "to be better or more than",
+"example": "Sales surpassed our hopes."
+},
+{
+"word": "susceptible",
+"meaning": "easily affected by something",
+"example": "Young plants are susceptible to frost."
+},
+{
+"word": "sustain",
+"meaning": "to keep something going",
+"example": "It is hard to sustain high growth."
+},
+{
+"word": "sustainable",
+"meaning": "able to continue without harming nature",
+"example": "We need sustainable farming."
+},
+{
+"word": "tackle",
+"meaning": "to try to deal with a problem",
+"example": "The city must tackle pollution."
+},
+{
+"word": "tangible",
+"meaning": "real and able to be seen",
+"example": "The project brought tangible benefits."
+},
+{
+"word": "tedious",
+"meaning": "long and boring",
+"example": "Filling in forms is tedious."
+},
+{
+"word": "temporary",
+"meaning": "lasting for a short time",
+"example": "He found a temporary job."
+},
+{
+"word": "tendency",
+"meaning": "a way that something often happens",
+"example": "Prices have a tendency to rise."
+},
+{
+"word": "thorough",
+"meaning": "careful and complete",
+"example": "The police made a thorough search."
+},
+{
+"word": "thrive",
+"meaning": "to grow and be successful",
+"example": "Small shops thrive in this street."
+},
+{
+"word": "tolerate",
+"meaning": "to accept something you do not like",
+"example": "Some plants tolerate dry soil."
+},
+{
+"word": "transform",
+"meaning": "to change completely",
+"example": "Computers transformed office work."
+},
+{
+"word": "transition",
+"meaning": "a change from one state to another",
+"example": "The transition to adult life can be hard."
+},
+{
+"word": "transmit",
+"meaning": "to send or pass on",
+"example": "Mosquitoes transmit disease."
+},
+{
+"word": "transparent",
+"meaning": "clear, easy to see through or understand",
+"example": "The rules should be transparent."
+},
+{
+"word": "trend",
+"meaning": "a general direction of change",
+"example": "There is a trend towards smaller families."
+},
+{
+"word": "trigger",
+"meaning": "to cause something to start",
+"example": "Dust can trigger asthma."
+},
+{
+"word": "undergo",
+"meaning": "to experience a change or process",
+"example": "The city underwent rapid growth."
+},
+{
+"word": "undermine",
+"meaning": "to make weaker",
+"example": "Lies undermine trust."
+},
+{
+"word": "undertake",
+"meaning": "to agree to do a task",
+"example": "She undertook a study of local birds."
+},
+{
+"word": "uniform",
+"meaning": "the same everywhere",
+"example": "The bottles are of uniform size."
+},
+{
+"word": "unique",
+"meaning": "the only one of its kind",
+"example": "Each fingerprint is unique."
+},
+{
+"word": "unprecedented",
+"meaning": "never having happened before",
+"example": "The storm caused unprecedented damage."
+},
+{
+"word": "urban",
+"meaning": "of a town or city",
+"example": "Urban areas are growing fast."
+},
+{
+"word": "utilise",
+"meaning": "to use for a purpose",
+"example": "The school utilises new technology."
+},
+{
+"word": "vague",
+"meaning": "not clear",
+"example": "His answer was vague."
+},
+{
+"word": "valid",
+"meaning": "based on good reasons or officially accepted",
+"example": "You need a valid passport."
+},
+{
+"word": "vary",
+"meaning": "to be different",
+"example": "Prices vary from shop to shop."
+},
+{
+"word": "versatile",
+"meaning": "able to be used in many ways",
+"example": "Rice is a versatile food."
+},
+{
+"word": "viable",
+"meaning": "able to succeed",
+"example": "The business is no longer viable."
+},
+{
+"word": "vibrant",
+"meaning": "full of life and energy",
+"example": "The city has a vibrant market."
+},
+{
+"word": "vital",
+"meaning": "extremely important",
+"example": "Sleep is vital for health."
+},
+{
+"word": "vulnerable",
+"meaning": "easily hurt or harmed",
+"example": "Old people are vulnerable in cold weather."
+},
+{
+"word": "welfare",
+"meaning": "health, comfort and happiness",
+"example": "The charity works for animal welfare."
+},
+{
+"word": "widespread",
+"meaning": "happening in many places",
+"example": "There is widespread support for the plan."
+},
+{
+"word": "withdraw",
+"meaning": "to take out or take back",
+"example": "She withdrew some money from the bank."
+},
+{
+"word": "withstand",
+"meaning": "to be strong enough not to be harmed",
+"example": "The house can withstand earthquakes."
+}
+]
+}
