@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-005-S1",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 5,
+  "sectionNumber": 1,
+  "title": "Keeping Fit in Oakdale",
+  "difficulty": "easy",
+  "texts": [
+    {
+      "title": "Text A: Oakdale Fitness Club, Membership Options",
+      "paragraphs": [
+        { "label": "A", "text": "STANDARD MEMBERSHIP: £38 per month. Unlimited use of the gym, the swimming pool and the sauna, seven days a week from 6.00 am to 10.00 pm. Includes one free personal training session in your first month.\n\nOFF-PEAK MEMBERSHIP: £26 per month. Use of all facilities Monday to Friday between 10.00 am and 4.00 pm only. A good choice for shift workers and retired people.\n\nSTUDENT MEMBERSHIP: £22 per month. Same access as standard membership. Proof of full-time study is required.\n\nJOINING: There is a joining fee of £20, which is waived if you sign up during the first week of January. All members must attend a compulsory 30-minute induction, which can be booked at the front desk.\n\nCANCELLATION: You may cancel at any time by giving two weeks' notice in writing. Memberships can be frozen for up to three months if you are ill or travelling, but evidence is required.\n\nGUESTS: Each member may bring one guest per month free of charge. Further visits cost £8 per guest." }
+      ]
+    },
+    {
+      "title": "Text B: Swimming Pool Timetable, Oakdale Leisure Centre",
+      "paragraphs": [
+        { "label": "B", "text": "LANE SWIMMING: Monday to Friday, 6.30 am to 8.30 am and 12.00 noon to 2.00 pm. Three lanes are reserved for fast swimmers, two for medium and one for slow. Please choose the lane that suits your speed.\n\nFAMILY SESSIONS: Saturdays and Sundays, 10.00 am to 12.00 noon. Children under eight must be accompanied in the water by an adult. Inflatable toys are allowed during this session only.\n\nADULT LESSONS: Tuesday evenings, 7.00 pm to 8.00 pm. Six-week courses cost £48. Beginners are very welcome, and all equipment is provided.\n\nAQUA AEROBICS: Wednesday and Friday at 10.00 am. £5 per class, or free for members of the Leisure Centre's Gold Card scheme.\n\nPLEASE NOTE: The pool will be closed on the first Monday of each month for cleaning. All swimmers must wear a swimming cap. Caps can be purchased at reception for £2.50." }
+      ]
+    },
+    {
+      "title": "Text C: Sunrise Yoga Studio",
+      "paragraphs": [
+        { "label": "C", "text": "WELCOME TO SUNRISE: Our friendly studio offers yoga for all ages and levels. Whether you are completely new to yoga or have been practising for years, we have a class for you.\n\nBEGINNERS: Mondays and Thursdays at 6.30 pm. A gentle introduction to the basic positions. Please bring a mat; if you do not have one, you may hire one for £1.\n\nFLOW: Tuesdays at 7.30 pm and Saturdays at 9.00 am. A faster class for those with some experience.\n\nRELAXATION: Fridays at 5.30 pm. A calm, slow class with breathing exercises, ideal for relieving stress after a hard week.\n\nPRICES: A single class is £9. A pass for ten classes costs £70 and is valid for three months. The first class is free for new customers.\n\nBOOKING: Classes are small, with a maximum of fifteen people, so booking in advance is essential. Please arrive five minutes early, as latecomers cannot be admitted once the class has begun. Cancellations must be made at least 12 hours before the class, or you will be charged in full." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Which text mentions the following? Write the correct letter, A, B or C.",
+      "questions": [
+        { "number": 1, "text": "a reduced price for people who are studying", "answer": ["A"], "explanation": "Student membership." },
+        { "number": 2, "text": "a first session without charge", "answer": ["C"], "explanation": "The first class is free for new customers." },
+        { "number": 3, "text": "an item that must be worn in the water", "answer": ["B"], "explanation": "A swimming cap." },
+        { "number": 4, "text": "a charge for hiring equipment", "answer": ["C"], "explanation": "Mats can be hired for £1." },
+        { "number": 5, "text": "the time that must be given before ending an arrangement", "answer": ["A"], "explanation": "Two weeks' notice to cancel membership." },
+        { "number": 6, "text": "a rule about children being supervised", "answer": ["B"], "explanation": "Children under eight must be accompanied by an adult." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the texts? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 7, "text": "Off-peak members can use the facilities at weekends.", "answer": ["FALSE"], "explanation": "Off-peak is Monday to Friday only." },
+        { "number": 8, "text": "The swimming pool is open for lane swimming on Saturday mornings.", "answer": ["FALSE"], "explanation": "Lane swimming is Monday to Friday; Saturday morning is a family session." },
+        { "number": 9, "text": "Yoga mats can be bought at Sunrise Yoga Studio.", "answer": ["NOT GIVEN"], "explanation": "Only mat hire is mentioned; buying a mat is not." },
+        { "number": 10, "text": "Students who arrive late for a yoga class may join in after the start.", "answer": ["FALSE"], "explanation": "Latecomers cannot be admitted." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 11, "text": "How much is the joining fee at the fitness club?", "answer": ["£20", "20", "20 pounds"], "explanation": "Text A." },
+        { "number": 12, "text": "How long is the compulsory induction at the fitness club?", "answer": ["30 minutes", "thirty minutes", "30-minute"], "explanation": "Text A." },
+        { "number": 13, "text": "On which evening are adult swimming lessons held?", "answer": ["Tuesday", "Tuesdays"], "explanation": "Text B." },
+        { "number": 14, "text": "What is the maximum number of people in a yoga class?", "answer": ["15", "fifteen"], "explanation": "Text C." }
+      ]
+    }
+  ]
+}

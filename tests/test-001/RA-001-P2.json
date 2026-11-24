@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-001-P2",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 1,
+  "passageNumber": 2,
+  "title": "Farming Upwards",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "By 2050 the world's population is expected to approach ten billion, and the United Nations estimates that about two-thirds of people will live in cities. At the same time, farmland is being lost to erosion, urban expansion and climate change. Against this background, an idea once confined to science fiction has moved onto factory floors and into disused warehouses: growing crops in stacked layers indoors, a method known as vertical farming." },
+    { "label": "B", "text": "The concept is generally credited to Dickson Despommier, a professor of environmental health at Columbia University, who in 1999 set his students a challenge: could they feed 50,000 people using only the rooftops of Manhattan? Calculations showed that rooftop gardens could meet only a fraction of that need, so the class began to explore multi-storey indoor farms instead. Although no skyscraper farm of the kind Despommier imagined has been built, the thinking led directly to the modern industry." },
+    { "label": "C", "text": "In a vertical farm, plants grow in trays stacked up to ten metres high, usually without soil. Instead, their roots are bathed in nutrient-rich water, a technique called hydroponics, or sprayed with a fine mist, known as aeroponics. LED lights, tuned to the wavelengths that plants use most efficiently, replace the sun, and computers monitor temperature, humidity and carbon dioxide levels, adjusting them continuously. Because every variable is controlled, crops can be harvested within weeks, and growers can produce many harvests a year, regardless of the season outside." },
+    { "label": "D", "text": "The most frequently cited advantage is the saving of water. Because the water in a closed system is recycled, vertical farms may use up to 95 per cent less than conventional agriculture. They need no pesticides, since insects cannot easily enter a sealed building, and there is no agricultural run-off to pollute rivers. Moreover, farms can be located in the very cities where the food is eaten, reducing the distance that lettuce, herbs and other perishable products must travel, and with it the waste that occurs along the way." },
+    { "label": "E", "text": "But the technology has drawbacks, and the most serious is energy. Lighting and climate control consume vast quantities of electricity, which in many countries still comes from burning fossil fuels. Some analysts have calculated that the carbon footprint of a lettuce grown indoors can exceed that of one grown in a field and trucked hundreds of kilometres, unless the farm runs on renewable power. High construction costs add to the difficulty, and several well-known companies have closed down in recent years after failing to make a profit." },
+    { "label": "F", "text": "Because of these costs, the crops grown in vertical farms are so far limited to leafy greens, herbs and a few soft fruits, such as strawberries, which sell at high prices relative to their weight. Staple foods such as wheat, rice and potatoes, which supply most of the world's calories, are not economical to grow in this way, as they need far more light and space per kilogram of food. Researchers in Japan and the Netherlands are experimenting with dwarf varieties of wheat that mature in less than half the normal time, but these remain at an experimental stage." },
+    { "label": "G", "text": "Supporters therefore argue that vertical farms should be seen as a complement to, rather than a replacement for, traditional agriculture. In places where land and fresh water are scarce, such as Singapore, which imports over 90 per cent of its food, or the countries of the Gulf, they may offer valuable food security. Elsewhere, their role may be to supply fresh produce to city markets, leaving fields free for staple crops, or even for restoring forests and wetlands. Whether they will fulfil their early promise depends largely on whether the price of clean energy continues to fall." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_headings",
+      "instruction": "The passage has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number, i-viii. (Paragraph A is not tested.)",
+      "headings": {
+        "i": "Government plans to reduce food imports",
+        "ii": "How the system works",
+        "iii": "The origin of the concept",
+        "iv": "A solution already adopted worldwide",
+        "v": "Limits on what can be grown",
+        "vi": "The main obstacle to profit",
+        "vii": "Environmental and practical benefits",
+        "viii": "A supporting role rather than a leading one"
+      },
+      "questions": [
+        { "number": 14, "text": "Paragraph B", "answer": ["iii"], "explanation": "Describes Despommier's class project." },
+        { "number": 15, "text": "Paragraph C", "answer": ["ii"], "explanation": "Describes trays, nutrients, lighting and computers." },
+        { "number": 16, "text": "Paragraph D", "answer": ["vii"], "explanation": "Water saving, no pesticides, shorter transport." },
+        { "number": 17, "text": "Paragraph E", "answer": ["vi"], "explanation": "Energy and construction costs, closures." },
+        { "number": 18, "text": "Paragraph F", "answer": ["v"], "explanation": "Only leafy greens, herbs and soft fruits are economical." },
+        { "number": 19, "text": "Paragraph G", "answer": ["viii"], "explanation": "Vertical farms as a complement to traditional farming." }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 20, "text": "Rooftop gardens in Manhattan could provide enough food for 50,000 people.", "answer": ["NO"], "explanation": "Calculations showed they could meet only a fraction of the need." },
+        { "number": 21, "text": "Lettuce grown in a vertical farm always has a lower carbon footprint than lettuce grown in a field.", "answer": ["NO"], "explanation": "It can be higher unless the farm uses renewable power." },
+        { "number": 22, "text": "Commercial wheat production in vertical farms is likely within the next five years.", "answer": ["NOT GIVEN"], "explanation": "Wheat is only at an experimental stage; no timescale is given." },
+        { "number": 23, "text": "The future success of vertical farming depends mainly on the cost of clean energy.", "answer": ["YES"], "explanation": "The last sentence states this." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "questions": [
+        { "number": 24, "text": "In a vertical farm, plants receive light from ______ rather than from the sun.", "answer": ["LED lights", "LEDs", "LED"], "explanation": "Paragraph C." },
+        { "number": 25, "text": "Insects cannot easily enter a sealed building, so vertical farms do not need ______.", "answer": ["pesticides"], "explanation": "Paragraph D." },
+        { "number": 26, "text": "Vertical farms mostly grow leafy greens, herbs and a few ______, such as strawberries.", "answer": ["soft fruits", "soft fruit"], "explanation": "Paragraph F." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-005-S3",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 5,
+  "sectionNumber": 3,
+  "title": "The Remarkable Story of the Bicycle",
+  "difficulty": "hard",
+  "texts": [
+    {
+      "title": "The Remarkable Story of the Bicycle",
+      "paragraphs": [
+        { "label": "A", "text": "The bicycle is one of the most efficient machines ever invented. A person riding one uses less energy to travel a given distance than almost any other animal or machine, and there are now believed to be more than a billion bicycles in the world. Yet the design that we know today took nearly a century to develop, and it passed through several unusual and sometimes dangerous stages on the way." },
+        { "label": "B", "text": "The story is usually said to begin in 1817, when a German baron, Karl von Drais, built a wooden machine with two wheels in a line, a steering handle and a seat. It had no pedals. The rider simply sat on the frame and pushed along the ground with his feet, rather like a child on a scooter today. Some historians link the invention to the terrible harvests of 1816, which killed so many horses through lack of food that people looked for an alternative form of transport. The machine became a fashionable toy for a short time, but pavements were crowded, and many towns banned riders from using them, so the craze soon faded." },
+        { "label": "C", "text": "Nothing much happened for almost fifty years, until French craftsmen in the 1860s attached pedals directly to the front wheel. This machine, known as the velocipede, was heavy, made of iron and wood, and had no springs. Since the roads were cobbled and rough, riders suffered so badly that it was nicknamed the 'boneshaker'. In the 1870s, designers tried to increase speed by making the front wheel larger, because a bigger wheel travelled further with each turn of the pedals. The result was the high-wheeler, or penny-farthing, which could be very fast, but riders sat nearly two metres above the ground and a sudden stop could throw them head first over the handlebars." },
+        { "label": "D", "text": "A breakthrough came in 1885, when an English inventor, John Kemp Starley, produced the Rover Safety Bicycle. It had two wheels of equal size, and the pedals drove the back wheel through a chain, so that the rider sat low and close to the ground. This basic layout has hardly changed since. Three years later, a Scottish vet, John Boyd Dunlop, invented an air-filled rubber tyre, which he had devised for his young son's tricycle in order to make it more comfortable on bumpy ground. Fitted to the safety bicycle, the pneumatic tyre made cycling both faster and far more comfortable, and turned it into a practical means of transport." },
+        { "label": "E", "text": "The 1890s saw a bicycle craze across Europe and North America. Cycling clubs were set up in towns and cities, and people took trips to the countryside at weekends. The effects on society were significant, especially for women, who for the first time were able to travel alone, without a chaperone and without depending on a horse or a carriage. Dress reform followed, as women adopted shorter skirts and looser clothing so that they could ride. In 1896, the American campaigner Susan B. Anthony declared that the bicycle had done more to free women than anything else in the world." },
+        { "label": "F", "text": "In the twentieth century, the rise of the motor car pushed the bicycle to the margins in most wealthy countries, and in many cities, roads were redesigned entirely for traffic. The exceptions were the Netherlands and Denmark, where cycling never lost its popularity. In the 1970s, rising oil prices and angry protests in the Netherlands about children killed in road accidents persuaded the government to build protected cycle lanes in towns. Cities such as Amsterdam and Copenhagen now have extensive networks of cycle paths, and a large share of journeys is made by bicycle, even in winter." },
+        { "label": "G", "text": "Today, the bicycle is making a comeback elsewhere. Many cities now operate bike-sharing schemes, in which people can pick up a bicycle at one docking station and leave it at another, and sales of electric bicycles, which have a small motor to assist the rider on hills, have risen sharply. Planners see bicycles as a way of reducing traffic jams and pollution, as well as of improving people's health. Not bad for a machine whose basic design is well over a hundred years old." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_headings",
+      "instruction": "The text has seven paragraphs, A-G. Choose the correct heading for paragraphs B-F from the list of headings below. Write the correct number, i-viii.",
+      "headings": {
+        "i": "A new design that made cycling safe and comfortable",
+        "ii": "Social change brought about by cycling",
+        "iii": "A machine without pedals",
+        "iv": "Why car makers opposed cycling",
+        "v": "Early attempts to add pedals",
+        "vi": "How some countries kept cycling alive",
+        "vii": "Racing and sporting success",
+        "viii": "The high cost of early bicycles"
+      },
+      "questions": [
+        { "number": 28, "text": "Paragraph B", "answer": ["iii"], "explanation": "Von Drais's pedal-less machine." },
+        { "number": 29, "text": "Paragraph C", "answer": ["v"], "explanation": "Velocipede and penny-farthing." },
+        { "number": 30, "text": "Paragraph D", "answer": ["i"], "explanation": "The safety bicycle and the pneumatic tyre." },
+        { "number": 31, "text": "Paragraph E", "answer": ["ii"], "explanation": "Effects on women and dress." },
+        { "number": 32, "text": "Paragraph F", "answer": ["vi"], "explanation": "The Netherlands and Denmark." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the text? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 33, "text": "Karl von Drais's machine had pedals.", "answer": ["FALSE"], "explanation": "Paragraph B: no pedals." },
+        { "number": 34, "text": "John Boyd Dunlop first developed the air-filled tyre for a bicycle.", "answer": ["FALSE"], "explanation": "Paragraph D: for his son's tricycle." },
+        { "number": 35, "text": "The wheels of Starley's safety bicycle were the same size.", "answer": ["TRUE"], "explanation": "Paragraph D." },
+        { "number": 36, "text": "Women were not allowed to join cycling clubs in the 1890s.", "answer": ["NOT GIVEN"], "explanation": "Nothing is said about club membership rules." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose ONE WORD ONLY from the text for each answer.",
+      "title": "The revival of cycling",
+      "questions": [
+        { "number": 37, "text": "In the 1970s, protests about road accidents in the ______ led to the building of cycle lanes.", "answer": ["Netherlands"], "explanation": "Paragraph F." },
+        { "number": 38, "text": "Cities such as Copenhagen now have large networks of cycle ______.", "answer": ["paths", "lanes"], "explanation": "Paragraph F." },
+        { "number": 39, "text": "Electric bicycles have a small ______ that helps the rider on hills.", "answer": ["motor"], "explanation": "Paragraph G." },
+        { "number": 40, "text": "Many cities now offer bike-______ schemes.", "answer": ["sharing"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-004-P2",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 4,
+  "passageNumber": 2,
+  "title": "Coral Reefs Under Pressure",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "Coral reefs cover less than one per cent of the ocean floor, yet they are home to roughly a quarter of all marine species, which makes them among the richest habitats on the planet. Fish, crabs, turtles and countless smaller creatures depend on them for food and shelter, and around the world hundreds of millions of people rely on reefs for fishing, tourism and protection from storm waves. The largest reef system of all, the Great Barrier Reef off the coast of Australia, stretches for more than two thousand kilometres and can be seen from space. Yet scientists now fear that many reefs may be lost within a few decades." },
+    { "label": "B", "text": "To understand the threat, it helps to know how a reef works. What looks like a rock is in fact the accumulated skeletons of millions of tiny animals called coral polyps, which build their hard homes from minerals in sea water. Inside the tissue of each polyp live microscopic algae. The relationship is one of mutual benefit. The coral provides the algae with a safe place to live and with chemicals they need, and in return the algae use sunlight to make sugars, which supply most of the coral's food. The algae also give coral its bright colours." },
+    { "label": "C", "text": "The partnership is delicate. When the water is only one or two degrees warmer than the normal summer maximum for several weeks, the algae begin to produce substances that are harmful to the coral, and the polyps respond by expelling them. Without its algae, the coral turns pale and its white skeleton shows through the transparent tissue, which is why the process is called bleaching. A bleached coral is not yet dead. If the water cools quickly enough, algae can return and the coral may recover, but if the heat continues, the coral starves, and the skeleton is soon covered in seaweed." },
+    { "label": "D", "text": "Mass bleaching was almost unknown before the 1980s. Since then it has become increasingly common, and the Great Barrier Reef has suffered several severe episodes, in 1998, 2002, 2016 and 2017. The last two came in consecutive years, leaving the corals no time to recover, and according to one major study, about half of the shallow-water corals in the reef were killed in this period, especially in the northern sections. As the oceans continue to warm, bleaching events are expected to become more frequent, and in some regions, they may soon occur almost every year." },
+    { "label": "E", "text": "Heat is not the only threat. The oceans absorb about a quarter of the carbon dioxide that humans release, and when the gas dissolves in sea water, it makes the water slightly more acidic, which makes it harder for corals to build their skeletons. Meanwhile, soil and fertiliser washed from farmland into rivers and out to sea can cloud the water and encourage the growth of seaweed, and outbreaks of a coral-eating starfish have damaged parts of the Great Barrier Reef. In many countries, overfishing and the use of explosives have also destroyed reefs directly. These local pressures weaken the coral, making it less able to survive a heat wave." },
+    { "label": "F", "text": "Scientists are looking for ways to help. In some parts of the world, coral species have been found that tolerate unusually high temperatures. In the Persian Gulf, for example, corals survive in water that would kill most others, and researchers are studying how they do it. Some teams are now trying to breed heat-tolerant corals in laboratories, hoping to plant them on damaged reefs, a technique known as assisted evolution. Others practise what is called coral gardening, in which small fragments are grown in underwater nurseries and later attached to damaged reefs. Both approaches show promise, but they are slow and expensive, and success cannot be guaranteed. Experiments with shading reefs, or making clouds above them whiter, have so far been tried only on a very small scale." },
+    { "label": "G", "text": "Most experts agree that local measures, such as reducing the pollution that runs off farmland and controlling fishing, can strengthen reefs and give them a better chance, but they cannot by themselves protect them against a warming ocean. The Intergovernmental Panel on Climate Change estimated in 2018 that if global warming were limited to 1.5 degrees Celsius above pre-industrial levels, between 70 and 90 per cent of warm-water coral reefs would be lost, and that at 2 degrees, virtually all would disappear. The long-term future of coral reefs, therefore, depends above all on reducing the greenhouse gas emissions that cause the oceans to warm." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "number": 14,
+          "text": "What point does the writer make in paragraph A?",
+          "options": {
+            "A": "Reefs cover a small area but support a large proportion of marine life.",
+            "B": "Reefs are the oldest habitats in the oceans.",
+            "C": "Most people who live near reefs work in fishing.",
+            "D": "The Great Barrier Reef is the only reef visible from space."
+          },
+          "answer": ["A"],
+          "explanation": "Less than one per cent of the ocean floor, but a quarter of marine species."
+        },
+        {
+          "number": 15,
+          "text": "What is the relationship between coral polyps and algae, according to paragraph B?",
+          "options": {
+            "A": "The algae feed on the waste produced by the coral.",
+            "B": "The coral gives the algae shelter, and the algae supply most of the coral's food.",
+            "C": "The two compete for sunlight.",
+            "D": "The algae protect the coral from predators."
+          },
+          "answer": ["B"],
+          "explanation": "Mutual benefit: shelter and chemicals in exchange for sugars."
+        },
+        {
+          "number": 16,
+          "text": "According to paragraph C, bleaching occurs when",
+          "options": {
+            "A": "the water stays slightly above its normal maximum for several weeks.",
+            "B": "the water becomes suddenly colder than usual.",
+            "C": "storms break the coral skeleton.",
+            "D": "there is too little sunlight."
+          },
+          "answer": ["A"],
+          "explanation": "One or two degrees warmer than the normal summer maximum for several weeks."
+        },
+        {
+          "number": 17,
+          "text": "What does the writer say about corals that have bleached?",
+          "options": {
+            "A": "They always die.",
+            "B": "They can recover if the water cools quickly enough.",
+            "C": "They recover within a few days.",
+            "D": "They are replaced by new species."
+          },
+          "answer": ["B"],
+          "explanation": "A bleached coral is not yet dead; if the water cools quickly enough the algae can return."
+        }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 18, "text": "The Great Barrier Reef has experienced bleaching on more than one occasion.", "answer": ["YES"], "explanation": "1998, 2002, 2016 and 2017." },
+        { "number": 19, "text": "Ocean acidification is a more serious threat to reefs than rising temperatures.", "answer": ["NOT GIVEN"], "explanation": "The writer does not compare their seriousness." },
+        { "number": 20, "text": "Local measures alone are enough to protect reefs from climate change.", "answer": ["NO"], "explanation": "Paragraph G: they cannot by themselves protect them." },
+        { "number": 21, "text": "Corals that can tolerate high temperatures exist only in laboratories.", "answer": ["NO"], "explanation": "Paragraph F: found in the Persian Gulf." },
+        { "number": 22, "text": "Breeding heat-tolerant corals is certain to save reefs.", "answer": ["NO"], "explanation": "Paragraph F: success cannot be guaranteed." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "title": "Helping coral reefs",
+      "questions": [
+        { "number": 23, "text": "In coral gardening, small ______ are grown in underwater nurseries and attached to damaged reefs.", "answer": ["fragments"], "explanation": "Paragraph F." },
+        { "number": 24, "text": "Some scientists are trying to breed corals that can tolerate ______.", "answer": ["high temperatures", "heat", "unusually high temperatures"], "explanation": "Paragraph F: heat-tolerant corals." },
+        { "number": 25, "text": "Reducing the pollution that runs off ______ can strengthen reefs.", "answer": ["farmland"], "explanation": "Paragraph G." },
+        { "number": 26, "text": "In the long term, reefs depend on reductions in ______ emissions.", "answer": ["greenhouse gas"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

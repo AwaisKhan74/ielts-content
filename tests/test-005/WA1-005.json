@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "WA1-005",
+  "module": "writing",
+  "track": "academic",
+  "task": 1,
+  "prompt": "The bar chart below shows the percentage of electricity generated from five sources in one country in 2000 and in 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "minWords": 150,
+  "chartSpec": {
+    "type": "bar",
+    "title": "Sources of electricity (% of total)",
+    "unit": "%",
+    "xLabel": "Source",
+    "yLabel": "Percentage of electricity generated",
+    "categories": [
+      "Coal",
+      "Gas",
+      "Nuclear",
+      "Renewables",
+      "Oil"
+    ],
+    "series": [
+      {
+        "name": "2000",
+        "values": [
+          50,
+          20,
+          15,
+          5,
+          10
+        ]
+      },
+      {
+        "name": "2020",
+        "values": [
+          20,
+          35,
+          12,
+          30,
+          3
+        ]
+      }
+    ]
+  },
+  "modelAnswer": "The bar chart compares the proportion of electricity produced from five different sources in a single country in 2000 and 2020.\n\nOverall, there was a dramatic shift away from coal and oil towards gas and, above all, renewable energy. Coal, which had been the main source at the start of the period, was no longer the leading one by the end.\n\nIn 2000, half of the country's electricity came from coal, while gas supplied 20%, nuclear power 15% and oil 10%. Renewable sources were almost negligible, at only 5%.\n\nBy 2020, the picture had changed considerably. The share of coal fell sharply by 30 percentage points to 20%, and oil declined to just 3%. Nuclear power also decreased, though only slightly, to 12%. In contrast, gas rose from 20% to 35%, making it the largest source. The most striking increase was in renewables, which grew sixfold to reach 30%, almost equal to the figure for gas.",
+  "examinerComment": "Clear overview and accurate use of data. Good grouping of falling and rising categories, with appropriate comparison language.",
+  "usefulPhrases": [
+    "The chart compares ...",
+    "a dramatic shift away from ... towards ...",
+    "supplied / accounted for ...",
+    "fell sharply by ... percentage points",
+    "grew sixfold",
+    "almost negligible",
+    "In contrast, ...",
+    "the most striking increase was in ..."
+  ]
+}

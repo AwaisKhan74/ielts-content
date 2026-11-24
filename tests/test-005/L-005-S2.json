@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "L-005-S2",
+  "module": "listening",
+  "testNumber": 5,
+  "sectionNumber": 2,
+  "title": "Riverside Arts Festival: Radio Announcement",
+  "accent": "australian",
+  "difficulty": "medium",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Presenter",
+      "gender": "male",
+      "voice": "en-AU-WilliamNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good afternoon, and welcome to the community programme on Radio Riverside. I'm Tom, and in the next few minutes, I'd like to tell you about the Riverside Arts Festival, which takes place this weekend and which promises to be the biggest in its fifteen-year history. The festival runs from Friday to Sunday, in the park beside the river, and it's free to enter, although some events do have a charge."
+    },
+    {
+      "speaker": "A",
+      "text": "Let me start with Friday, which is the opening evening. The festival begins at five o'clock with poetry readings in the old boathouse, where local writers, including several schoolchildren, will perform their own work. This was supposed to take place on Thursday evening, but it's been moved to Friday so that more people can attend. At eight o'clock, there's an open-air concert on the main stage by the Riverside Youth Orchestra, joined this year by a choir of two hundred singers. Tickets for the concert cost twelve pounds, and children under twelve go free. Do bring a blanket or a folding chair, because there'll be no seats."
+    },
+    {
+      "speaker": "A",
+      "text": "Saturday is the busiest day. From ten in the morning, the park fills up with stalls from more than sixty local food producers, and you can taste everything from fresh bread and cheese to spicy curries and handmade chocolate. At midday, the street theatre begins. Performers on stilts, jugglers and a giant puppet show will move around the park all afternoon. The theatre was originally planned for Sunday, but the organisers felt that Saturday would attract larger crowds. In the evening, there's a film screening beside the river, but you'll need to bring your own food, because the stalls close at six."
+    },
+    {
+      "speaker": "A",
+      "text": "On Sunday, the festival is aimed particularly at families. In the morning, there's a children's workshop, where young people can make masks and paper lanterns, which they'll carry in a procession in the afternoon. The workshop is free, but places are limited, so it's best to arrive early. And to finish the weekend, there will be a firework display at nine o'clock, set to music, over the river. It lasts for about twenty minutes, and the best places to watch are along the north bank, away from the crowds around the stage."
+    },
+    {
+      "speaker": "A",
+      "text": "Now, a few practical details. Getting to the park may be tricky, because the roads in the town centre will be very busy. If you're coming by train, the best option is to take the free shuttle bus that will run every ten minutes from Central Station, between nine in the morning and midnight. If you must come by car, I'd suggest using the car park on Mill Street, which is about a ten-minute walk from the main entrance. The car park next to the park will be closed all weekend, as it'll be used for the food market."
+    },
+    {
+      "speaker": "A",
+      "text": "If you'd like a copy of the full programme, you can pick one up from the library or from the tourist office, or you can download one from the festival website. The printed version costs one pound, but the online one is free. And there'll be maps at all the entrances."
+    },
+    {
+      "speaker": "A",
+      "text": "The festival depends heavily on volunteers, and we're still looking for about thirty more helpers for the weekend. If you'd like to take part, you don't need any special skills, just a willingness to spend a few hours on one of the days helping with tasks such as guiding visitors or setting up the stages. All volunteers receive a free orange T-shirt, which you'll wear while you work, and they also get a free meal from one of the food stalls. If you're interested, please contact the festival office, and ask for Maria."
+    },
+    {
+      "speaker": "A",
+      "text": "Finally, a word about the weather. Forecasters are predicting a dry, warm weekend, but if it does rain, the stage events will be moved into the sports hall, and the programme will be announced on our website and on this radio station. So there's really no excuse for staying at home. That's all from me, and I hope to see you at the park. After the news, we'll be playing some music from last year's festival."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching",
+      "instruction": "On which day does each event take place? Choose the correct letter, A, B or C, for each event.",
+      "options": {
+        "A": "Friday",
+        "B": "Saturday",
+        "C": "Sunday"
+      },
+      "questions": [
+        {
+          "number": 11,
+          "text": "poetry readings",
+          "answer": [
+            "A"
+          ],
+          "explanation": "Moved from Thursday to Friday."
+        },
+        {
+          "number": 12,
+          "text": "open-air concert",
+          "answer": [
+            "A"
+          ],
+          "explanation": "Friday at eight o'clock."
+        },
+        {
+          "number": 13,
+          "text": "street theatre",
+          "answer": [
+            "B"
+          ],
+          "explanation": "Planned for Sunday but held on Saturday."
+        },
+        {
+          "number": 14,
+          "text": "children's workshop",
+          "answer": [
+            "C"
+          ],
+          "explanation": "Sunday morning."
+        },
+        {
+          "number": 15,
+          "text": "firework display",
+          "answer": [
+            "C"
+          ],
+          "explanation": "Sunday at nine o'clock."
+        }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "number": 16,
+          "text": "A ticket for the concert costs £ ______.",
+          "answer": [
+            "12",
+            "twelve"
+          ],
+          "explanation": "Twelve pounds."
+        },
+        {
+          "number": 17,
+          "text": "The free shuttle bus leaves from ______ Station.",
+          "answer": [
+            "Central"
+          ],
+          "explanation": "Every ten minutes from Central Station."
+        },
+        {
+          "number": 18,
+          "text": "Drivers are advised to use the car park on ______ Street.",
+          "answer": [
+            "Mill"
+          ],
+          "explanation": "The Mill Street car park."
+        },
+        {
+          "number": 19,
+          "text": "The printed programme is available from the library or the ______ office.",
+          "answer": [
+            "tourist"
+          ],
+          "explanation": "The library or the tourist office."
+        },
+        {
+          "number": 20,
+          "text": "Volunteers receive a free ______ T-shirt.",
+          "answer": [
+            "orange"
+          ],
+          "explanation": "A free orange T-shirt."
+        }
+      ]
+    }
+  ]
+}

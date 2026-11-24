@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-001-S1",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 1,
+  "sectionNumber": 1,
+  "title": "Leisure Notices",
+  "difficulty": "easy",
+  "texts": [
+    {
+      "title": "Text A: Millbrook Leisure Centre, Swimming Pool Information",
+      "paragraphs": [
+        { "label": "A", "text": "OPENING HOURS: Monday to Friday 6.30 am to 9.00 pm. Saturday and Sunday 8.00 am to 6.00 pm. Closed on public holidays.\n\nSESSIONS: Lane swimming only, Monday, Wednesday and Friday 6.30 am to 9.00 am. Family sessions: Saturday 10.00 am to 12 noon. Children under 8 must be accompanied in the water by an adult. Quiet swim (adults only): Tuesday and Thursday 7.00 pm to 8.00 pm.\n\nPRICES: Adult £4.50. Child (5 to 15) £2.50. Under 5s free. Senior (over 60) £3.00. Ten-visit card £36.\n\nRULES: Please shower before entering the pool. No running on the poolside. Swimming caps must be worn during lane swimming. Lockers require a £1 coin, which is returned afterwards. Photography is not permitted. Lifeguards are on duty at all times." }
+      ]
+    },
+    {
+      "title": "Text B: Harbour Bike Hire",
+      "paragraphs": [
+        { "label": "B", "text": "EXPLORE THE COAST BY BIKE!\n\nHire rates: £6 per hour, £18 for a half day (4 hours), £28 for a full day. Child seats are available for an extra £3. Helmets are provided free with every hire.\n\nOpening times: daily from 9.00 am to 5.00 pm, April to October. Weekends only from November to March.\n\nAll bikes must be returned by 5.30 pm. Late returns will be charged an extra £10. A £50 deposit is required for each bike. Groups of six or more receive a 10% discount. Online bookings are guaranteed; walk-in customers are served subject to availability." }
+      ]
+    },
+    {
+      "title": "Text C: Greenfield Council Recycling Guide",
+      "paragraphs": [
+        { "label": "C", "text": "GREEN BINS are collected every second Thursday. Please put your bin out by 7.00 am.\n\nACCEPTED: paper, card, metal cans and plastic bottles (please rinse).\nNOT ACCEPTED: plastic bags, polystyrene and food waste. Glass should be taken to the bottle bank in the supermarket car park.\n\nGARDEN WASTE (brown bin): collected April to November. Annual fee: £40.\n\nLARGE ITEMS: free collection of up to two items a month. Please book in advance.\n\nMISSED COLLECTIONS: please report within 48 hours." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Which text mentions the following? Write the correct letter, A, B or C.",
+      "questions": [
+        { "number": 1, "text": "a lower price for older people", "answer": ["A"], "explanation": "Senior (over 60) £3.00." },
+        { "number": 2, "text": "safety equipment that is provided at no extra cost", "answer": ["B"], "explanation": "Helmets are free with every hire." },
+        { "number": 3, "text": "where to take glass", "answer": ["C"], "explanation": "The bottle bank in the supermarket car park." },
+        { "number": 4, "text": "an additional charge for being late", "answer": ["B"], "explanation": "Late returns cost an extra £10." },
+        { "number": 5, "text": "a requirement to wear something on the head", "answer": ["A"], "explanation": "Swimming caps during lane swimming." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the texts? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 6, "text": "The swimming pool closes later on weekdays than at weekends.", "answer": ["TRUE"], "explanation": "9.00 pm on weekdays, 6.00 pm at weekends." },
+        { "number": 7, "text": "Children under 8 may swim alone during family sessions.", "answer": ["FALSE"], "explanation": "They must be accompanied in the water by an adult." },
+        { "number": 8, "text": "A ten-visit card costs less than ten single adult tickets.", "answer": ["TRUE"], "explanation": "£36 compared with £45." },
+        { "number": 9, "text": "The leisure centre offers swimming lessons for adults.", "answer": ["NOT GIVEN"], "explanation": "Lessons are not mentioned." },
+        { "number": 10, "text": "Harbour Bike Hire is open every day of the year.", "answer": ["FALSE"], "explanation": "Weekends only from November to March." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 11, "text": "How much extra does it cost to hire a child seat?", "answer": ["£3", "3", "3 pounds"], "explanation": "Text B." },
+        { "number": 12, "text": "How much is the deposit for each bike?", "answer": ["£50", "50", "50 pounds"], "explanation": "Text B." },
+        { "number": 13, "text": "On which day of the week are green bins collected?", "answer": ["Thursday"], "explanation": "Text C." },
+        { "number": 14, "text": "How much is the yearly fee for garden waste collection?", "answer": ["£40", "40", "40 pounds"], "explanation": "Text C." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-002-P3",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 2,
+  "passageNumber": 3,
+  "title": "Does Language Shape the Way We Think?",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "In the 1930s, the American linguist Benjamin Lee Whorf put forward a bold claim: that the language people speak determines the way in which they perceive and think about the world. Speakers of different languages, he argued, inhabit different mental universes. The idea, which became known as linguistic relativity, caught the public imagination, but by the 1970s it had been rejected by most academics. They pointed out that people could clearly think about things for which they had no words, and that translation between languages, though imperfect, is nearly always possible. For several decades the question was regarded as closed. Since the 1990s, however, a new generation of researchers has revived it, armed with better experimental methods." },
+    { "label": "B", "text": "Some of the most persuasive evidence comes from colour. English has a single basic word for blue, whereas Russian has two: one for light blue and another for dark blue. In a series of experiments, Russian speakers were found to be faster at telling apart two shades of blue when they fell on opposite sides of this boundary than when they fell on the same side. English speakers showed no such pattern. Crucially, the advantage disappeared when the Russian participants were asked to repeat a string of digits while performing the task, which occupied the part of the mind that handles language. This suggested that the words themselves were helping them to make the distinction, rather than any permanent difference in the way they saw colour." },
+    { "label": "C", "text": "Space has provided another testing ground. Speakers of Guugu Yimithirr, an Aboriginal language of northern Australia, do not use words like left and right. Instead, they refer to compass directions at all times, saying, for example, that there is an ant on your south-east leg. As a result, they have to keep track of their orientation constantly, and researchers found that they could point accurately towards distant places even in unfamiliar surroundings or after being driven in circles. Similarly, when speakers of another Australian language, Kuuk Thaayorre, were asked to arrange a set of pictures in order to show the passing of time, they consistently arranged them from east to west, regardless of which way they happened to be facing. English speakers, by contrast, typically arranged the cards from left to right." },
+    { "label": "D", "text": "Perhaps the most controversial research concerns numbers. The Pirahã, a small group living in the Amazon rainforest, have no exact number words in their language, only terms roughly equivalent to few and many. When researchers asked them to match quantities, such as lines of batteries laid out on a table, they performed well with small amounts but made increasing numbers of errors as quantities grew. Some scientists took this as proof that exact counting depends on having number words. Others dispute that conclusion, arguing that the Pirahã do not need to count in their way of life, and that the results reflect their culture rather than the structure of their language. The debate remains unresolved." },
+    { "label": "E", "text": "Critics of linguistic relativity make several objections. The effects reported in experiments tend to be small, measured in fractions of a second, and they often disappear when participants are given more time. Moreover, differences in behaviour might be caused by culture, education or environment rather than by language. The most famous opponent of the idea, the cognitive scientist Steven Pinker, argues that thought exists independently of language, and that babies and animals clearly think without using words. According to this view, language is merely a tool for communicating thoughts that have already been formed, and cannot shape them." },
+    { "label": "F", "text": "Most researchers now occupy a middle position. They reject the strong version of Whorf's claim, that language determines what we are able to think, but accept a weaker version, in which language influences what we habitually pay attention to. The linguist Dan Slobin described this as thinking for speaking: because every language forces its speakers to attend to certain details, such as whether an action is completed, or whether a noun is masculine or feminine, speakers develop habits of attention that are strongest when they are preparing to speak. In one well-known study, German speakers, for whom the word for key is masculine, tended to describe a key as hard, heavy and jagged, whereas Spanish speakers, for whom the word is feminine, described it as golden, little and intricate." },
+    { "label": "G", "text": "If even the weak version is correct, then the loss of languages is more than a cultural tragedy. Linguists estimate that, of the roughly seven thousand languages spoken today, perhaps half could disappear by the end of this century. Each carries its own ways of dividing up colours, space, time and number, and its own accumulated knowledge about local plants, animals and landscapes. When a language dies, therefore, humanity may lose not only a vocabulary but a unique way of describing and thinking about the world, which cannot be recovered. This, many argue, is the strongest reason for taking the old question seriously again." }
+  ],
+  "questionGroups": [
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 27, "text": "Whorf's ideas were widely accepted by academics throughout the twentieth century.", "answer": ["NO"], "explanation": "They were rejected by most academics by the 1970s." },
+        { "number": 28, "text": "The Russian speakers' advantage in telling apart shades of blue disappeared when they performed a language-related task.", "answer": ["YES"], "explanation": "Paragraph B: repeating digits removed the advantage." },
+        { "number": 29, "text": "English speakers arrange pictures from left to right only because of the direction in which they read.", "answer": ["NOT GIVEN"], "explanation": "The reason for the English pattern is not discussed." },
+        { "number": 30, "text": "Researchers agree on how the results of the Pirahã experiments should be interpreted.", "answer": ["NO"], "explanation": "Others dispute that conclusion; the debate is unresolved." },
+        { "number": 31, "text": "The weak version of linguistic relativity has more support from current research than the strong version.", "answer": ["YES"], "explanation": "Most researchers reject the strong version but accept the weaker one." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questions": [
+        { "number": 32, "text": "What does the writer suggest about the colour experiments in paragraph B?", "options": { "A": "English speakers cannot see differences between shades of blue.", "B": "Words can affect how quickly people make certain perceptual decisions.", "C": "Russian speakers see colour differently from everyone else.", "D": "Colour words are more important than words for space." }, "answer": ["B"], "explanation": "The words helped Russian speakers make the distinction; the effect vanished with a verbal task." },
+        { "number": 33, "text": "Why do some scientists doubt the conclusions drawn from the Pirahã research?", "options": { "A": "The tests were too easy for the participants.", "B": "The results may be due to culture rather than language.", "C": "The participants were not native speakers.", "D": "Other groups performed much better." }, "answer": ["B"], "explanation": "They argue that the Pirahã do not need to count, so culture may explain the results." },
+        { "number": 34, "text": "What is meant by 'thinking for speaking' in paragraph F?", "options": { "A": "People think more clearly when they speak aloud.", "B": "Languages force speakers to notice certain details when they prepare to speak.", "C": "Speaking a second language requires more thought.", "D": "Thought cannot take place without words." }, "answer": ["B"], "explanation": "Every language forces its speakers to attend to certain details." },
+        { "number": 35, "text": "What does the writer say about the loss of languages in paragraph G?", "options": { "A": "Few languages are likely to disappear.", "B": "It may mean losing unique ways of understanding the world.", "C": "It will make communication easier.", "D": "It mainly concerns scientists who study vocabulary." }, "answer": ["B"], "explanation": "Humanity may lose a unique way of describing and thinking about the world." }
+      ]
+    },
+    {
+      "type": "matching_info",
+      "instruction": "Which paragraph contains the following information? Write the correct letter, A-G.",
+      "questions": [
+        { "number": 36, "text": "a reference to a period when an idea was rejected by most academics", "answer": ["A"], "explanation": "Paragraph A." },
+        { "number": 37, "text": "an example involving grammatical gender", "answer": ["F"], "explanation": "Paragraph F: German and Spanish speakers describing a key." },
+        { "number": 38, "text": "a description of people who constantly keep track of compass directions", "answer": ["C"], "explanation": "Paragraph C: Guugu Yimithirr speakers." },
+        { "number": 39, "text": "the view that thought exists independently of language", "answer": ["E"], "explanation": "Paragraph E: Pinker." },
+        { "number": 40, "text": "an estimate of how many languages may vanish", "answer": ["G"], "explanation": "Paragraph G: perhaps half of seven thousand." }
+      ]
+    }
+  ]
+}

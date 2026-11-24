@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "L-004-S4",
+  "module": "listening",
+  "testNumber": 4,
+  "sectionNumber": 4,
+  "title": "Urban Heat Islands",
+  "accent": "american",
+  "difficulty": "hard",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Dr Foster (lecturer)",
+      "gender": "female",
+      "voice": "en-US-AriaNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good morning, everyone. Today I'd like to talk about a phenomenon that affects most of the world's large cities, and that is likely to become more important as the climate warms: the urban heat island. This is the term for the fact that a city is usually warmer than the countryside that surrounds it. The difference may sound small, but, as we'll see, it has serious consequences for health, energy use and quality of life."
+    },
+    {
+      "speaker": "A",
+      "text": "Let me start with a little history. The effect was first described in the early nineteenth century by an English pharmacist and amateur meteorologist called Luke Howard. He took careful temperature readings in central London and in the villages outside it, and he noticed that the centre was consistently warmer, particularly at night. The name 'heat island' came much later, in the twentieth century, when scientists drew maps of temperatures and saw that the warm areas looked like islands on the map, surrounded by cooler countryside."
+    },
+    {
+      "speaker": "A",
+      "text": "So why does it happen? There are several causes, and they work together. The first is the materials that cities are built from. Natural surfaces, like soil and grass, tend to reflect some sunlight and stay relatively cool. But dark surfaces, such as asphalt on roads and the roofs of buildings, absorb a huge amount of solar energy during the day and release it slowly afterwards. On a summer afternoon, the surface of a road can be thirty or forty degrees hotter than the air above it."
+    },
+    {
+      "speaker": "A",
+      "text": "The second cause is the lack of plants. Vegetation cools the air in a way that's easy to overlook. Plants take water from the soil and release moisture from their leaves, and as this water evaporates, it takes heat from the surroundings, rather like sweat cooling our skin. A park or a forest can therefore be several degrees cooler than a car park nearby. When cities replace green space with concrete, they lose this natural air conditioning."
+    },
+    {
+      "speaker": "A",
+      "text": "The third cause is the shape of the city itself. In districts with tall buildings close together, the streets form what we call urban canyons. During the day, the buildings shade the street, but at night they trap the heat, because the walls reflect warmth back and forth between them, and they also block the wind that would otherwise carry it away. As a result, heat islands are generally strongest after sunset. In some large cities, the centre can be as much as ten degrees warmer than the surrounding area on a calm summer night."
+    },
+    {
+      "speaker": "A",
+      "text": "And finally, there's the heat that people produce directly. Car engines, factories and, above all, air conditioning units all give off heat. This creates something of a vicious circle: when a city gets hotter, more people turn on their air conditioners, and the machines pump even more heat into the street, which makes the city hotter still."
+    },
+    {
+      "speaker": "A",
+      "text": "Why does this matter? The most serious consequence is for health. During a heat wave, the extra heat in the city can push temperatures into a dangerous range, particularly at night, when the body normally recovers. Elderly people and those with heart or lung problems are at the greatest risk, and studies of major heat waves have shown that more people die in cities than in nearby rural areas. Higher temperatures also increase the demand for electricity, which can lead to power cuts just when people need cooling most, and they make air pollution worse, because the chemical reactions that produce smog happen faster when it is hot."
+    },
+    {
+      "speaker": "A",
+      "text": "The encouraging news is that there's a lot that cities can do. One of the simplest measures is to change the colour of roofs. Painting a roof white, or covering it with a special reflective coating, turns it into what's known as a cool roof. It reflects much of the sunlight instead of absorbing it, and can lower the temperature inside the building by several degrees. Some cities now require all new flat roofs to be built in this way."
+    },
+    {
+      "speaker": "A",
+      "text": "A second approach is to cover roofs with plants. Chicago was one of the first big cities to do this on a large scale. In 2001, it installed a green roof on its City Hall, with around twenty thousand plants. Measurements showed that on a hot day, the roof's surface was far cooler than that of a nearby building, and the city has since encouraged thousands of other buildings to follow."
+    },
+    {
+      "speaker": "A",
+      "text": "Another option, and probably the most effective, is to plant trees. Trees give shade, which keeps pavements and walls from heating up, and they also cool the air through evaporation, as I explained earlier. Singapore is often held up as a model: it has put green space on buildings and along its streets so extensively that it describes itself as a city in a garden. In addition, some cities are experimenting with paving materials that let rainwater soak through, so that the ground stays damp and cool."
+    },
+    {
+      "speaker": "A",
+      "text": "To sum up, heat islands are caused by dark materials, a lack of vegetation, the shape of buildings and human activities, and their impact on health and energy use is considerable. But solutions exist, and many of them also make cities more attractive places to live. For next week, I'd like you to choose a city of your own and find out what it has done about the problem, and I'll ask some of you to present your findings in the seminar. Thank you."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "title": "Urban Heat Islands",
+      "questions": [
+        {
+          "number": 31,
+          "text": "The effect was first described by Luke ______, who measured temperatures in London.",
+          "answer": [
+            "Howard"
+          ],
+          "explanation": "Luke Howard took readings in and around London."
+        },
+        {
+          "number": 32,
+          "text": "Dark surfaces such as ______ absorb a lot of solar energy during the day.",
+          "answer": [
+            "asphalt",
+            "roads"
+          ],
+          "explanation": "Asphalt on roads and the roofs of buildings."
+        },
+        {
+          "number": 33,
+          "text": "Plants cool the air because they release ______ from their leaves.",
+          "answer": [
+            "moisture",
+            "water"
+          ],
+          "explanation": "Plants release moisture which evaporates and takes heat from the surroundings."
+        },
+        {
+          "number": 34,
+          "text": "Tall buildings close together form what are called urban ______.",
+          "answer": [
+            "canyons"
+          ],
+          "explanation": "Urban canyons."
+        },
+        {
+          "number": 35,
+          "text": "Heat island effects are generally strongest after ______.",
+          "answer": [
+            "sunset",
+            "dark"
+          ],
+          "explanation": "Buildings trap heat at night."
+        },
+        {
+          "number": 36,
+          "text": "Heat from ______ conditioning units makes the city hotter, creating a vicious circle.",
+          "answer": [
+            "air"
+          ],
+          "explanation": "Air conditioning."
+        },
+        {
+          "number": 37,
+          "text": "During heat waves, the ______ are at the greatest risk.",
+          "answer": [
+            "elderly"
+          ],
+          "explanation": "Elderly people and those with heart or lung problems."
+        },
+        {
+          "number": 38,
+          "text": "White roofs lower temperatures because they reflect ______.",
+          "answer": [
+            "sunlight",
+            "sun",
+            "light"
+          ],
+          "explanation": "They reflect much of the sunlight."
+        },
+        {
+          "number": 39,
+          "text": "In 2001, Chicago installed a ______ roof on its City Hall.",
+          "answer": [
+            "green"
+          ],
+          "explanation": "A green roof with around twenty thousand plants."
+        },
+        {
+          "number": 40,
+          "text": "Planting ______ is probably the most effective measure, as they give shade and cool the air.",
+          "answer": [
+            "trees"
+          ],
+          "explanation": "Trees give shade and cool the air."
+        }
+      ]
+    }
+  ]
+}

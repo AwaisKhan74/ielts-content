@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "L-003-S4",
+  "module": "listening",
+  "testNumber": 3,
+  "sectionNumber": 4,
+  "title": "Bird Migration",
+  "accent": "american",
+  "difficulty": "hard",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Professor (lecturer)",
+      "gender": "male",
+      "voice": "en-US-EricNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good afternoon, everyone. In today's lecture, I'd like to talk about one of the most remarkable events in the natural world: the seasonal migration of birds. Every year, billions of birds travel enormous distances between their breeding grounds and the places where they spend the winter. Today I'll look at why they do it, how they find their way, what the journey demands of their bodies, and finally what threatens them and what we can do about it."
+    },
+    {
+      "speaker": "A",
+      "text": "Let's begin with the question of why birds migrate at all. It's a risky business, and many birds die on the way, so there must be a strong advantage. The answer is food. In the northern summer, the Arctic and the temperate regions offer an explosion of insects and plants, which gives birds the energy to raise their chicks. But in winter that food disappears, and the birds fly south, where food is still available. People often think that the cold itself drives them away. That's actually a common misunderstanding. Many birds can cope with low temperatures perfectly well, as long as there's something to eat."
+    },
+    {
+      "speaker": "A",
+      "text": "So what tells a bird that it's time to go? Researchers used to believe that falling temperatures were the main signal. We now know that it's the changing length of daylight. As the days become shorter in autumn, chemical changes take place in the birds' bodies, and they become restless. Scientists have shown this in experiments with captive birds kept in cages. Even when the temperature and food supply stay constant, the birds start to hop and flutter at the time of year when they would normally leave, as soon as the amount of daylight is reduced."
+    },
+    {
+      "speaker": "A",
+      "text": "Now, the distances involved can be astonishing. The record-holder for the longest regular migration is the Arctic tern. These small seabirds breed in the Arctic during the northern summer, then travel all the way to the Antarctic to enjoy the southern summer, and then come back again. In this way, they see more daylight than any other animal on Earth. Over its lifetime, which can be thirty years, a single tern may fly the equivalent of three round trips to the moon."
+    },
+    {
+      "speaker": "A",
+      "text": "Another extraordinary traveller is the bar-tailed godwit, a wading bird. Recent satellite tracking has shown that godwits flying from Alaska to New Zealand make the whole journey in a single flight, without stopping once to eat, drink or rest. One bird that scientists followed flew for eleven days without a break, covering about eleven thousand kilometres. That's the longest non-stop flight ever recorded for any bird."
+    },
+    {
+      "speaker": "A",
+      "text": "How do birds find their way over such distances? In fact, they use several methods at the same time, and which one they rely on depends on the conditions. During the day, many species navigate using the position of the sun. At night, they can read the pattern of the stars. Experiments in planetariums have shown that young birds learn the star patterns while they're still in the nest. And in the final part of a journey, many birds recognise landmarks, such as coastlines, rivers and mountains. Some birds even seem to follow smells. But the most puzzling method of all is the use of the Earth's magnetic field."
+    },
+    {
+      "speaker": "A",
+      "text": "There's still some debate about how a bird could possibly sense a magnetic field. The current leading theory is that birds have a special light-sensitive protein in their eyes, which reacts to the magnetic field. If that's correct, it means that birds can, in effect, see the field as a pattern superimposed on what they're looking at. I should stress that this is still a theory and hasn't been fully proven. An earlier idea, that tiny particles of iron in the beak act as a compass, is now thought by most researchers to play only a small role, if any."
+    },
+    {
+      "speaker": "A",
+      "text": "Let's turn now to the physical demands of migration. A long flight uses up an enormous amount of energy, and before leaving, birds must prepare. They eat constantly, and the food is turned into fat, which is a very efficient fuel. Some small species almost double their body weight before they set out. The ruby-throated hummingbird, which weighs only about three grams, builds up its reserves in this way so that it can cross the Gulf of Mexico in one flight of around eight hundred kilometres. Their organs also change shape. The digestive system actually shrinks before a long flight, in order to reduce the weight, while the heart and the flight muscles grow larger."
+    },
+    {
+      "speaker": "A",
+      "text": "Unfortunately, migration has become more dangerous in recent times. Let me mention two major problems. First of all, there's the issue of artificial light. Many birds migrate at night, and the glow of cities confuses them, drawing them off course. They circle the lights until they're exhausted, and many die when they collide with buildings. In the United States alone, estimates suggest that hundreds of millions of birds are killed in this way every year. Some cities have now introduced programmes to switch off the lights of tall buildings during the main migration weeks, and the results have been very encouraging."
+    },
+    {
+      "speaker": "A",
+      "text": "The second problem is climate change. Warmer springs mean that insects emerge earlier, and in many parts of the world, birds are now arriving earlier than they used to, in some cases by several days compared with fifty years ago. But not all species can adjust at the same speed. If a bird arrives too late, the peak supply of insects may already be over, and its chicks may starve. Scientists are particularly worried about species that travel very long distances, because they can't easily tell what the conditions are like at their destination."
+    },
+    {
+      "speaker": "A",
+      "text": "So what can be done? Conservation groups used to focus mainly on protecting the breeding grounds and the wintering areas. But we now understand that the places in between matter just as much. These are the stopover sites, where birds rest and feed during the journey. If a stopover site is drained or built on, the birds may not have enough energy to reach the next one. For that reason, international organisations are working to protect a chain of these sites along each major route, which needs cooperation between many countries."
+    },
+    {
+      "speaker": "A",
+      "text": "To sum up, bird migration is driven by the search for food, triggered by changes in daylight and guided by a remarkable set of navigation tools. It's a feat of endurance that our own species can hardly imagine. And if we want it to continue, we'll have to protect the whole route, not just the ends of it. For next week, please read the two articles on the course website about magnetic navigation, and we'll discuss them in the seminar. Thank you."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "title": "Bird Migration",
+      "questions": [
+        {
+          "number": 31,
+          "text": "Birds migrate mainly in order to find ______ in winter.",
+          "answer": [
+            "food"
+          ],
+          "explanation": "The answer is food. Cold itself is not the main problem."
+        },
+        {
+          "number": 32,
+          "text": "The main signal that triggers migration is the changing length of ______.",
+          "answer": [
+            "daylight",
+            "day",
+            "days"
+          ],
+          "explanation": "Not temperature: it is the changing length of daylight."
+        },
+        {
+          "number": 33,
+          "text": "The Arctic tern travels between the Arctic and the ______.",
+          "answer": [
+            "Antarctic",
+            "Antarctica"
+          ],
+          "explanation": "They fly to the Antarctic for the southern summer."
+        },
+        {
+          "number": 34,
+          "text": "A bar-tailed godwit flew non-stop for ______ days.",
+          "answer": [
+            "11",
+            "eleven"
+          ],
+          "explanation": "The tracked bird flew for eleven days without a break."
+        },
+        {
+          "number": 35,
+          "text": "At night, birds find their way using the pattern of the ______.",
+          "answer": [
+            "stars"
+          ],
+          "explanation": "At night they read the pattern of the stars."
+        },
+        {
+          "number": 36,
+          "text": "Birds may sense the magnetic field using a protein in their ______.",
+          "answer": [
+            "eyes",
+            "eye"
+          ],
+          "explanation": "The leading theory is a light-sensitive protein in the eyes, not iron in the beak."
+        },
+        {
+          "number": 37,
+          "text": "Before migrating, some small birds almost double their ______.",
+          "answer": [
+            "weight",
+            "body weight"
+          ],
+          "explanation": "They almost double their body weight by storing fat."
+        },
+        {
+          "number": 38,
+          "text": "Many birds that are attracted by city lights die when they collide with ______.",
+          "answer": [
+            "buildings",
+            "building"
+          ],
+          "explanation": "They collide with buildings."
+        },
+        {
+          "number": 39,
+          "text": "Because of climate change, many birds are arriving ______ than they used to.",
+          "answer": [
+            "earlier"
+          ],
+          "explanation": "Warmer springs mean birds arrive earlier."
+        },
+        {
+          "number": 40,
+          "text": "Conservationists are now working to protect ______ sites along each route.",
+          "answer": [
+            "stopover"
+          ],
+          "explanation": "Stopover sites, where birds rest and feed during the journey."
+        }
+      ]
+    }
+  ]
+}

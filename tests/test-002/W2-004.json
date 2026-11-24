@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-004",
+  "module": "writing",
+  "task": 2,
+  "essayType": "two-part question",
+  "topic": "society",
+  "prompt": "In many countries, large numbers of young people are leaving their home towns to live and work in big cities. Why is this happening? Is it a positive or a negative development?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase; say the trend has clear causes and mixed effects, but on balance you think it is more negative (or positive).",
+    "body1": "Causes: more jobs and higher salaries, better universities, entertainment and lifestyle, lack of opportunities and services in small towns.",
+    "body2": "Evaluation: positives (skills, experience, money sent home) vs negatives (ageing small towns, overcrowded cities, high rents, family separation). Give your opinion.",
+    "conclusion": "Summarise causes and your overall judgement."
+  },
+  "modelAnswer": "Migration from small towns to big cities has become a worldwide phenomenon. This trend is driven mainly by economic and social factors, and in my view its consequences are more negative than positive.\n\nThe main reason young people move is employment. Large cities concentrate the headquarters of companies, hospitals, universities and technology firms, which offer higher salaries and clearer career paths than local businesses in small towns. In addition, cities provide better educational institutions, and many young people relocate to study and then stay to work. Finally, the lifestyle that cities offer, with its cinemas, restaurants, sports facilities and wider social circles, is attractive to a generation that wants more than a quiet life.\n\nThis development does have some benefits. Young migrants gain skills and experience, and many send part of their income back to support their families. Cities also benefit from a younger, more energetic workforce.\n\nNevertheless, I believe the drawbacks outweigh these advantages. Firstly, small towns are left with an ageing population, and schools, shops and clinics may close because there are too few people to support them. This creates a cycle in which towns become even less attractive to those who remain. Secondly, cities themselves struggle to cope. Rapid population growth drives up rents, overloads public transport and creates slums in some developing countries. On a personal level, young people often live far from their families and may feel isolated, while parents in the countryside are left without support in old age.\n\nIn conclusion, young people leave home towns chiefly in search of better jobs, education and lifestyle. Although this brings some individual gains, I think it harms both rural communities and overcrowded cities, so governments should invest in jobs and services outside the major cities.",
+  "vocabulary": [
+    { "word": "phenomenon", "meaning": "something that exists and can be observed, especially something unusual or important", "example": "Urban migration is a global phenomenon." },
+    { "word": "concentrate", "meaning": "to gather in one place", "example": "Big cities concentrate jobs and investment." },
+    { "word": "relocate", "meaning": "to move to a different place to live or work", "example": "Many graduates relocate to the capital." },
+    { "word": "workforce", "meaning": "all the people who work in a company or country", "example": "Cities gain a younger workforce." },
+    { "word": "outweigh", "meaning": "to be greater or more important than something else", "example": "The drawbacks outweigh the benefits." },
+    { "word": "ageing population", "meaning": "a population in which the proportion of old people is growing", "example": "Small towns have an ageing population." },
+    { "word": "overcrowded", "meaning": "containing too many people or things", "example": "Cities have become overcrowded." },
+    { "word": "isolated", "meaning": "feeling alone or separated from others", "example": "Migrants may feel isolated far from home." }
+  ],
+  "examinerComment": "Both parts of the question are answered with well-developed, logical ideas, and the writer's position is clear. Wide range of vocabulary and accurate complex sentences. Estimated band 8."
+}

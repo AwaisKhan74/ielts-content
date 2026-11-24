@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-002-S2",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 2,
+  "sectionNumber": 2,
+  "title": "Safety and Training at Greenway Distribution",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "Text A: Greenway Distribution Ltd, Staff Safety Guide (Warehouse)",
+      "paragraphs": [
+        { "label": "A", "text": "PROTECTIVE CLOTHING. All staff working in the warehouse area must wear a high-visibility jacket and safety boots at all times. Hard hats must also be worn in the loading bay. Protective gloves are provided free of charge, and worn or damaged pairs can be replaced at any time from the stores. Staff who arrive without the correct clothing will not be allowed on the warehouse floor." },
+        { "label": "B", "text": "LIFTING. Never try to lift a load heavier than 20 kg on your own. Use a trolley or pallet truck wherever possible, or ask a colleague for help. When lifting, bend your knees and keep your back straight. All new employees attend a practical lifting session during their first week." },
+        { "label": "C", "text": "FORKLIFT TRUCKS. Only licensed drivers are permitted to operate forklift trucks. Pedestrians must use the marked yellow walkways at all times, and must never walk underneath raised forks. Forklift trucks always have priority over pedestrians in the warehouse, so please give way and make eye contact with the driver before crossing." },
+        { "label": "D", "text": "FIRE SAFETY. Fire exits and the areas around them must be kept clear at all times. The fire alarm is tested every Tuesday at 10.00 am. If the alarm sounds at any other time, leave the building immediately by the nearest exit and go to the assembly point in Car Park B. Fire wardens wear orange vests and will check that everyone has left." },
+        { "label": "E", "text": "ACCIDENTS AND NEAR MISSES. All accidents, however minor, must be reported to your supervisor within 24 hours and recorded in the accident book in the main office. Incidents in which nobody was hurt but someone could have been, known as near misses, must also be reported. A list of qualified first aiders is displayed on the noticeboard by the canteen." },
+        { "label": "F", "text": "BREAKS. Staff are entitled to a 15-minute break for every four hours worked. Eating and drinking are not permitted in the warehouse area. The canteen is on the first floor. Smoking is allowed only in the designated shelter behind the building." }
+      ]
+    },
+    {
+      "title": "Text B: Forklift Licence Training Programme",
+      "paragraphs": [
+        { "label": "G", "text": "Would you like to learn a new skill and increase your earnings? Greenway Distribution is offering places on our forklift licence training programme.\n\nWho can apply? The programme is open to permanent members of staff who have completed at least six months of service. Temporary and agency workers are not eligible.\n\nThe course: Training lasts three days and takes place at the Head Office Training Centre. The company pays all course and test fees. Each course is limited to eight participants.\n\nAfter the course: Staff who pass the test will receive a pay rise of 50p per hour and will be added to the list of licensed drivers. Licences must be renewed every three years with a one-day refresher course.\n\nHow to apply: Speak to your supervisor, who will submit your name to the Training Manager by the end of the month." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Text A has six sections, A-F. Which section contains the following information? Write the correct letter, A-F.",
+      "questions": [
+        { "number": 15, "text": "where to go when leaving the building during an emergency", "answer": ["D"], "explanation": "The assembly point is in Car Park B." },
+        { "number": 16, "text": "the maximum weight a person should carry alone", "answer": ["B"], "explanation": "Never lift more than 20 kg alone." },
+        { "number": 17, "text": "a requirement to report incidents in which nobody was injured", "answer": ["E"], "explanation": "Near misses must also be reported." },
+        { "number": 18, "text": "who has priority over people on foot", "answer": ["C"], "explanation": "Forklift trucks have priority over pedestrians." },
+        { "number": 19, "text": "a place where eating is not allowed", "answer": ["F"], "explanation": "Eating and drinking are not permitted in the warehouse area." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Text B? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 20, "text": "Temporary workers may apply for the forklift training programme.", "answer": ["FALSE"], "explanation": "Temporary and agency workers are not eligible." },
+        { "number": 21, "text": "Employees do not have to pay for the training or the test.", "answer": ["TRUE"], "explanation": "The company pays all course and test fees." },
+        { "number": 22, "text": "Licences must be renewed every three years.", "answer": ["TRUE"], "explanation": "Text B states this." },
+        { "number": 23, "text": "The training course takes place at weekends.", "answer": ["NOT GIVEN"], "explanation": "The days of the week are not stated." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 24, "text": "When is the fire alarm tested?", "options": { "A": "every Monday at 10.00 am", "B": "every Tuesday at 10.00 am", "C": "every day at the start of work" }, "answer": ["B"], "explanation": "Section D." },
+        { "number": 25, "text": "What should an employee do if their gloves are damaged?", "options": { "A": "buy a new pair", "B": "collect a new pair from the stores", "C": "use their own gloves" }, "answer": ["B"], "explanation": "Replacements are free from the stores." },
+        { "number": 26, "text": "How soon must an accident be reported to a supervisor?", "options": { "A": "immediately", "B": "within 24 hours", "C": "by the end of the week" }, "answer": ["B"], "explanation": "Section E." },
+        { "number": 27, "text": "Who should employees speak to if they want to apply for forklift training?", "options": { "A": "the Training Manager", "B": "their supervisor", "C": "the first aiders" }, "answer": ["B"], "explanation": "Speak to your supervisor, who will submit your name." }
+      ]
+    }
+  ]
+}

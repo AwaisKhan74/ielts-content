@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "WG1-004",
+  "module": "writing",
+  "track": "general",
+  "task": 1,
+  "tone": "formal",
+  "prompt": "You would like to take an evening course at a local college. Write a letter to the college principal. In your letter:",
+  "bullets": [
+    "explain which course you are interested in and why",
+    "ask for information about fees and dates",
+    "ask whether any financial help is available"
+  ],
+  "minWords": 150,
+  "modelAnswer": "Dear Sir or Madam,\n\nI am writing to enquire about the evening courses offered by your college. I am particularly interested in the Introduction to Web Design course advertised in your latest brochure.\n\nI currently work as an office administrator, and my employer has recently asked me to help with updating the company's website. Unfortunately, I have no formal training in this area, so I would like to learn the basic skills in a structured way. I believe that this course would also improve my chances of promotion in the future.\n\nCould you please let me know how much the course costs and whether the fee includes books and materials? I would also be grateful if you could tell me when the next course begins and how many weeks it lasts. In addition, I would like to know whether classes are held on weekday evenings, as I work until six o'clock.\n\nFinally, I should be grateful if you could inform me whether any financial assistance, such as a discount for part-time workers or an instalment plan, is available.\n\nI look forward to hearing from you.\n\nYours faithfully,\nSamuel Okafor",
+  "examinerComment": "All three bullet points are addressed clearly and the register is appropriately formal throughout. Good organisation with a clear opening and closing.",
+  "usefulPhrases": [
+    "I am writing to enquire about ...",
+    "I would be grateful if you could ...",
+    "Could you please let me know ...",
+    "I am particularly interested in ...",
+    "In addition, I would like to know ...",
+    "whether any financial assistance is available",
+    "I look forward to hearing from you.",
+    "Yours faithfully (Dear Sir or Madam)"
+  ]
+}

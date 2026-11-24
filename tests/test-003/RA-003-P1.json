@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-003-P1",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 3,
+  "passageNumber": 1,
+  "title": "Seeing Through the Forest: Lidar and the Lost Cities",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "For most of the history of archaeology, finding an ancient city in a tropical forest meant walking. Survey teams would cut paths through dense undergrowth with machetes, climb over fallen trees and record every mound or wall they stumbled across. The work was slow, dangerous and often disappointing, because a structure only a few metres away could be completely invisible beneath the leaves. A single site might take decades to map, and many were never mapped at all. Since the early 2000s, however, a technology borrowed from geology and forestry has begun to change the discipline. It is known as lidar, which stands for light detection and ranging, and it allows researchers to look at the ground as if the trees were not there." },
+    { "label": "B", "text": "A lidar system is a laser scanner carried on an aircraft or, increasingly, on a small drone. As the vehicle flies over the forest in a series of parallel lines, the scanner fires hundreds of thousands of pulses of light every second towards the ground. Many of the pulses are reflected by leaves and branches, but a few find gaps in the canopy and travel all the way down to the earth before bouncing back. The scanner records the time each pulse takes to return, and since the speed of light is known, this time can be converted into a precise distance. Specialised software then removes all the echoes that came from vegetation and keeps only those from the ground. The result is a so-called bare-earth model, a detailed three-dimensional map of the surface in which even a low wall or a shallow ditch can be seen." },
+    { "label": "C", "text": "The potential of the method became clear in 2009, when the archaeologists Arlen and Diane Chase arranged a lidar flight over Caracol, an ancient Maya city in Belize. They had been working at the site on foot since 1985, and over that time they had mapped a large part of the city centre. The aircraft covered about two hundred square kilometres in only a few days. When the data were processed, the team reported that the map revealed more of the city's layout, including roads, terraces and thousands of previously unknown buildings, than twenty-five years of ground survey had done. Caracol, they concluded, had been far larger and more densely populated than anyone had realised." },
+    { "label": "D", "text": "Even more dramatic results followed in 2018, when a Guatemalan foundation organised the PACUNAM Lidar Initiative, a survey of about 2,100 square kilometres of lowland forest in the north of the country. The maps showed more than sixty thousand structures that had not been recorded before, among them houses, palaces, irrigation channels, raised highways linking distant cities and defensive walls. The scale of the settlement suggested that the Maya civilisation had been much more complex than most scholars had assumed. Some researchers have used the density of buildings to estimate that the region may have supported a population of between seven and eleven million people in its peak period, although such estimates remain controversial." },
+    { "label": "E", "text": "Lidar has proved equally valuable in Southeast Asia. In Cambodia, the archaeologist Damian Evans and his colleagues flew surveys over the temples of Angkor and the surrounding countryside between 2012 and 2015. They found that the medieval capital of the Khmer Empire had spread over a far wider area than previously thought, with a network of roads, canals and water reservoirs reaching deep into the forest. On a nearby mountain, the Phnom Kulen plateau, the same technique led to the discovery of a city that had long been the subject of rumour. Its existence had been mentioned in ancient inscriptions, but nobody had ever been able to locate it on the ground. The lidar map showed a regular grid of streets and ponds beneath the trees." },
+    { "label": "F", "text": "Nevertheless, lidar has its limits, and archaeologists are quick to point out that it is not a magic solution. The technique shows only the shape of the surface. It cannot tell researchers how old a structure is, who built it or what it was used for, and some of the features it detects turn out to be natural rather than man-made. For this reason, every promising feature must be visited by a team on foot, a process known as ground-truthing, and only excavation can produce reliable dates. The surveys are also expensive, and the huge quantities of data they produce can take months to analyse. There is a further concern. Detailed maps that show the locations of ancient buildings could be misused by looters, who sell stolen artefacts on the illegal market, and so many projects keep the exact coordinates of their discoveries secret." },
+    { "label": "G", "text": "Looking ahead, the cost of the equipment is falling quickly, and drones now make it possible for small teams to carry out surveys that once required a major research grant. Scientists are also developing software based on machine learning that will automatically identify features in the data, such as the outlines of buildings, which should save a great deal of time. Many archaeologists argue that the data should be shared with local communities, whose members often have a deep knowledge of the landscape, and who have a right to know what lies beneath it. Most agree that lidar will not replace fieldwork, but will make it more effective, by showing teams where to look." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Reading Passage 1 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G.",
+      "questions": [
+        { "number": 1, "text": "an explanation of how the equipment separates the ground from the plants", "answer": ["B"], "explanation": "Paragraph B: software removes the echoes from vegetation." },
+        { "number": 2, "text": "a comparison between the time taken by an aerial survey and by a ground survey", "answer": ["C"], "explanation": "Paragraph C: a few days by air versus twenty-five years on foot." },
+        { "number": 3, "text": "a reason why some researchers do not publish exact locations", "answer": ["F"], "explanation": "Paragraph F: the risk of looters." },
+        { "number": 4, "text": "a reference to a city that had previously been known only from stories and old texts", "answer": ["E"], "explanation": "Paragraph E: the city on the Phnom Kulen plateau." },
+        { "number": 5, "text": "an estimate of how many people may have lived in a region", "answer": ["D"], "explanation": "Paragraph D: seven to eleven million." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+      "questions": [
+        { "number": 6, "text": "Lidar equipment can only be carried by aircraft.", "answer": ["FALSE"], "explanation": "Paragraph B and G: drones are also used." },
+        { "number": 7, "text": "The Caracol survey covered an area of about 200 square kilometres.", "answer": ["TRUE"], "explanation": "Paragraph C." },
+        { "number": 8, "text": "The Guatemalan survey took longer to complete than the Caracol survey.", "answer": ["NOT GIVEN"], "explanation": "The time taken for the Guatemalan survey is not mentioned." },
+        { "number": 9, "text": "Lidar can show how old the buildings it detects are.", "answer": ["FALSE"], "explanation": "Paragraph F: it cannot tell researchers how old a structure is." },
+        { "number": 10, "text": "Archaeologists believe that lidar will make fieldwork unnecessary.", "answer": ["FALSE"], "explanation": "Paragraph G: it will not replace fieldwork." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "questions": [
+        { "number": 11, "text": "Some of the pulses fired by the scanner pass through gaps in the canopy and reach the ______.", "answer": ["earth", "ground"], "explanation": "Paragraph B: travel down to the earth." },
+        { "number": 12, "text": "Visiting a feature on foot to check it is known as ______.", "answer": ["ground-truthing", "ground truthing"], "explanation": "Paragraph F." },
+        { "number": 13, "text": "New software may soon be able to ______ features in lidar data automatically.", "answer": ["identify"], "explanation": "Paragraph G: automatically identify features." }
+      ]
+    }
+  ]
+}

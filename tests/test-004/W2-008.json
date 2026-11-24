@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-008",
+  "module": "writing",
+  "task": 2,
+  "essayType": "two-part question",
+  "topic": "society",
+  "prompt": "An increasing number of people choose to live alone. Why is this happening? Is this a positive or a negative development?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase; say there are several social and economic causes and that on balance you see it as mixed/slightly positive/negative.",
+    "body1": "Causes: financial independence (especially women), later marriage, urbanisation and career focus, longer lives (widowed), desire for privacy.",
+    "body2": "Evaluation: positives (freedom, privacy, personal growth) vs negatives (loneliness, higher living costs per person, pressure on housing and weaker community). Give opinion.",
+    "conclusion": "Summarise causes and your judgement."
+  },
+  "modelAnswer": "In many countries today, a growing proportion of households consist of just one person. This essay will explore the reasons for this trend and argue that, although it offers some benefits to individuals, it is more of a concern than a cause for celebration.\n\nSeveral factors explain why more people live alone. Firstly, people are marrying and having children later in life than their parents did, so they spend more years as single adults. Secondly, rising incomes, especially among women, mean that many people can now afford to rent or buy their own homes instead of sharing with relatives. Another factor is the pursuit of careers: young professionals often move to distant cities for work, away from their families. Finally, people are living longer, so there are more elderly widows and widowers who stay in their own homes.\n\nThe trend does have some advantages. Living alone gives people independence, privacy and the freedom to organise their lives as they wish, and for some individuals it is a valuable period of personal development.\n\nHowever, I believe the drawbacks are more significant. The most serious is loneliness, which research has linked to depression and poorer physical health, particularly among the elderly. In addition, one-person households are less efficient, since each home needs its own heating, furniture and appliances, so they cost more per person and use more energy and land. In cities where housing is already scarce, this can push prices up. Over time, if more people live alone, communities may also become weaker, as neighbours know each other less well.\n\nIn conclusion, delayed marriage, higher incomes, career mobility and longer life expectancy have led to more people living alone. While it brings independence, I think that the risks of isolation and the environmental and economic costs make it a largely negative development.",
+  "vocabulary": [
+    {
+      "word": "household",
+      "meaning": "all the people living together in one home",
+      "example": "The average household is getting smaller."
+    },
+    {
+      "word": "independence",
+      "meaning": "the ability to do things without help",
+      "example": "Living alone gives people independence."
+    },
+    {
+      "word": "pursuit",
+      "meaning": "the act of trying to achieve something",
+      "example": "The pursuit of a career takes people to cities."
+    },
+    {
+      "word": "life expectancy",
+      "meaning": "the number of years a person is likely to live",
+      "example": "Life expectancy has risen."
+    },
+    {
+      "word": "isolation",
+      "meaning": "the state of being alone and separated from others",
+      "example": "Isolation affects the elderly."
+    },
+    {
+      "word": "scarce",
+      "meaning": "not available in large enough amounts",
+      "example": "Housing is scarce in big cities."
+    },
+    {
+      "word": "significant",
+      "meaning": "important or large enough to matter",
+      "example": "The drawbacks are more significant."
+    },
+    {
+      "word": "mobility",
+      "meaning": "the ability to move or travel easily",
+      "example": "Career mobility separates families."
+    }
+  ],
+  "examinerComment": "Both parts of the question are answered with developed ideas and a clear position. Good control of complex sentences and a wide range of vocabulary. Estimated band 8."
+}

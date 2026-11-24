@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-003-P2",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 3,
+  "passageNumber": 2,
+  "title": "Galloping Gertie: The Bridge That Taught Engineers a Lesson",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "When the Tacoma Narrows Bridge opened in Washington State in July 1940, it was celebrated as a triumph of modern engineering. With a main span of 853 metres, it was the third longest suspension bridge in the world, and its designer, Leon Moisseiff, was one of the most respected bridge engineers of his generation. Moisseiff favoured slender, graceful structures, and the Tacoma design was the most slender of all. Instead of a deep, open framework of steel beams beneath the road, the deck was supported by shallow solid girders only 2.4 metres deep, and it was just twelve metres wide for a span of almost a kilometre. The design was also considerably cheaper than a stiffer alternative, an important consideration for a state with a limited budget during a time of economic hardship." },
+    { "label": "B", "text": "Almost from the day it opened, the bridge moved. Even in light winds, the deck rose and fell in long, rolling waves, sometimes by more than a metre, and drivers crossing the bridge reported that the car ahead of them would disappear from view and then reappear. Construction workers gave it the nickname 'Galloping Gertie', and some motorists came from far away just to enjoy the sensation, rather as they would at a fairground. The engineers, however, were concerned. They attached heavy steel cables to the ends of the deck and installed hydraulic devices to absorb the motion, but neither measure made any real difference." },
+    { "label": "C", "text": "On the morning of 7 November 1940, the wind was blowing at about 68 kilometres per hour, a strong breeze but far from a storm, and well below the speeds that the bridge was supposed to withstand. Then the movement of the deck changed. Instead of rising and falling, it began to twist, with one side of the roadway climbing while the other side dropped, until the angle between the two edges was close to forty-five degrees. The twisting grew steadily worse for about an hour, and at around eleven o'clock the central part of the deck broke apart and fell into the water below. No person lost their life; the only casualty was a dog left behind in a car. The whole event was recorded on film by the owner of a local camera shop, and the footage is still shown to engineering students today." },
+    { "label": "D", "text": "For many years, the textbook explanation of the failure was resonance. According to this account, the wind produced a regular series of whirling currents of air behind the deck, in the same way that a flag flutters, and the rhythm of these currents matched the natural rate of vibration of the bridge, causing the movement to build up in the same way that a child on a swing goes higher when pushed at the right moment. This explanation is not entirely wrong, but it is incomplete, and most specialists now regard it as misleading. The wind was steady, not rhythmic, so there was nothing to supply a regular push. The current view is that the bridge was destroyed by aeroelastic flutter. As the deck twisted, it changed the airflow around itself, and this altered airflow in turn increased the twisting, so that the motion fed on itself. Once the wind exceeded a certain speed, the energy it added to the movement was greater than the energy that the structure could lose, and the oscillations grew until the bridge failed." },
+    { "label": "E", "text": "Strong evidence for this view came from experiments with models. Frederick Farquharson, an engineering professor at the University of Washington, had tested a small replica of the bridge in a wind tunnel while the real structure was still being built, and his model had shown a disturbing tendency to twist. After the collapse, he and his colleagues built new, larger models and repeated the tests, and these reproduced the twisting motion that had been seen in the film. They also showed that the bridge would have behaved far better if its deck had been designed with openings through which the wind could pass, or with a deeper and more rigid structure. The tests confirmed that the problem was not a construction fault, but a flaw in the basic concept." },
+    { "label": "F", "text": "The collapse changed the way that long bridges are designed. The replacement bridge, which opened in 1950, had a deep deck made of open steel trusses that allow the wind to pass through, and a much wider roadway. More importantly, engineers began to treat the effects of wind as a central issue instead of a minor detail. Today, the designs of all major long-span bridges are tested in wind tunnels before construction starts, often using very large scale models that include the surrounding landscape. The Akashi Kaikyo Bridge in Japan, whose main span of almost two kilometres was the longest in the world when it opened in 1998, was designed with this kind of testing, and its deck has a carefully shaped cross-section intended to keep the airflow stable." },
+    { "label": "G", "text": "The lesson of Tacoma extends well beyond bridges. Flutter is also a danger for aircraft wings and for tall chimneys and skyscrapers, and the study of the phenomenon is now a standard part of engineering courses. Historians of engineering point out that earlier bridges built in a similar style had survived without trouble, which may have given designers a false sense of security. Success, in other words, had been mistaken for proof. The famous footage of the collapse continues to be used in classrooms, though many instructors now take care to explain that it does not show simple resonance, as it once was believed to do." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_headings",
+      "instruction": "Reading Passage 2 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-F from the list of headings below. Write the correct number, i-ix.",
+      "headings": {
+        "i": "A warning that was ignored by the authorities",
+        "ii": "A design admired for its slenderness and economy",
+        "iii": "Evidence from model experiments",
+        "iv": "A bridge that never stayed still",
+        "v": "The day the deck broke apart",
+        "vi": "Costs that rose beyond all estimates",
+        "vii": "New approaches to bridge design",
+        "viii": "Why a popular explanation fell short",
+        "ix": "A film that is still widely misunderstood"
+      },
+      "questions": [
+        { "number": 14, "text": "Paragraph B", "answer": ["iv"], "explanation": "The deck moved almost from the first day." },
+        { "number": 15, "text": "Paragraph C", "answer": ["v"], "explanation": "The collapse on 7 November." },
+        { "number": 16, "text": "Paragraph D", "answer": ["viii"], "explanation": "The resonance explanation is incomplete and misleading." },
+        { "number": 17, "text": "Paragraph E", "answer": ["iii"], "explanation": "Wind-tunnel models." },
+        { "number": 18, "text": "Paragraph F", "answer": ["vii"], "explanation": "The replacement bridge and wind-tunnel testing." }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 19, "text": "Cost was one of the reasons for the slender design of the bridge.", "answer": ["YES"], "explanation": "Paragraph A: the design was considerably cheaper." },
+        { "number": 20, "text": "The measures taken to reduce the movement of the deck were successful.", "answer": ["NO"], "explanation": "Paragraph B: neither measure made any real difference." },
+        { "number": 21, "text": "The film of the collapse is the most valuable ever made for engineering students.", "answer": ["NOT GIVEN"], "explanation": "The writer says it is still shown, but does not rank it." },
+        { "number": 22, "text": "The resonance explanation of the collapse is completely wrong.", "answer": ["NO"], "explanation": "Paragraph D: 'not entirely wrong, but incomplete'." },
+        { "number": 23, "text": "Wind-tunnel testing of long bridges is now standard practice.", "answer": ["YES"], "explanation": "Paragraph F: all major long-span designs are tested." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        { "number": 24, "text": "On the day of the collapse, the wind speed was about ______ kilometres per hour.", "answer": ["68"], "explanation": "Paragraph C." },
+        { "number": 25, "text": "Flutter occurs when the twisting of the deck alters the ______ around it.", "answer": ["airflow"], "explanation": "Paragraph D." },
+        { "number": 26, "text": "The replacement bridge was opened in ______.", "answer": ["1950"], "explanation": "Paragraph F." }
+      ]
+    }
+  ]
+}

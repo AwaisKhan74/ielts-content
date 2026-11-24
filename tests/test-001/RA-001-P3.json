@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-001-P3",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 1,
+  "passageNumber": 3,
+  "title": "The Myth of Multitasking",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "Most of us believe we are good at multitasking: replying to a message while listening on a conference call, or switching between documents while a video plays in the background. Surveys regularly show that office workers consider the ability to juggle several tasks an important professional skill, and employers frequently list it in job advertisements. Yet decades of research in psychology and neuroscience suggest that the human brain is far less capable of doing two things at once than we imagine." },
+    { "label": "B", "text": "The key distinction is between tasks that are automatic and those that demand attention. Walking while talking is easy, because walking has become largely automatic and requires very little conscious thought. But two tasks that both require concentration, such as writing an email and following a conversation, compete for the same mental resources. What feels like simultaneous activity is in fact rapid switching, with the brain shifting its focus from one task to the other and back again." },
+    { "label": "C", "text": "Each switch carries a cost. Psychologists call it the switch cost: a short delay while the brain disengages from one set of rules and loads another. In laboratory experiments conducted since the early 2000s, volunteers took noticeably longer to complete tasks, and made more errors, when they had to alternate between them than when they completed them one at a time. The delay caused by a single switch may be only a fraction of a second, but over a working day the cumulative loss can be substantial. Some estimates suggest that productivity may fall by as much as forty per cent, although this figure varies widely with the complexity of the tasks." },
+    { "label": "D", "text": "Interruptions create a further problem. In one study, office workers were observed over several days, and it was found that after an interruption they took, on average, more than twenty minutes to return to the original task at the same level of concentration. Part of the reason is what researchers call attention residue: thoughts about the unfinished task linger and compete with the new one. Interestingly, workers often compensated for the lost time by working faster, but this came at the price of higher stress and frustration." },
+    { "label": "E", "text": "Another line of research has asked whether people who multitask frequently become better at it. The answer seems to be no. In a widely cited comparison, individuals who reported heavy use of several media at once performed worse than light multitaskers on tests of memory and on tasks requiring them to ignore irrelevant information. This was unexpected, as the researchers had predicted that practice would make heavy multitaskers more skilled. Instead, they appeared to be more easily distracted by irrelevant details, although it remains uncertain whether multitasking causes this, or whether people who are naturally distractible are simply more drawn to multitasking." },
+    { "label": "F", "text": "There is some evidence, however, that a small proportion of people are exceptions. A team of researchers tested around two hundred people on a driving simulator while the participants also performed a demanding memory task, and found that about 2.5 per cent performed well on both. The researchers labelled these individuals supertaskers. But they stress that such people are extremely rare, and that most people who believe they belong to this group are mistaken: in tests, self-rated multitasking ability bears little relation to actual performance." },
+    { "label": "G", "text": "What can be done? Experts recommend working in focused blocks, in which notifications are turned off and one task is completed at a time, with short breaks scheduled between blocks. Some companies have introduced email-free periods or limited internal messages to certain hours. Others encourage employees to batch similar activities, such as replying to messages, so that switching occurs less often. The advice may feel counter-intuitive to those who pride themselves on juggling many tasks, but the evidence suggests that doing less at once leads to doing more overall." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questions": [
+        { "number": 27, "text": "According to paragraph A, many employers", "options": { "A": "regard multitasking as a valuable skill.", "B": "train their staff to multitask.", "C": "doubt that their employees can multitask.", "D": "pay more to workers who multitask." }, "answer": ["A"], "explanation": "Employers frequently list it in job advertisements." },
+        { "number": 28, "text": "Why can people walk and talk at the same time, according to the writer?", "options": { "A": "Talking is easier than walking.", "B": "The brain has separate areas for each activity.", "C": "Walking needs little conscious attention.", "D": "People learn both skills at the same age." }, "answer": ["C"], "explanation": "Walking is largely automatic and requires little conscious thought." },
+        { "number": 29, "text": "What do the experiments described in paragraph C show?", "options": { "A": "Switching between tasks slows people down and causes errors.", "B": "Volunteers prefer to complete tasks one at a time.", "C": "Complex tasks are completed faster when alternated.", "D": "Productivity always falls by forty per cent." }, "answer": ["A"], "explanation": "Volunteers took longer and made more errors; the forty per cent figure varies." },
+        { "number": 30, "text": "What surprised the researchers in paragraph E?", "options": { "A": "Heavy multitaskers performed worse than light multitaskers.", "B": "Light multitaskers had better memories than expected.", "C": "People who multitask are naturally distractible.", "D": "Practice made heavy multitaskers more skilled." }, "answer": ["A"], "explanation": "They had predicted that practice would make heavy multitaskers more skilled." }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer? Write YES, NO or NOT GIVEN.",
+      "questions": [
+        { "number": 31, "text": "Most employers train their staff to avoid multitasking.", "answer": ["NOT GIVEN"], "explanation": "Employer training is not discussed." },
+        { "number": 32, "text": "After an interruption, workers usually work more slowly to avoid mistakes.", "answer": ["NO"], "explanation": "Workers often worked faster to make up lost time." },
+        { "number": 33, "text": "It has been proven that frequent multitasking causes people to become more distractible.", "answer": ["NO"], "explanation": "It remains uncertain whether multitasking causes this." },
+        { "number": 34, "text": "Most people who think they are good at multitasking are probably mistaken.", "answer": ["YES"], "explanation": "Most people who believe they are supertaskers are mistaken." },
+        { "number": 35, "text": "Supertaskers are more common among younger people.", "answer": ["NOT GIVEN"], "explanation": "Age is not mentioned." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "title": "Why multitasking does not work",
+      "questions": [
+        { "number": 36, "text": "When two tasks both need concentration, the brain does not do them together but instead engages in rapid ______ between them.", "answer": ["switching"], "explanation": "Paragraph B." },
+        { "number": 37, "text": "Each change of task causes a short delay known as the ______.", "answer": ["switch cost"], "explanation": "Paragraph C." },
+        { "number": 38, "text": "After an interruption, concentration remains reduced because of ______, in which thoughts about the earlier task linger.", "answer": ["attention residue"], "explanation": "Paragraph D." },
+        { "number": 39, "text": "Experts advise working in ______ with notifications turned off.", "answer": ["focused blocks"], "explanation": "Paragraph G." },
+        { "number": 40, "text": "Employees may also ______ similar activities, such as replying to messages, to reduce switching.", "answer": ["batch"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-005-P2",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 5,
+  "passageNumber": 2,
+  "title": "Farming Upwards: The Promise of Vertical Farms",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "By the middle of this century, the world's population is expected to approach ten billion, and about two-thirds of those people are likely to live in cities. Feeding them will require a great deal more food, yet the amount of fertile land is shrinking because of erosion, urban expansion and the effects of climate change. One idea that has attracted growing attention is vertical farming, which means growing crops indoors, in layers stacked one above the other. The concept was popularised around 1999 by Dickson Despommier, a professor of environmental health at Columbia University in New York, whose students began by studying the possibility of growing food on city rooftops. When they calculated that the rooftops would feed only a small fraction of the population, they started to imagine whole buildings devoted to farming." },
+    { "label": "B", "text": "A typical vertical farm is a warehouse or a converted shipping container, filled with shelves of plants. The crops do not grow in soil. In hydroponic systems, the roots are suspended in water that is rich in dissolved nutrients, while in aeroponic systems, they hang in the air and are sprayed with a fine mist of nutrient solution. Sunlight is replaced by light-emitting diodes, or LEDs, which can be adjusted to supply exactly the wavelengths of light that plants use best. Computers monitor and control the temperature, humidity and levels of carbon dioxide, so that conditions are the same every day of the year." },
+    { "label": "C", "text": "Supporters of vertical farming point to several advantages. Because the water is recycled, these farms are said to use up to 95 per cent less water than traditional fields, which is a significant benefit in dry regions. As the plants are grown in sealed rooms, there are usually no insects, and pesticides are unnecessary. Crops can be harvested all year, regardless of the weather, and the yield from each square metre can be many times higher than that of an outdoor field, since the plants are stacked in layers. Finally, a farm in the middle of a city can supply shops and restaurants within a few kilometres, which cuts the cost of transport and the amount of fuel burned in delivering fresh produce." },
+    { "label": "D", "text": "A number of countries have shown particular interest. Singapore, a densely populated island that imports more than ninety per cent of its food, has encouraged commercial vertical farms as part of its plan to produce more of its own food. Japan, with its limited farmland and an ageing farming population, has built hundreds of indoor farms. However, the industry has also suffered some highly publicised setbacks. Several well-funded companies in the United States, including some that had raised hundreds of millions of dollars from investors, have closed or gone bankrupt in recent years, largely because their costs were higher than they had predicted." },
+    { "label": "E", "text": "The most serious problem is energy. Replacing sunlight with artificial light requires a large amount of electricity, and for many farms, power is the largest single expense. This helps to explain why most vertical farms grow leafy greens, herbs and a few kinds of fruit, such as strawberries, which are light, grow quickly and sell at a high price. The staple crops that supply most of the world's calories, such as wheat, rice and maize, are far harder to grow indoors. They are taller, take months to mature and produce relatively little food for each plant, so the cost of the electricity needed would be far greater than the value of the harvest. At present, therefore, vertical farms feed the world's salad bowls, but not its bread baskets." },
+    { "label": "F", "text": "The question of whether vertical farms are better for the environment is also not simple. Some studies have found that lettuce grown indoors under electric light has a larger carbon footprint than lettuce grown in a field and transported a long distance, if the electricity comes from coal or gas. The balance changes when renewable power is used, and many companies are now installing solar panels or buying wind energy. In addition, the efficiency of LEDs continues to improve, which reduces the amount of electricity required. In other words, the environmental benefit depends on where the electricity comes from." },
+    { "label": "G", "text": "Most analysts therefore expect vertical farming to complement traditional agriculture, rather than replace it. The technology may prove most valuable where conditions make outdoor farming difficult, for example in the deserts of the Middle East, in cold northern communities where fresh vegetables are normally flown in at great expense, and in cities where people have little access to fresh food. Research is also under way to develop dwarf varieties of wheat and rice that would be better suited to indoor cultivation. If these efforts succeed, the stacked farms of the future may be able to grow a wider range of crops than lettuce." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G.",
+      "questions": [
+        { "number": 14, "text": "an explanation of how plants can be fed without soil", "answer": ["B"], "explanation": "Paragraph B: hydroponic and aeroponic systems." },
+        { "number": 15, "text": "the name of an academic who helped to make the idea widely known", "answer": ["A"], "explanation": "Paragraph A: Dickson Despommier." },
+        { "number": 16, "text": "a reference to businesses that have not succeeded", "answer": ["D"], "explanation": "Paragraph D: companies that closed or went bankrupt." },
+        { "number": 17, "text": "a reason why staple crops are difficult to grow in this way", "answer": ["E"], "explanation": "Paragraph E: taller, slow, low yield per plant." },
+        { "number": 18, "text": "a condition under which indoor farming would produce less pollution", "answer": ["F"], "explanation": "Paragraph F: when renewable power is used." }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 19, "text": "Vertical farming will eventually replace traditional agriculture.", "answer": ["NO"], "explanation": "Paragraph G: it will complement, not replace." },
+        { "number": 20, "text": "Growing food close to consumers can reduce transport costs.", "answer": ["YES"], "explanation": "Paragraph C." },
+        { "number": 21, "text": "The Singapore government should invest more money in vertical farms.", "answer": ["NOT GIVEN"], "explanation": "The writer gives no opinion on this." },
+        { "number": 22, "text": "Vertical farms are currently best suited to growing leafy vegetables.", "answer": ["YES"], "explanation": "Paragraph E." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        { "number": 23, "text": "In aeroponic systems, the roots are sprayed with a fine mist of ______.", "answer": ["nutrient solution"], "explanation": "Paragraph B." },
+        { "number": 24, "text": "Vertical farms are said to use up to ______ per cent less water than traditional fields.", "answer": ["95"], "explanation": "Paragraph C." },
+        { "number": 25, "text": "For many vertical farms, the largest single expense is ______.", "answer": ["power", "electricity"], "explanation": "Paragraph E: electricity / power." },
+        { "number": 26, "text": "Vertical farming may be most useful in desert regions such as the ______.", "answer": ["Middle East"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

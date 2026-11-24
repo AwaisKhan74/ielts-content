@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-004-S3",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 4,
+  "sectionNumber": 3,
+  "title": "Lighthouses: Guardians of the Coast",
+  "difficulty": "hard",
+  "texts": [
+    {
+      "title": "Lighthouses: Guardians of the Coast",
+      "paragraphs": [
+        { "label": "A", "text": "For as long as people have sailed the seas, they have needed warnings of dangerous coastlines. The most famous early example was the Pharos of Alexandria, built on an island off the coast of Egypt around 280 BC. It was counted among the Seven Wonders of the Ancient World, and was probably more than a hundred metres tall. A fire burned at the top, and it is thought that its light was reflected out to sea by a polished metal mirror. The tower was damaged by a series of earthquakes, and by the fourteenth century it had disappeared, but the name Pharos survives in the word for lighthouse in several languages." },
+        { "label": "B", "text": "For many centuries afterwards, most lighthouses were simply fires burning on top of towers, using wood, coal or candles, and they were often unreliable. Building on rocks surrounded by water was particularly difficult. The Eddystone rocks, which lie in the English Channel near the port of Plymouth, were so dangerous to ships that several lighthouses were built there, but the first two were destroyed, one by a storm and one by fire. The third, designed by John Smeaton and completed in 1759, was a triumph. Smeaton took the shape of an oak tree as his model, with a wide base narrowing towards the top, and built the tower from granite blocks locked together with joints in the way that a carpenter joins wood. It stood for over a century, and was finally taken down in 1877, not because it was weak, but because the rock beneath it was being worn away by the sea." },
+        { "label": "C", "text": "The greatest advance in lighthouse technology came in 1822, when the French physicist Augustin-Jean Fresnel invented a new kind of lens. Earlier lenses were large pieces of solid glass, which were very heavy and absorbed a lot of the light. Fresnel's design was made of a series of rings of glass prisms arranged in a pattern, which bent the light from a single lamp into a powerful horizontal beam. It was far lighter and used much less glass, and the light could be seen many kilometres further out to sea. The lens could also be made to rotate, so that each lighthouse gave a distinctive pattern of flashes, which sailors could identify on their charts." },
+        { "label": "D", "text": "The keepers who looked after these lights led hard and often lonely lives. They had to trim the wicks of the oil lamps, polish the lenses, and wind a clockwork mechanism every few hours throughout the night to keep the lens turning. On remote rocks, they might be cut off from the mainland for weeks by bad weather. One of the most famous mysteries in the history of lighthouses occurred in 1900, when three keepers disappeared from the Flannan Isles, off the coast of Scotland. When a relief boat arrived, the lighthouse was empty, and although the cause was probably a freak wave that swept the men from the rocks, the true story has never been fully explained." },
+        { "label": "E", "text": "During the twentieth century, the profession gradually disappeared. Electric lamps replaced oil, and later systems that could be monitored and controlled from the shore made the keeper unnecessary. Governments, who were paying for the staff and for supplies, welcomed the savings. In Britain, the last lighthouse keepers left their post in 1998, when the North Foreland lighthouse, in Kent, was automated. Many keepers' houses were sold, and a number of lighthouses were converted into museums, hotels and holiday homes." },
+        { "label": "F", "text": "The arrival of satellite navigation has reduced the importance of lighthouses even further, as most ships now know their position to within a few metres. Even so, maritime authorities have not switched them off. Satellite signals can fail or be deliberately jammed, and electronic equipment can break down, so an old-fashioned light remains a valuable means of back-up. Smaller boats, such as fishing vessels and yachts, which often lack advanced equipment, also continue to depend on the lights. Some lighthouses now carry extra equipment, such as weather instruments, which relay information to forecasters." },
+        { "label": "G", "text": "Whatever their practical role today, lighthouses continue to hold a special place in the public imagination. They feature on stamps and in paintings, and every year, millions of tourists visit them. For many people, they symbolise safety, courage and the long relationship between human beings and the sea." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the text? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 28, "text": "The Pharos of Alexandria was one of the Seven Wonders of the Ancient World.", "answer": ["TRUE"], "explanation": "Paragraph A." },
+        { "number": 29, "text": "Smeaton's lighthouse at Eddystone was built from wood.", "answer": ["FALSE"], "explanation": "Paragraph B: granite blocks." },
+        { "number": 30, "text": "Fresnel's lens was heavier than the lenses used before it.", "answer": ["FALSE"], "explanation": "Paragraph C: far lighter." },
+        { "number": 31, "text": "Lighthouse keepers were required to be married.", "answer": ["NOT GIVEN"], "explanation": "Nothing is said about the keepers' marital status." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer.",
+      "questions": [
+        { "number": 32, "text": "The Pharos of Alexandria was built around ______ BC.", "answer": ["280"], "explanation": "Paragraph A." },
+        { "number": 33, "text": "Smeaton based the shape of his tower on that of an ______ tree.", "answer": ["oak"], "explanation": "Paragraph B." },
+        { "number": 34, "text": "Fresnel's lens was made of rings of glass ______.", "answer": ["prisms"], "explanation": "Paragraph C." },
+        { "number": 35, "text": "Keepers had to wind a ______ mechanism to keep the lens turning.", "answer": ["clockwork"], "explanation": "Paragraph D." },
+        { "number": 36, "text": "The last lighthouse keepers in Britain left their posts in ______.", "answer": ["1998"], "explanation": "Paragraph E." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 37,
+          "text": "Why was Smeaton's tower taken down in 1877?",
+          "options": { "A": "It had been damaged by a fire.", "B": "The rock beneath it was being worn away.", "C": "Ships had collided with it." },
+          "answer": ["B"],
+          "explanation": "Not because it was weak, but because the rock was being eroded."
+        },
+        {
+          "number": 38,
+          "text": "Why did lighthouses become automated?",
+          "options": { "A": "The keepers asked for better pay.", "B": "Technology made keepers unnecessary and governments saved money.", "C": "Ships stopped using lighthouses." },
+          "answer": ["B"],
+          "explanation": "Electric lamps and remote control; governments welcomed the savings."
+        },
+        {
+          "number": 39,
+          "text": "Why are lighthouses still maintained despite satellite navigation?",
+          "options": { "A": "They attract tourists.", "B": "Electronic systems may fail or be jammed.", "C": "Large ships do not have the equipment." },
+          "answer": ["B"],
+          "explanation": "Satellite signals can fail or be jammed, so lighthouses are a back-up."
+        },
+        {
+          "number": 40,
+          "text": "What is the writer's main purpose in the text?",
+          "options": { "A": "to describe how lighthouses have developed and changed", "B": "to argue that all lighthouses should be reopened", "C": "to explain how to build a lighthouse" },
+          "answer": ["A"],
+          "explanation": "The text traces lighthouses from antiquity to the present."
+        }
+      ]
+    }
+  ]
+}

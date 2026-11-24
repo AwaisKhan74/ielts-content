@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "L-002-S1",
+  "module": "listening",
+  "testNumber": 2,
+  "sectionNumber": 1,
+  "title": "Booking a Hall for an Anniversary Party",
+  "accent": "australian",
+  "difficulty": "easy",
+  "speakers": [
+    { "id": "A", "name": "Mark (hall manager)", "gender": "male", "voice": "en-AU-WilliamNeural" },
+    { "id": "B", "name": "Ruth", "gender": "female", "voice": "en-AU-NatashaNeural" }
+  ],
+  "script": [
+    { "speaker": "A", "text": "Good afternoon, Parkview Community Hall. Mark speaking. How can I help?" },
+    { "speaker": "B", "text": "Hello, Mark. I'm hoping to book a hall for a family party in June. Do you have anything available?" },
+    { "speaker": "A", "text": "Possibly. Let me take a few details first, and then I'll check the diary. Could I have your name, please?" },
+    { "speaker": "B", "text": "Yes, it's Ruth Okonkwo." },
+    { "speaker": "A", "text": "Sorry, could you spell the surname for me?" },
+    { "speaker": "B", "text": "Of course. It's O-K-O-N-K-W-O." },
+    { "speaker": "A", "text": "Okonkwo, got it. And what's the occasion?" },
+    { "speaker": "B", "text": "It's my parents' fortieth wedding anniversary, so we're planning quite a big celebration." },
+    { "speaker": "A", "text": "Lovely. And how many guests are you expecting?" },
+    { "speaker": "B", "text": "Well, we originally said fifty, but my cousins from Leeds have decided to come after all, so it'll be nearer sixty now." },
+    { "speaker": "A", "text": "Sixty. That matters, because we have two halls. The Birch Room only holds forty people, but the Maple Room can seat up to eighty, so that's the one you'd need." },
+    { "speaker": "B", "text": "Great, the Maple Room it is, then. I think my mother has actually been to a party there before." },
+    { "speaker": "A", "text": "Quite possibly. It's very popular. Now, which date did you have in mind?" },
+    { "speaker": "B", "text": "I was hoping for Saturday the fourteenth of June." },
+    { "speaker": "A", "text": "Ah, I'm afraid the fourteenth is already taken. We've got a wedding reception booked in that day. But the following Saturday, the twenty-first, is free." },
+    { "speaker": "B", "text": "The twenty-first would be fine, actually. Does that include the evening? We'd like to start at six." },
+    { "speaker": "A", "text": "Yes, six is no problem. The only restriction is the finishing time. Our licence means that all events must end by eleven thirty, and everyone has to be out of the building by midnight." },
+    { "speaker": "B", "text": "Eleven thirty is a bit early for a party, but I suppose that's all right. I'd imagined midnight." },
+    { "speaker": "A", "text": "I'm afraid that's the rule, because of the neighbours. Some of the older halls nearby stay open later, but we can't." },
+    { "speaker": "B", "text": "I understand. And what does it cost?" },
+    { "speaker": "A", "text": "For the Maple Room on a Saturday, it's thirty-five pounds an hour. The Birch Room is twenty-eight, and on weekdays the Maple Room is only twenty-five, but of course that's no use to you." },
+    { "speaker": "B", "text": "Thirty-five an hour, and from six till eleven thirty is five and a half hours. That's fine." },
+    { "speaker": "A", "text": "We also ask for a deposit to confirm the booking. It used to be a hundred and fifty pounds, but since last year it's been a hundred. It's returned after the event, provided there's no damage." },
+    { "speaker": "B", "text": "A hundred, no problem." },
+    { "speaker": "A", "text": "Right. Now, about food. Have you thought about catering?" },
+    { "speaker": "B", "text": "My sister was going to cook, actually. Is that allowed?" },
+    { "speaker": "A", "text": "I'm afraid the council requires us to use caterers from an approved list, which I can email to you. But you're very welcome to bring your own cake." },
+    { "speaker": "B", "text": "Oh, that's a shame, but I understand. We'll look at the list. And can we have a DJ?" },
+    { "speaker": "A", "text": "Yes, that's fine. You'll just need to turn the volume down after ten o'clock, as there are houses very close by, and the neighbours have complained in the past." },
+    { "speaker": "B", "text": "Understood. One last thing: where can our guests park?" },
+    { "speaker": "A", "text": "There are only six spaces behind the hall, and those are really for disabled guests and for unloading. Most people use the library car park across the road. It's free after six in the evening." },
+    { "speaker": "B", "text": "Brilliant. And how do I confirm the booking?" },
+    { "speaker": "A", "text": "I'll email you a form today, and you can return it with the deposit within seven days. Someone will also need to collect the key from the office on the Friday afternoon." },
+    { "speaker": "B", "text": "That's fine. My brother can do that." },
+    { "speaker": "A", "text": "Wonderful. Thanks for calling, Ruth, and I hope the party goes well." },
+    { "speaker": "B", "text": "Thank you very much, Mark. Goodbye." }
+  ],
+  "questionGroups": [
+    {
+      "type": "form_completion",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "title": "Parkview Community Hall: Booking Form",
+      "questions": [
+        { "number": 1, "text": "Surname: ______", "answer": ["Okonkwo"], "explanation": "Spelled O-K-O-N-K-W-O." },
+        { "number": 2, "text": "Number of guests: ______", "answer": ["60", "sixty"], "explanation": "Fifty was the original number, but with the cousins it is nearer sixty." },
+        { "number": 3, "text": "Hall: the ______ Room", "answer": ["Maple"], "explanation": "The Birch Room holds only forty; the Maple Room seats eighty." },
+        { "number": 4, "text": "Date: Saturday ______ June", "answer": ["21", "21st", "twenty-first", "twenty first"], "explanation": "The 14th is already taken, so they book the 21st." },
+        { "number": 5, "text": "Event must end by: ______ pm", "answer": ["11.30", "11:30", "eleven thirty", "half past eleven"], "explanation": "The licence requires events to finish by 11.30 (people out by midnight)." },
+        { "number": 6, "text": "Cost: £______ per hour", "answer": ["35", "thirty-five", "thirty five"], "explanation": "Maple Room on Saturday is 35 pounds an hour." },
+        { "number": 7, "text": "Deposit: £______", "answer": ["100", "a hundred", "one hundred"], "explanation": "It used to be 150, but is now 100." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 8, "text": "What does Mark say about food?", "options": { "A": "The hall will provide all the food.", "B": "Customers must use an approved caterer.", "C": "Customers may bring any food they like." }, "answer": ["B"], "explanation": "Caterers must come from the approved list; only a cake may be brought." },
+        { "number": 9, "text": "What condition applies to having a DJ?", "options": { "A": "Live music is not allowed.", "B": "Music must stop at ten o'clock.", "C": "The volume must be reduced after ten o'clock." }, "answer": ["C"], "explanation": "A DJ is fine, but the volume must be turned down after ten." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the question below. Write NO MORE THAN THREE WORDS.",
+      "questions": [
+        { "number": 10, "text": "Where will most guests park?", "answer": ["library car park", "the library car park", "library"], "explanation": "Most people use the library car park across the road." }
+      ]
+    }
+  ]
+}

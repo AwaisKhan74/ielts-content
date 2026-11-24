@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "L-001-S1",
+  "module": "listening",
+  "testNumber": 1,
+  "sectionNumber": 1,
+  "title": "Enquiring About a Photography Course",
+  "accent": "british",
+  "difficulty": "easy",
+  "speakers": [
+    { "id": "A", "name": "Receptionist", "gender": "female", "voice": "en-GB-SoniaNeural" },
+    { "id": "B", "name": "Daniel", "gender": "male", "voice": "en-GB-RyanNeural" }
+  ],
+  "script": [
+    { "speaker": "A", "text": "Good morning, Harbourside Community College. How can I help you?" },
+    { "speaker": "B", "text": "Hello. I'm phoning about the beginners' photography course that starts soon. I wanted to find out if there are any places left." },
+    { "speaker": "A", "text": "Yes, we've still got a few places on that one. It's proving quite popular this year. I'll just take a few details, if that's all right. Could I have your surname, please?" },
+    { "speaker": "B", "text": "Yes, it's Whitcombe." },
+    { "speaker": "A", "text": "Sorry, could you spell that for me?" },
+    { "speaker": "B", "text": "Of course. That's W-H-I-T-C-O-M-B-E." },
+    { "speaker": "A", "text": "Lovely, thank you. And your first name is Daniel, isn't it?" },
+    { "speaker": "B", "text": "That's right." },
+    { "speaker": "A", "text": "Thanks, Daniel. And what's the best number to contact you on?" },
+    { "speaker": "B", "text": "My mobile's best. It's oh seven seven oh oh, nine oh oh, one four three." },
+    { "speaker": "A", "text": "So that's oh seven seven oh oh, nine oh oh, one four three." },
+    { "speaker": "B", "text": "Yes, that's correct." },
+    { "speaker": "A", "text": "Now, do you live in the borough? Residents get a reduced fee, you see." },
+    { "speaker": "B", "text": "Yes, I do. I live at twenty-seven Mill Lane, just across from the park." },
+    { "speaker": "A", "text": "Mill Lane, that's M-I-L-L, is it?" },
+    { "speaker": "B", "text": "That's it." },
+    { "speaker": "A", "text": "Then you qualify for the resident's rate. The normal fee is ninety-five pounds, but for residents it comes to eighty-five." },
+    { "speaker": "B", "text": "Oh, that's good. I thought it would be more. I'm sure the website said a hundred and five." },
+    { "speaker": "A", "text": "Ah, that was last year's price. It went down when the college received some extra funding." },
+    { "speaker": "B", "text": "Great. And when does the course actually begin? The leaflet I picked up says the seventh of January." },
+    { "speaker": "A", "text": "Yes, that's what was printed, but unfortunately we've had to postpone it by a week because the heating system in the main building is being replaced. So the first class will now be on Tuesday the fourteenth of January." },
+    { "speaker": "B", "text": "The fourteenth, okay. And is it still at seven in the evening?" },
+    { "speaker": "A", "text": "It was, but we've changed it to six thirty, so that people can get home at a reasonable time. It finishes at eight thirty, and there's a short break in the middle." },
+    { "speaker": "B", "text": "That suits me even better, actually. Do I need to bring any equipment?" },
+    { "speaker": "A", "text": "Just a camera. It doesn't have to be an expensive one, but it does need to have manual settings, because we spend a lot of time learning how to control the exposure yourself. A phone camera won't be suitable, I'm afraid. We provide tripods, so there's no need to buy one." },
+    { "speaker": "B", "text": "Good. I've got an old camera that my brother gave me, so that should do the job." },
+    { "speaker": "A", "text": "Perfect. Right, I just have a couple of quick questions for our records. How did you hear about the course? Was it on our website?" },
+    { "speaker": "B", "text": "No, not the website. My friend Carl did a woodwork course at the college last year and he always speaks highly of it, but it was a poster in the public library that told me about this particular course." },
+    { "speaker": "A", "text": "I see, the library. We put posters up there every term. And what made you decide to do photography? Is it for work?" },
+    { "speaker": "B", "text": "No, nothing like that. My wife and I are going to Iceland in the summer, and I'm tired of my holiday photos looking flat and boring. I'd really like to be able to do the scenery justice." },
+    { "speaker": "A", "text": "That sounds like a wonderful trip. Well, you'll learn plenty. One more thing: at the end of the course, students put on a small exhibition of their favourite photographs. It's held in the college café, so friends and family are welcome to come along." },
+    { "speaker": "B", "text": "Oh, that sounds brilliant. I'll have to choose carefully!" },
+    { "speaker": "A", "text": "I'll send a confirmation email today with details of how to pay. You can pay online or at reception." },
+    { "speaker": "B", "text": "Wonderful. Thanks very much for your help." },
+    { "speaker": "A", "text": "You're welcome, Daniel. We'll see you in January." }
+  ],
+  "questionGroups": [
+    {
+      "type": "form_completion",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "title": "Harbourside Community College: Course Booking Form (Beginners' Photography)",
+      "questions": [
+        { "number": 1, "text": "Surname: ______", "answer": ["Whitcombe"], "explanation": "The caller spells the surname W-H-I-T-C-O-M-B-E." },
+        { "number": 2, "text": "Mobile number: ______", "answer": ["07700 900143", "07700900143"], "explanation": "Oh seven seven oh oh, nine oh oh, one four three." },
+        { "number": 3, "text": "Address: 27 ______ Lane", "answer": ["Mill"], "explanation": "He lives at 27 Mill Lane (spelled M-I-L-L)." },
+        { "number": 4, "text": "Fee for residents: £______", "answer": ["85", "eighty-five", "eighty five"], "explanation": "The normal fee is 95 and last year's was 105, but residents pay 85." },
+        { "number": 5, "text": "First class: Tuesday ______", "answer": ["14 January", "14th January", "January 14", "January 14th", "14th of January", "the fourteenth of January"], "explanation": "The printed date (7 January) was postponed by a week." },
+        { "number": 6, "text": "Class starts at: ______ pm", "answer": ["6.30", "6:30", "6.30 pm", "6:30 pm", "half past six"], "explanation": "The time was changed from seven to six thirty." },
+        { "number": 7, "text": "Students must bring a camera with ______ settings.", "answer": ["manual"], "explanation": "The camera must have manual settings." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 8, "text": "How did Daniel find out about the course?", "options": { "A": "from a friend who studied at the college", "B": "from a poster in the library", "C": "from the college website" }, "answer": ["B"], "explanation": "His friend recommended the college generally, but the poster in the public library told him about this course." },
+        { "number": 9, "text": "Why does Daniel want to do the course?", "options": { "A": "to start a new career", "B": "to take better photographs on a trip", "C": "to meet new people" }, "answer": ["B"], "explanation": "He is going to Iceland and wants better holiday photos." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the question below. Write NO MORE THAN TWO WORDS.",
+      "questions": [
+        { "number": 10, "text": "Where will the students' photographs be displayed at the end of the course?", "answer": ["college café", "college cafe", "café", "cafe", "the college café"], "explanation": "The exhibition is held in the college café." }
+      ]
+    }
+  ]
+}

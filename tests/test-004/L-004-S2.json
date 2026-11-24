@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "L-004-S2",
+  "module": "listening",
+  "testNumber": 4,
+  "sectionNumber": 2,
+  "title": "Visitor Information at a Wildlife Park",
+  "accent": "australian",
+  "difficulty": "medium",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Emma (park ranger)",
+      "gender": "female",
+      "voice": "en-AU-NatashaNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good morning, everybody, and welcome to Willowbrook Wildlife Park. My name's Emma, and I'm one of the rangers here. Before you set off to explore, I'd like to give you some useful information about the park, and a few suggestions to help you make the most of your day."
+    },
+    {
+      "speaker": "A",
+      "text": "Many visitors think that Willowbrook has always been a zoo, but that isn't the case. It was started in 1985 by a retired vet called Dr Marian Cole, who began by caring for injured wild animals that people brought to her farm. Hedgehogs, owls and foxes were the first residents. As word spread, more and more animals arrived, and she opened her gates to the public so that the entrance fees could pay for their food and medicine. Today, we still run a rescue centre behind the scenes, and about half of our income comes from your tickets and the rest from donations and membership."
+    },
+    {
+      "speaker": "A",
+      "text": "There's lots of news this year. We've recently built a brand-new children's playground near the entrance, and the café has been completely redecorated, but the biggest attraction is our new bird of prey show, which opened in April. It takes place every afternoon at three o'clock, and you can see eagles, hawks and owls flying just above your heads. Do arrive early if you want a good seat, because it's extremely popular."
+    },
+    {
+      "speaker": "A",
+      "text": "A few general rules. Photography is very welcome, and we hope you'll share your pictures with us online. In most areas you may use a flash, although it's forbidden in the Night Zone, as it upsets the animals. What we ask you not to do is to feed any of the animals, whatever they might seem to want. They're on carefully planned diets, and the wrong food can make them ill. You can, however, touch and stroke the animals in the Farm Corner, under the supervision of a keeper."
+    },
+    {
+      "speaker": "A",
+      "text": "If you're hungry, there's a café near the entrance. It serves hot meals, sandwiches and ice cream, and if you show your membership card at the till, you'll get ten per cent off. You can also buy a map at the entrance for one pound, but there's one pinned on the board behind me if you'd rather not pay."
+    },
+    {
+      "speaker": "A",
+      "text": "Now, let me quickly describe the main areas, which you'll find on your map. As you go through the gate, the first area you'll see on your left is the Reptile House. I'm afraid it's closed at the moment, because the roof is being repaired. We hope to reopen it next month, but until then you can see a few of our snakes at the information desk, where our keepers give short talks at eleven and two."
+    },
+    {
+      "speaker": "A",
+      "text": "Next to the playground is the Farm Corner, which is the best place for young children. They can stroke goats and rabbits and see the donkeys being brushed, which they love. It's open all day, but the animals get a rest between twelve and one, so it's best to go in the morning or after lunch."
+    },
+    {
+      "speaker": "A",
+      "text": "If you follow the main path to the right, you'll reach the Penguin Pool, which is one of our most popular exhibits. The penguins are fed at two o'clock every day, and keepers explain how the birds live and what we do to protect them in the wild. Please don't tap on the glass, because it frightens them."
+    },
+    {
+      "speaker": "A",
+      "text": "Beyond the penguins is the Rainforest Dome, a huge glasshouse in which the temperature is kept at thirty degrees. You'll see monkeys, colourful birds, butterflies and some very large lizards. There's a small extra charge to go in, which helps us to pay for the heating, and tickets must be bought at the entrance to the dome. Please remember that it's very humid inside, so you may not want to wear a heavy coat."
+    },
+    {
+      "speaker": "A",
+      "text": "Further along, you'll find the Night Zone. It's a long, dark building where the lighting is reversed, so that animals that are active at night, like bats and owls, can be seen during the day. You'll need a few minutes for your eyes to adjust, and please talk quietly. As I mentioned, there's no flash photography in here."
+    },
+    {
+      "speaker": "A",
+      "text": "And finally, at the far end of the park, is the Picnic Meadow. If you've brought your own lunch, this is the place to eat it, because food isn't allowed in the animal areas. There are plenty of tables and benches, and children can play on the grass. It's also a good place to rest your legs, as you'll have walked nearly four kilometres by the time you get there."
+    },
+    {
+      "speaker": "A",
+      "text": "Finally, a word about safety. Please keep a close eye on your children, particularly near the water, and don't leave bags unattended. If you need any help, you'll recognise us by our green uniforms, and there are information points at several places along the path. We hope you have a wonderful day, and thank you for supporting Willowbrook."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 11,
+          "text": "What was the original purpose of Willowbrook?",
+          "options": {
+            "A": "to display exotic animals",
+            "B": "to care for injured wild animals",
+            "C": "to teach people about farming"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Dr Cole began by caring for injured wild animals brought to her farm."
+        },
+        {
+          "number": 12,
+          "text": "What is new at the park this year?",
+          "options": {
+            "A": "a café",
+            "B": "a children's playground",
+            "C": "a bird of prey show"
+          },
+          "answer": [
+            "C"
+          ],
+          "explanation": "The playground and café redecoration are mentioned, but the biggest new attraction is the bird of prey show."
+        },
+        {
+          "number": 13,
+          "text": "Visitors are asked not to",
+          "options": {
+            "A": "take photographs.",
+            "B": "feed the animals.",
+            "C": "touch the animals in the Farm Corner."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Photography is welcome and the Farm Corner animals can be stroked."
+        },
+        {
+          "number": 14,
+          "text": "How can visitors get a discount in the café?",
+          "options": {
+            "A": "by showing a membership card",
+            "B": "by arriving before ten o'clock",
+            "C": "by buying a map"
+          },
+          "answer": [
+            "A"
+          ],
+          "explanation": "Ten per cent off with a membership card."
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Label the map. Which area of the park does each statement describe? Choose the correct letter, A-F, for each answer.",
+      "options": {
+        "A": "Reptile House",
+        "B": "Penguin Pool",
+        "C": "Farm Corner",
+        "D": "Rainforest Dome",
+        "E": "Night Zone",
+        "F": "Picnic Meadow"
+      },
+      "questions": [
+        {
+          "number": 15,
+          "text": "animals are fed at two o'clock",
+          "answer": [
+            "B"
+          ],
+          "explanation": "Penguins are fed at two."
+        },
+        {
+          "number": 16,
+          "text": "visitors can stroke the animals",
+          "answer": [
+            "C"
+          ],
+          "explanation": "Goats and rabbits in the Farm Corner."
+        },
+        {
+          "number": 17,
+          "text": "is closed for repairs",
+          "answer": [
+            "A"
+          ],
+          "explanation": "The roof of the Reptile House is being repaired."
+        },
+        {
+          "number": 18,
+          "text": "requires an extra payment",
+          "answer": [
+            "D"
+          ],
+          "explanation": "A small extra charge for the Rainforest Dome."
+        },
+        {
+          "number": 19,
+          "text": "visitors must speak quietly",
+          "answer": [
+            "E"
+          ],
+          "explanation": "In the Night Zone, please talk quietly."
+        },
+        {
+          "number": 20,
+          "text": "visitors can eat food they have brought",
+          "answer": [
+            "F"
+          ],
+          "explanation": "The Picnic Meadow."
+        }
+      ]
+    }
+  ]
+}

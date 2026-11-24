@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "L-001-S4",
+  "module": "listening",
+  "testNumber": 1,
+  "sectionNumber": 4,
+  "title": "The Development of the Bicycle",
+  "accent": "australian",
+  "difficulty": "medium",
+  "speakers": [
+    { "id": "A", "name": "Lecturer", "gender": "male", "voice": "en-AU-WilliamNeural" }
+  ],
+  "script": [
+    { "speaker": "A", "text": "Good afternoon, everyone. In today's lecture, I'd like to look at something we all take for granted: the bicycle. It might seem a simple machine, but its development took almost a century, and it had a big influence on society." },
+    { "speaker": "A", "text": "Our story begins in eighteen seventeen, in Germany, with a man called Karl von Drais. Drais built a two-wheeled machine, which is usually known as the draisine. It was built almost entirely of wood, and it had no pedals: the rider simply pushed along the ground with their feet." },
+    { "speaker": "A", "text": "Some historians believe he was motivated by a volcanic eruption in Indonesia in eighteen fifteen, which affected the climate and led to failed harvests across Europe. As a result, there was little food for animals, and many horses died, so Drais was looking for an alternative form of transport." },
+    { "speaker": "A", "text": "The next major step came in the eighteen sixties in France. A Parisian carriage maker called Pierre Michaux added pedals directly to the front wheel of a draisine-style frame. This machine, known as the velocipede, was much more efficient, since the rider no longer needed to touch the ground." },
+    { "speaker": "A", "text": "However, the ride wasn't comfortable. The wheels were made of wood with an outer band of iron, and on rough roads the vibration was so severe that people nicknamed it the boneshaker." },
+    { "speaker": "A", "text": "In the eighteen seventies, engineers tried to increase speed. As the pedals were attached directly to the front wheel, the only way to go faster was to make that wheel bigger. So designers built bicycles with front wheels as large as one and a half metres across, with a tiny wheel at the back. This design became known as the penny-farthing, after two British coins of very different sizes." },
+    { "speaker": "A", "text": "They were fast, but dangerous. The rider sat high above the ground, and if the front wheel hit a stone, the rider was thrown forward over the handlebars. This was so common that it had its own name: taking a header." },
+    { "speaker": "A", "text": "The breakthrough came in eighteen eighty-five, when an English inventor, John Kemp Starley, produced the Rover Safety Bicycle. Its two wheels were the same size, and the rider's pedals drove the back wheel by means of a chain. This was the first bicycle that looked like the ones we use today." },
+    { "speaker": "A", "text": "Three years later, in eighteen eighty-eight, a Scottish vet, John Dunlop, invented the pneumatic tyre, a rubber tyre filled with air. He originally designed it to make his young son's tricycle more comfortable, but it soon transformed cycling, making rides smoother and faster." },
+    { "speaker": "A", "text": "By the eighteen nineties, there was a real bicycle craze. Prices fell, and ordinary people could afford them. For women in particular, the bicycle gave a new kind of freedom: they could travel alone, without relying on men or horses. Some campaigners at the time said the bicycle had done more for women's independence than anything else. Clothing even changed, because long skirts were impractical for cycling." },
+    { "speaker": "A", "text": "Today, there are around a billion bicycles in the world. And although cars have replaced them in many countries, scientists have calculated that, in terms of energy used per kilometre, the bicycle is the most efficient form of travel ever invented." },
+    { "speaker": "A", "text": "In next week's lecture, we'll move on to look at how cities have adapted to cycling, and why some have been more successful than others. Thank you." }
+  ],
+  "questionGroups": [
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the notes below. Write ONE WORD ONLY (or a number where stated) for each answer.",
+      "title": "The Development of the Bicycle",
+      "questions": [
+        { "number": 31, "text": "1817: the draisine was made almost entirely of ______.", "answer": ["wood"], "explanation": "It was built almost entirely of wood." },
+        { "number": 32, "text": "Drais wanted a new form of transport because many ______ had died.", "answer": ["horses"], "explanation": "Failed harvests meant many horses died." },
+        { "number": 33, "text": "1860s: Michaux added ______ to the front wheel.", "answer": ["pedals"], "explanation": "Michaux added pedals directly to the front wheel." },
+        { "number": 34, "text": "The velocipede's wheels were made of wood with an outer band of ______, so the ride was uncomfortable.", "answer": ["iron"], "explanation": "Wooden wheels with an outer band of iron." },
+        { "number": 35, "text": "1870s: the penny-farthing's front wheel could be up to ______ across.", "answer": ["1.5 metres", "1.5 meters", "1.5 m", "one and a half metres", "one and a half meters"], "explanation": "Front wheels as large as one and a half metres." },
+        { "number": 36, "text": "Riders of the penny-farthing often suffered a 'taking a ______'.", "answer": ["header"], "explanation": "Being thrown over the handlebars was called taking a header." },
+        { "number": 37, "text": "1885: Starley's Rover used a ______ to drive the back wheel.", "answer": ["chain"], "explanation": "The pedals drove the back wheel by means of a chain." },
+        { "number": 38, "text": "Dunlop invented the pneumatic tyre in ______.", "answer": ["1888"], "explanation": "Three years after 1885, in 1888." },
+        { "number": 39, "text": "In the 1890s, bicycles gave women a new ______.", "answer": ["freedom", "independence"], "explanation": "The bicycle gave women new freedom and independence." },
+        { "number": 40, "text": "Per kilometre, the bicycle is the most ______ form of travel.", "answer": ["efficient"], "explanation": "Scientists calculated it is the most efficient." }
+      ]
+    }
+  ]
+}

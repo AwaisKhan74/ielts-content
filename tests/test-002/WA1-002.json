@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "WA1-002",
+  "module": "writing",
+  "track": "academic",
+  "task": 1,
+  "prompt": "The line graph below shows the percentage of adults in three age groups who used a smartphone between 2010 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "minWords": 150,
+  "chartSpec": {
+    "type": "line",
+    "title": "Adults using a smartphone, by age group (%)",
+    "unit": "%",
+    "xLabel": "Year",
+    "yLabel": "Percentage of adults using a smartphone",
+    "categories": ["2010", "2012", "2014", "2016", "2018", "2020"],
+    "series": [
+      { "name": "Aged 18-34", "values": [40, 58, 72, 85, 92, 96] },
+      { "name": "Aged 35-54", "values": [22, 38, 55, 70, 82, 90] },
+      { "name": "Aged 55 and over", "values": [5, 12, 24, 38, 52, 66] }
+    ]
+  },
+  "modelAnswer": "The line graph shows the proportion of adults in three age groups who used a smartphone between 2010 and 2020.\n\nOverall, smartphone use rose significantly in all three groups, with the youngest adults consistently the heaviest users and the oldest group the least likely to own one throughout the period.\n\nIn 2010, 40% of adults aged 18 to 34 used a smartphone, compared with 22% of those aged 35 to 54 and only 5% of those aged 55 and over. The youngest group's figure climbed steadily to 85% in 2016 and reached 96% by 2020, leaving little room for further growth.\n\nThe middle group followed a similar upward trend, rising from 22% to 90% over the decade. As a result, by 2020 the gap between this group and the youngest had narrowed to just six percentage points.\n\nBy contrast, the over-55s started from a very low base, and only 12% of them used a smartphone in 2012. Their growth accelerated after 2016, however, and the figure reached 66% in 2020, which was still 30 points below that of the youngest group.",
+  "examinerComment": "Clear overview and accurate figures. Information is grouped logically by age group and the comparisons (gap narrowing, growth accelerating) show good range. Avoid explaining reasons that are not in the data.",
+  "usefulPhrases": [
+    "The graph illustrates / shows ...",
+    "rose steadily / climbed sharply",
+    "reached a peak of ... in ...",
+    "started from a low base",
+    "the gap narrowed to ...",
+    "grew more slowly at first, then accelerated",
+    "By contrast, / In comparison, ...",
+    "leaving little room for further growth"
+  ]
+}

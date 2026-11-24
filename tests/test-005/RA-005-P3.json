@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-005-P3",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 5,
+  "passageNumber": 3,
+  "title": "The Bilingual Brain",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "Perhaps half of the world's population uses more than one language in daily life, yet for much of the twentieth century, many educators and psychologists believed that bilingualism was harmful to children. In the 1920s and 1930s, a number of studies reported that bilingual children scored lower than monolingual children on intelligence tests, and some experts warned that raising a child with two languages would cause confusion and delay development. Later researchers pointed out serious flaws in this work. Many of the children tested were recent immigrants, who were given the tests in a language that they barely knew, and who often came from poorer backgrounds than the monolingual children they were compared with." },
+    { "label": "B", "text": "The turning point came in 1962, when two Canadian psychologists, Elizabeth Peal and Wallace Lambert, tested ten-year-old children in Montreal. They found that bilingual children did better than monolingual children on many tests, especially those requiring flexible thinking. The study was widely celebrated as proof that bilingualism is beneficial. However, it, too, was later criticised. The bilingual children in the study had been selected because they were fluent in both languages, which meant that they were probably already good students, so the study could not show that speaking two languages was the cause of their higher scores." },
+    { "label": "C", "text": "Over the following decades, researchers began to look for an explanation of how a second language might affect the brain. A key discovery was that when bilinguals use one language, the other is never completely switched off. In one well-known experiment, Russian-English bilinguals were asked to pick up an object, such as a stamp, from a table, using English. Eye-tracking equipment showed that they often looked briefly at an object whose Russian name sounded similar, even though they had not heard that name. Both languages were evidently active in their minds at the same time." },
+    { "label": "D", "text": "Many scientists believe that managing two competing languages gives the brain constant exercise. Bilinguals must keep selecting the right language and ignoring the other, which strengthens what psychologists call executive function: the set of mental skills that control attention, planning and switching between tasks. The Canadian psychologist Ellen Bialystok has reported that bilingual children are often faster than monolinguals at switching between rules in a sorting game. She has also studied older adults, and in a widely cited study of several hundred patients in Toronto, she found that symptoms of dementia appeared about four years later in bilinguals than in people who spoke only one language, even when their education was similar." },
+    { "label": "E", "text": "More recently, however, the claim of a bilingual advantage has been challenged. Several large studies found little or no difference between bilinguals and monolinguals on tests of executive function. Critics argue that earlier results may have been affected by differences in age, education and social background between the groups. There is also the problem of publication bias: studies that find an advantage tend to be published more readily than studies that find none, so the published record may give a misleading impression. Defenders of the theory reply that the tests used in some studies are not sensitive enough, and that the benefit may appear only in particular situations. At present, the question remains unsettled." },
+    { "label": "F", "text": "Other effects of bilingualism are better established. Bilingual children tend to be more aware that the link between a word and its meaning is arbitrary, and that a cat could just as easily be called something else, an understanding that helps in learning to read. There are costs, too. On average, bilingual people know fewer words in each language than monolinguals who speak only that language, and they experience more 'tip of the tongue' moments, when a familiar word cannot be recalled. These differences are small, and do not usually cause problems in everyday life, but they show that sharing the brain's resources between two languages is not free." },
+    { "label": "G", "text": "Whatever the final verdict on executive function, most experts now agree that raising children with two languages does no harm, and that the old fears were unfounded. Knowing more than one language also provides clear practical advantages, including access to other cultures, more opportunities at work and the ability to communicate with family members. For many, these benefits alone are enough to make learning a second language worthwhile, whether or not it also improves the brain." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "number": 27,
+          "text": "What is the writer's criticism of the early studies in paragraph A?",
+          "options": {
+            "A": "They involved too few children.",
+            "B": "Children were tested in a language they hardly knew.",
+            "C": "Only wealthy families took part.",
+            "D": "They were carried out only in schools."
+          },
+          "answer": ["B"],
+          "explanation": "Recent immigrants were tested in a language they barely knew."
+        },
+        {
+          "number": 28,
+          "text": "What criticism of Peal and Lambert's study is mentioned in paragraph B?",
+          "options": {
+            "A": "The sample of children was too large.",
+            "B": "The bilingual children chosen were probably already high achievers.",
+            "C": "The tests were too easy.",
+            "D": "There was no group of monolingual children."
+          },
+          "answer": ["B"],
+          "explanation": "They were selected because they were fluent in both languages, so probably good students."
+        },
+        {
+          "number": 29,
+          "text": "What did the eye-tracking experiment show?",
+          "options": {
+            "A": "Bilinguals read more quickly than monolinguals.",
+            "B": "Both languages remain active even when only one is being used.",
+            "C": "Bilinguals have better eyesight.",
+            "D": "People forget their first language if they learn a second."
+          },
+          "answer": ["B"],
+          "explanation": "They looked at an object whose Russian name sounded similar while using English."
+        },
+        {
+          "number": 30,
+          "text": "What does the writer conclude about the bilingual advantage in paragraph E?",
+          "options": {
+            "A": "It has been proved to be false.",
+            "B": "It has been proved to be true.",
+            "C": "The evidence is still unresolved.",
+            "D": "It is not worth investigating further."
+          },
+          "answer": ["C"],
+          "explanation": "At present, the question remains unsettled."
+        }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 3? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+      "questions": [
+        { "number": 31, "text": "Peal and Lambert carried out their study in Canada.", "answer": ["TRUE"], "explanation": "Paragraph B: Montreal." },
+        { "number": 32, "text": "In Bialystok's study, dementia symptoms appeared about four years later in bilingual patients.", "answer": ["TRUE"], "explanation": "Paragraph D." },
+        { "number": 33, "text": "Bilingual children usually learn to read earlier than monolingual children.", "answer": ["NOT GIVEN"], "explanation": "The passage says awareness helps in learning to read, but not that they learn earlier." },
+        { "number": 34, "text": "Studies that find a bilingual advantage are more likely to be published than studies that do not.", "answer": ["TRUE"], "explanation": "Paragraph E: publication bias." },
+        { "number": 35, "text": "Bilingual people usually know more words in each language than monolinguals.", "answer": ["FALSE"], "explanation": "Paragraph F: they know fewer words in each language." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "title": "Benefits and costs of bilingualism",
+      "questions": [
+        { "number": 36, "text": "Bilinguals must keep selecting the right language and ______ the other.", "answer": ["ignoring"], "explanation": "Paragraph D." },
+        { "number": 37, "text": "This may strengthen executive function, which controls attention, planning and ______ between tasks.", "answer": ["switching"], "explanation": "Paragraph D." },
+        { "number": 38, "text": "Bilingual children are more aware that the link between a word and its meaning is ______.", "answer": ["arbitrary"], "explanation": "Paragraph F." },
+        { "number": 39, "text": "On average, they know fewer ______ in each language than monolinguals.", "answer": ["words"], "explanation": "Paragraph F." },
+        { "number": 40, "text": "They also have more 'tip of the tongue' ______.", "answer": ["moments"], "explanation": "Paragraph F." }
+      ]
+    }
+  ]
+}

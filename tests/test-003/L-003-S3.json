@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "L-003-S3",
+  "module": "listening",
+  "testNumber": 3,
+  "sectionNumber": 3,
+  "title": "Planning a Food Waste Project",
+  "accent": "mixed",
+  "difficulty": "medium",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Dr Patel (tutor)",
+      "gender": "female",
+      "voice": "en-IN-NeerjaNeural"
+    },
+    {
+      "id": "B",
+      "name": "Chloe",
+      "gender": "female",
+      "voice": "en-AU-NatashaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Jack",
+      "gender": "male",
+      "voice": "en-AU-WilliamNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Come in, both of you. Please, sit down. I've read your project proposal, and I'd like to go through it with you before you start collecting any data."
+    },
+    {
+      "speaker": "B",
+      "text": "Thanks, Dr Patel. We've both been looking forward to this meeting."
+    },
+    {
+      "speaker": "C",
+      "text": "Yes, we're really keen to get going, but we weren't sure whether our plan was realistic."
+    },
+    {
+      "speaker": "A",
+      "text": "Well, the topic is a good one. Food waste is a serious environmental problem, and I'm pleased that you're looking at it from a practical angle. But I notice that your original idea was to study supermarkets. Why did you change to the university canteen?"
+    },
+    {
+      "speaker": "B",
+      "text": "Well, to be honest, we did try the supermarkets first. We contacted five of them in the town. Two of them refused to give us permission to measure anything, and the manager of the third one just never replied."
+    },
+    {
+      "speaker": "C",
+      "text": "And the other two said we'd have to apply to their head office, which could take months. We simply don't have that much time."
+    },
+    {
+      "speaker": "A",
+      "text": "I see. That's a sensible reason. And I imagine that the canteen itself is a useful case, as it produces so much food waste."
+    },
+    {
+      "speaker": "C",
+      "text": "Yes, it does, and that's a bonus. But the main thing was that the canteen manager was happy for us to go ahead, as long as we don't get in the way of the staff."
+    },
+    {
+      "speaker": "A",
+      "text": "Good. Now, let me explain my main concern. In your plan, you say that you'll weigh the food that students leave on their plates for one week. I'm afraid that's too short a period. One week won't give you reliable results, because the menu may be unusual that week, or there may be an exam, or even bad weather, which can affect how many people eat there. I'd suggest that you collect data for at least two weeks."
+    },
+    {
+      "speaker": "B",
+      "text": "Two weeks. I see. That means a lot more work, but I can see why it's necessary."
+    },
+    {
+      "speaker": "C",
+      "text": "We could share the work so that we each do alternate days. That would make it more manageable."
+    },
+    {
+      "speaker": "A",
+      "text": "That sounds sensible. And what about the questionnaire? You plan to ask students why they leave food on their plates."
+    },
+    {
+      "speaker": "B",
+      "text": "Yes. We've drafted twelve questions, but I'm worried that some of them might be confusing. For example, one of them asks, 'Do you think the portions are generous?', and I'm not sure everyone will understand what we mean by 'generous'."
+    },
+    {
+      "speaker": "A",
+      "text": "That's a good point. You could shorten the questionnaire, but I think it would be better to test it first. Give it to a few friends, ask them what they think each question means, and then change anything that causes problems. Researchers call that a pilot study."
+    },
+    {
+      "speaker": "C",
+      "text": "That's a great idea. We'll try it on about ten of our friends this week, and then we can fix any problems before we give it to the other students."
+    },
+    {
+      "speaker": "A",
+      "text": "Good. Now, I'd like to know who'll be responsible for what. Have you decided?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, more or less. Jack's going to speak to the canteen manager and arrange the times when we can come in, because he already knows her from his part-time job in the kitchen."
+    },
+    {
+      "speaker": "C",
+      "text": "That's right. And Chloe's better at designing surveys, so she'll write the final version of the questionnaire after we've tested it."
+    },
+    {
+      "speaker": "A",
+      "text": "What about the actual weighing of the waste?"
+    },
+    {
+      "speaker": "B",
+      "text": "We'll both do that. We'll stand next to the bins after the lunch service, because that's the busiest time, and we'll take turns with the scales."
+    },
+    {
+      "speaker": "C",
+      "text": "I'll also put the figures into a spreadsheet and make the charts, since I did a statistics module last year."
+    },
+    {
+      "speaker": "A",
+      "text": "Excellent. And the literature review? You need to show what previous researchers have found."
+    },
+    {
+      "speaker": "B",
+      "text": "I'm going to write that, because I've already found a few useful articles. One study suggests that vegetables are the food most commonly thrown away, even more than bread or meat, mainly because people take more than they can eat."
+    },
+    {
+      "speaker": "C",
+      "text": "And we'll give a short presentation of our results in the seminar. Both of us will take part in that."
+    },
+    {
+      "speaker": "A",
+      "text": "That's a good division of the work. Now, let's talk about deadlines. The final report is due on the fourteenth of May, and the seminar is a week later. If you collect your data in March and analyse it in April, you should have enough time to write everything up."
+    },
+    {
+      "speaker": "B",
+      "text": "Fourteenth of May. I'll put that in my diary right now."
+    },
+    {
+      "speaker": "C",
+      "text": "I'm a bit worried about whether the canteen will have enough bins for us to separate the waste properly."
+    },
+    {
+      "speaker": "A",
+      "text": "That's something to discuss with the manager. If necessary, you can buy some extra containers using the department's small research fund. Just give me the receipts."
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you, that's really helpful. We'll start the pilot study tomorrow and then send you the revised questionnaire by Friday."
+    },
+    {
+      "speaker": "A",
+      "text": "Excellent. I look forward to seeing it. Good luck, both of you."
+    },
+    {
+      "speaker": "C",
+      "text": "Thanks very much, Dr Patel."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 21,
+          "text": "Why did the students decide to study the university canteen?",
+          "options": {
+            "A": "It produces more waste than any other place.",
+            "B": "The supermarkets would not give them permission.",
+            "C": "Dr Patel recommended it."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Two supermarkets refused, one never replied and the others required a long process. The canteen's waste was only 'a bonus'."
+        },
+        {
+          "number": 22,
+          "text": "What is Dr Patel's main concern about the study plan?",
+          "options": {
+            "A": "The data collection period is too short.",
+            "B": "The equipment is too expensive.",
+            "C": "The canteen manager may refuse permission."
+          },
+          "answer": [
+            "A"
+          ],
+          "explanation": "She says one week is too short and suggests at least two weeks."
+        },
+        {
+          "number": 23,
+          "text": "What do the students decide to do about the questionnaire?",
+          "options": {
+            "A": "make it shorter",
+            "B": "test it on a small group first",
+            "C": "give it out during lectures"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Dr Patel suggests a pilot study, and Jack agrees to try it on about ten friends."
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Who will be responsible for each task? Choose the correct letter, A, B or C, for each answer.",
+      "options": {
+        "A": "Chloe",
+        "B": "Jack",
+        "C": "both students"
+      },
+      "questions": [
+        {
+          "number": 24,
+          "text": "speaking to the canteen manager",
+          "answer": [
+            "B"
+          ],
+          "explanation": "Jack knows the manager from his job."
+        },
+        {
+          "number": 25,
+          "text": "writing the final questionnaire",
+          "answer": [
+            "A"
+          ],
+          "explanation": "Chloe is better at designing surveys."
+        },
+        {
+          "number": 26,
+          "text": "weighing the waste",
+          "answer": [
+            "C"
+          ],
+          "explanation": "'We'll both do that.'"
+        },
+        {
+          "number": 27,
+          "text": "writing the literature review",
+          "answer": [
+            "A"
+          ],
+          "explanation": "Chloe says she will write it."
+        }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer.",
+      "title": "Project notes",
+      "questions": [
+        {
+          "number": 28,
+          "text": "Previous research found that the food most often thrown away is ______.",
+          "answer": [
+            "vegetables",
+            "vegetable"
+          ],
+          "explanation": "One study says vegetables, even more than bread or meat."
+        },
+        {
+          "number": 29,
+          "text": "The students will weigh the waste after the ______ service.",
+          "answer": [
+            "lunch"
+          ],
+          "explanation": "They will stand by the bins after the lunch service."
+        },
+        {
+          "number": 30,
+          "text": "The final report must be handed in on ______ May.",
+          "answer": [
+            "14",
+            "14th",
+            "fourteenth",
+            "the fourteenth"
+          ],
+          "explanation": "The deadline is the fourteenth of May."
+        }
+      ]
+    }
+  ]
+}

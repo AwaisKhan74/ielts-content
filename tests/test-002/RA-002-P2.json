@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-002-P2",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 2,
+  "passageNumber": 2,
+  "title": "Charting the Last Unknown: Mapping the Ocean Floor",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "We know the surface of Mars and the Moon in far greater detail than the floor of our own oceans. Although oceans cover about seventy per cent of the planet, only around a quarter of the seabed has been mapped in any detail, and the rest is known only through rough estimates. This is surprising, given how much human activity depends on the sea: shipping lanes, undersea communication cables, fishing grounds and offshore energy projects all rely on knowing what lies beneath the waves. Yet for most of history, the deep ocean has remained a blank space on the map." },
+    { "label": "B", "text": "Until the nineteenth century, the depth of the sea was measured by lowering a weighted rope until it touched the bottom, a slow process known as sounding, which gave only a single measurement at each stop. The invention of the echo sounder in the early twentieth century changed matters. By measuring how long a sound pulse takes to travel to the seabed and back, ships could record depth continuously as they sailed. Modern multibeam sonar fans out dozens or hundreds of beams at once and produces detailed images of a strip of the seabed beneath the vessel. However, the strip is narrow, and ships have tended to follow the same shipping routes, leaving enormous gaps between their tracks." },
+    { "label": "C", "text": "A different approach became possible in the 1980s, when satellites began to measure the height of the sea surface with great precision. The surface is not perfectly flat: large underwater mountains and ridges exert a slight gravitational pull on the water above them, creating bulges that are only a few metres high but detectable from space. By converting these tiny variations into estimates of depth, scientists produced the first global maps of the ocean floor. The method gives complete coverage, but only in low resolution. Features smaller than several kilometres across simply do not show up, and an underwater volcano, or a canyon deep enough to hide a skyscraper, could be missed entirely." },
+    { "label": "D", "text": "The reasons for wanting better maps are not merely scientific curiosity. The shape of the seabed controls the way in which deep ocean currents flow, and therefore the way in which heat is distributed around the planet, so climate models that rely on poor maps are less reliable. Detailed maps also help scientists to predict how tsunamis will travel across an ocean, and they show where fish and other marine life are concentrated. The importance of accurate maps was brought home in 2014, when the search for a missing airliner in the southern Indian Ocean revealed how little was known about the seabed there. The search teams ended up producing the most detailed map ever made of a large area of that ocean, discovering mountains and trenches that nobody had known about." },
+    { "label": "E", "text": "In 2017, a project called Seabed 2030 was launched, with the ambitious aim of producing a complete, high-resolution map of the ocean floor by the end of that decade. Rather than relying only on research vessels, the project asks all kinds of ships to contribute. Many merchant ships, fishing boats and even private yachts are fitted with echo sounders, and by collecting and combining the data they already record on their journeys, organisers hope to fill in the gaps at a fraction of the cost of dedicated expeditions. The data are then merged into a single, freely available map." },
+    { "label": "F", "text": "New technology is also helping. Autonomous surface vessels, powered by wind and solar energy, can cross oceans for months without a crew, and underwater robots can dive to depths that are dangerous or impossible for human divers. In shallow coastal waters, aircraft fitted with lasers can map the seabed from above. Even so, the scale of the task is enormous. A single research ship travels at about the speed of a bicycle, and some estimates suggest that mapping the entire deep ocean with ships alone would take several centuries. The task of processing and checking the data, which is increasingly done using artificial intelligence, adds to the challenge." },
+    { "label": "G", "text": "Progress has been real, but not as fast as organisers had hoped, and some scientists doubt whether the 2030 target can be met. One difficulty is that not everyone is willing to share what they know. Some governments regard detailed maps of their coastal waters as sensitive military information, while certain companies hold data collected during oil and mineral exploration, and consider it commercially valuable. Until such barriers are removed, the map will remain incomplete. Nevertheless, the project has already added a large area of new data to the global map, and the gap in our knowledge of our own planet is slowly beginning to close." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Which paragraph contains the following information? Write the correct letter, A-G.",
+      "questions": [
+        { "number": 14, "text": "a reason why mapping with ships alone would take too long", "answer": ["F"], "explanation": "Paragraph F: a research ship travels slowly; several centuries." },
+        { "number": 15, "text": "a method that covers the whole world but shows little detail", "answer": ["C"], "explanation": "Paragraph C: satellite maps give complete coverage in low resolution." },
+        { "number": 16, "text": "an event that revealed gaps in existing seabed maps", "answer": ["D"], "explanation": "Paragraph D: the 2014 search for a missing airliner." },
+        { "number": 17, "text": "reasons why some organisations are unwilling to share data", "answer": ["G"], "explanation": "Paragraph G: military sensitivity and commercial value." }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 18, "text": "Maps made from satellite data are detailed enough for most purposes.", "answer": ["NO"], "explanation": "Features smaller than several kilometres do not show up." },
+        { "number": 19, "text": "The ocean floor is better mapped than the surface of Mars.", "answer": ["NO"], "explanation": "Paragraph A says the opposite." },
+        { "number": 20, "text": "Fishing companies are the main group that wants better seabed maps.", "answer": ["NOT GIVEN"], "explanation": "Fishing is mentioned, but no group is called the main one." },
+        { "number": 21, "text": "The 2030 target for the Seabed 2030 project will certainly be achieved.", "answer": ["NO"], "explanation": "Some scientists doubt it, and progress has been slower than hoped." },
+        { "number": 22, "text": "Commercial ships can provide useful data for the project.", "answer": ["YES"], "explanation": "Paragraph E." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        { "number": 23, "text": "Before the twentieth century, depth was measured by lowering a weighted ______ to the seabed.", "answer": ["rope"], "explanation": "Paragraph B." },
+        { "number": 24, "text": "Satellites can detect bulges in the sea surface caused by the ______ of underwater mountains.", "answer": ["gravitational pull", "gravity", "pull"], "explanation": "Paragraph C: a slight gravitational pull." },
+        { "number": 25, "text": "The Seabed 2030 project was launched in ______.", "answer": ["2017"], "explanation": "Paragraph E." },
+        { "number": 26, "text": "Some companies keep seabed data because they consider it ______ valuable.", "answer": ["commercially"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

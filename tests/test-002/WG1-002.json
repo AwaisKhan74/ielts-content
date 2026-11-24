@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "WG1-002",
+  "module": "writing",
+  "track": "general",
+  "task": 1,
+  "tone": "informal",
+  "prompt": "A friend from another country is going to visit your city for a weekend. Write a letter to your friend. In your letter:",
+  "bullets": [
+    "suggest when you could meet",
+    "describe some places you would like to take your friend",
+    "ask what else your friend would like to do"
+  ],
+  "minWords": 150,
+  "modelAnswer": "Dear Jamie,\n\nIt was great to get your email! I'm really excited that you're coming to visit, and I can't wait to show you around.\n\nSince you arrive on Friday evening, why don't we meet for dinner that night? I finish work at six, so I could pick you up from your hotel at about seven. Then on Saturday we'd have the whole day together. I'm free on Sunday morning too, but I have to go to my cousin's wedding in the afternoon, so I'm afraid we'd need to say goodbye by lunchtime.\n\nThere are so many places I'd like to take you to. On Saturday morning, we could walk around the old town, which has lovely narrow streets and some great cafes. In the afternoon, I'd like to show you the castle, which has the best view of the whole city, and in the evening we could have dinner at a traditional restaurant I know. I think you'd love the food there.\n\nIs there anything else you'd like to do? If you enjoy shopping or museums, let me know and I'll plan something. Also, please tell me if there's any food you can't eat.\n\nWrite back soon and let me know your flight times.\n\nSee you soon,\nAmira",
+  "examinerComment": "All three bullet points are covered clearly with relevant detail. The tone is friendly and natural, with contractions and informal phrases suitable for a letter to a friend. Good paragraphing and a suitable opening and closing.",
+  "usefulPhrases": [
+    "It was great to hear from you!",
+    "I can't wait to show you around.",
+    "Why don't we ...?",
+    "I'm afraid I won't be able to ...",
+    "I think you'd love ...",
+    "Let me know if there's anything else you'd like to do.",
+    "Write back soon.",
+    "See you soon / Best wishes / All the best"
+  ]
+}

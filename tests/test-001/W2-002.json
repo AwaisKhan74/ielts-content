@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-002",
+  "module": "writing",
+  "task": 2,
+  "essayType": "problem-solution",
+  "topic": "environment",
+  "prompt": "In many cities, the amount of household waste is increasing rapidly. What problems does this cause, and what can be done to solve them?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase the question; say waste is a growing challenge with serious consequences and solutions at individual and government level.",
+    "body1": "Problems: landfill space running out, pollution of soil and water, greenhouse gases (methane), health risks and cost to councils.",
+    "body2": "Solutions: recycling and sorting systems, charges for waste (pay-as-you-throw), reducing packaging, public education, composting.",
+    "conclusion": "Summarise; stress that governments and individuals must both act."
+  },
+  "modelAnswer": "As cities grow and living standards rise, households are producing more waste than ever before. This trend creates several serious problems, but there are practical measures that governments and individuals can take to deal with them.\n\nThe most obvious problem is the lack of space for disposal. Many cities rely on landfill sites, which are filling up quickly, and finding new land is expensive and unpopular with local residents. Waste that is not managed properly also pollutes the environment: chemicals can leak into the soil and water supply, while rotting food produces methane, a powerful greenhouse gas that contributes to climate change. In addition, uncollected rubbish attracts pests and can spread disease, which places a heavy burden on public health services and city budgets.\n\nThere are several ways to tackle these issues. Firstly, governments can introduce efficient recycling systems, with separate bins for paper, plastic, glass and food waste, and make sorting compulsory. Some cities have also adopted charges based on the amount of rubbish a household throws away, which gives people a financial reason to produce less. Secondly, manufacturers can be required to reduce unnecessary packaging or to use materials that can be reused. Finally, public awareness campaigns in schools and on television can encourage people to compost kitchen scraps, repair items instead of replacing them and avoid single-use products.\n\nIn conclusion, rising household waste threatens the environment, health and city finances. However, if authorities provide the right systems and incentives, and citizens change their daily habits, the problem can be reduced significantly.",
+  "vocabulary": [
+    { "word": "landfill", "meaning": "a place where waste is buried in the ground", "example": "The landfill is almost full." },
+    { "word": "greenhouse gas", "meaning": "a gas that traps heat in the atmosphere", "example": "Methane is a powerful greenhouse gas." },
+    { "word": "compulsory", "meaning": "required by law or rule", "example": "Recycling is compulsory in many cities." },
+    { "word": "single-use", "meaning": "designed to be used only once", "example": "Single-use plastics are being banned." },
+    { "word": "incentive", "meaning": "something that encourages people to act", "example": "A financial incentive can change behaviour." },
+    { "word": "burden", "meaning": "a heavy responsibility or cost", "example": "Waste is a burden on city budgets." },
+    { "word": "awareness campaign", "meaning": "an organised effort to inform the public", "example": "An awareness campaign encouraged composting." },
+    { "word": "compost", "meaning": "to turn food and garden waste into fertiliser", "example": "We compost our vegetable scraps." }
+  ],
+  "examinerComment": "Both parts of the question are answered with clear, well-developed ideas. Logical paragraphing and a good range of vocabulary and sentence structures. Estimated band 8."
+}

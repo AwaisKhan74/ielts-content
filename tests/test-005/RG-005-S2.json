@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-005-S2",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 5,
+  "sectionNumber": 2,
+  "title": "Working at Delta Insurance",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "Text A: Staff Handbook, Delta Insurance",
+      "paragraphs": [
+        { "label": "A", "text": "ANNUAL LEAVE: Full-time employees are entitled to 25 days of paid leave each year, in addition to public holidays. Requests should be submitted to your line manager at least two weeks in advance. You may take up to ten consecutive working days without special approval. Up to five unused days may be carried forward to the following year; any others will be lost." },
+        { "label": "B", "text": "SICK LEAVE: If you cannot come to work because of illness, please telephone your manager before 9.30 am on the first day of absence. A doctor's certificate is required if you are absent for more than seven days. Employees receive full pay for up to ten days of sick leave per year, and half pay thereafter, for up to a further twenty days." },
+        { "label": "C", "text": "EXPENSES: Claims must be made on the online form within 30 days, with receipts attached. Employees travelling on business may claim up to £25 per day for meals. Train journeys should be made in standard class, and hotel bookings must be made through the company's travel office. Claims for alcohol will not be paid." },
+        { "label": "D", "text": "WORKING HOURS: The standard week is 37.5 hours. The company operates a flexible system: employees may start between 7.30 am and 9.30 am and finish between 3.30 pm and 6.00 pm, provided that they are present during the core hours of 10.00 am to 3.00 pm. Overtime is only paid if it has been agreed in advance." },
+        { "label": "E", "text": "TRAINING: Each employee may claim up to £500 a year towards a course that has been approved by their manager. Employees who leave the company within twelve months of finishing a course must repay the money. Staff are also encouraged to take the company's free online courses in their own time." },
+        { "label": "F", "text": "DRESS CODE: Smart casual clothing is acceptable in the office, but jeans and sports shoes are not allowed, except on Fridays. Employees who meet clients are expected to wear formal business clothes." }
+      ]
+    },
+    {
+      "title": "Text B: Job Vacancy",
+      "paragraphs": [
+        { "label": "G", "text": "CUSTOMER SERVICE SUPERVISOR, Leeds Office\n\nDelta Insurance is looking for an enthusiastic person to lead a team of twelve customer service advisers in our busy Leeds office. The successful candidate will deal with difficult enquiries, train new staff and report to the Head of Operations.\n\nSALARY AND HOURS: £29,000 to £32,000 per year, depending on experience. Full-time, 37.5 hours per week, Monday to Friday.\n\nREQUIREMENTS: At least two years' experience of working in a call centre or a similar customer service role. Experience of supervising other people is desirable but not essential. A university degree is not required, but excellent communication skills are.\n\nBENEFITS: Employer pension contribution of 8 per cent, subsidised canteen, a free annual health check and 25 days of paid leave, rising to 27 after three years' service.\n\nHOW TO APPLY: Please send your CV and a covering letter through the careers page of our website by 14 June. We regret that we can contact only applicants who have been shortlisted. Interviews will be held in the week beginning 24 June. We welcome applications from people with disabilities and will interview all disabled applicants who meet the minimum requirements." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Text A has six sections, A-F. Which section contains the following information? Write the correct letter, A-F.",
+      "questions": [
+        { "number": 15, "text": "a limit on how much can be spent on food", "answer": ["C"], "explanation": "Section C: £25 per day for meals." },
+        { "number": 16, "text": "the time by which a manager must be told about an absence", "answer": ["B"], "explanation": "Section B: before 9.30 am." },
+        { "number": 17, "text": "the hours when all staff must be at work", "answer": ["D"], "explanation": "Section D: core hours 10.00 am to 3.00 pm." },
+        { "number": 18, "text": "a condition attached to financial help with a course", "answer": ["E"], "explanation": "Section E: repay if leaving within twelve months." },
+        { "number": 19, "text": "a rule about holiday days that have not been used", "answer": ["A"], "explanation": "Section A: up to five can be carried forward." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Text B? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 20, "text": "A university degree is required for the post.", "answer": ["FALSE"], "explanation": "A degree is not required." },
+        { "number": 21, "text": "The supervisor will lead a team of twelve people.", "answer": ["TRUE"], "explanation": "A team of twelve customer service advisers." },
+        { "number": 22, "text": "All applicants will be informed about the result of their application.", "answer": ["FALSE"], "explanation": "Only shortlisted applicants will be contacted." },
+        { "number": 23, "text": "The company provides free parking for its staff.", "answer": ["NOT GIVEN"], "explanation": "Parking is not mentioned." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 24, "text": "The maximum salary for the supervisor post is £ ______ per year.", "answer": ["32,000", "32000"], "explanation": "£29,000 to £32,000." },
+        { "number": 25, "text": "Applicants must have at least ______ years' experience in a customer service role.", "answer": ["2", "two"], "explanation": "At least two years." },
+        { "number": 26, "text": "The employer contributes ______ per cent of salary to the pension.", "answer": ["8", "eight"], "explanation": "Employer pension contribution of 8 per cent." },
+        { "number": 27, "text": "Applications must include a CV and a ______.", "answer": ["covering letter"], "explanation": "A CV and a covering letter." }
+      ]
+    }
+  ]
+}

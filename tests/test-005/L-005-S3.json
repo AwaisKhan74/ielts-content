@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "id": "L-005-S3",
+  "module": "listening",
+  "testNumber": 5,
+  "sectionNumber": 3,
+  "title": "Planning a Beach Litter Survey",
+  "accent": "british",
+  "difficulty": "medium",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Professor Walker (tutor)",
+      "gender": "male",
+      "voice": "en-GB-RyanNeural"
+    },
+    {
+      "id": "B",
+      "name": "Aisha",
+      "gender": "female",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Tom",
+      "gender": "male",
+      "voice": "en-AU-WilliamNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Aisha, Tom, come and sit down. I've read your outline for the environmental science project. Before you start, I want to check that you've thought about the details. Could you remind me of your aim?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes. We want to compare how much plastic litter there is on three different beaches, and to find out whether the amount depends on how many people use the beach."
+    },
+    {
+      "speaker": "C",
+      "text": "At first, we were also thinking of testing different ways of cleaning the beaches, but we decided that would be too much for one semester."
+    },
+    {
+      "speaker": "A",
+      "text": "A sensible decision. Now, which beaches have you chosen?"
+    },
+    {
+      "speaker": "B",
+      "text": "The first is Sandy Cove, which is very popular with tourists in summer. The second is Harbour Beach, next to the fishing port. The third is a small, remote beach called Gull Rock, which you can only reach on foot."
+    },
+    {
+      "speaker": "A",
+      "text": "And why Gull Rock? It sounds inconvenient."
+    },
+    {
+      "speaker": "C",
+      "text": "It is, but we want to include a beach with very few visitors. If the other two have more litter, we can show that it's linked to human activity, instead of the litter just being washed in from the sea. It gives us something to compare with."
+    },
+    {
+      "speaker": "A",
+      "text": "Good thinking. Scientists call that a control. Now let's talk about method. How are you going to count the litter?"
+    },
+    {
+      "speaker": "B",
+      "text": "We're going to lay a square frame, one metre by one metre, on the sand at regular intervals along the beach, and count everything inside it. We think thirty squares on each beach should be enough."
+    },
+    {
+      "speaker": "A",
+      "text": "Thirty is a good number. But there's one thing I'd like you to be careful about, and that's timing. If you go when the tide is in, a large part of the beach will be under water, and the litter will be spread differently. I'd advise you to do every survey at low tide, when the whole beach is visible. It's also much easier to find the lines of seaweed where litter collects."
+    },
+    {
+      "speaker": "C",
+      "text": "That makes sense. We'll check the tide tables for each visit."
+    },
+    {
+      "speaker": "A",
+      "text": "And how will you record what you find?"
+    },
+    {
+      "speaker": "B",
+      "text": "We'll sort the litter into categories: plastic bottles, bags, food wrappers, fishing nets, and cigarette ends. We aren't sure about the last one, because cigarette ends aren't really plastic, though the filters contain it."
+    },
+    {
+      "speaker": "A",
+      "text": "In fact, they do contain a form of plastic, so you can include them. I'd expect them to be the commonest item on Sandy Cove, at least. And I wouldn't be surprised if the fishing nets are mainly at Harbour Beach."
+    },
+    {
+      "speaker": "C",
+      "text": "That's what we predicted too. We think the remote beach will have mostly bottles that have floated in from the sea."
+    },
+    {
+      "speaker": "A",
+      "text": "Possibly. Now, what will you do with the litter once you've counted it?"
+    },
+    {
+      "speaker": "B",
+      "text": "We thought we might take it back to the university to weigh it as well."
+    },
+    {
+      "speaker": "A",
+      "text": "I'd advise against that. It would be heavy and unpleasant, and you might need a special licence to transport it. Count it, record it, and then put it in the bins that the council provides at the car parks. Otherwise, the litter would just go back on the beach, and that would defeat the purpose."
+    },
+    {
+      "speaker": "C",
+      "text": "Fine. Speaking of the council, we need to ask them for permission, don't we?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yes. Beaches are public, but you'll still need the council's permission to carry out a survey, especially as you'll be working on your hands and knees for several hours. I'll give you the email address of the person to contact. And please wear gloves, as there could be sharp objects, including glass."
+    },
+    {
+      "speaker": "B",
+      "text": "Of course. We're planning to start in April, when the days are longer and the weather should be mild."
+    },
+    {
+      "speaker": "C",
+      "text": "But if it rains or the sea is rough, we could lose a whole day. I think we should choose back-up dates in advance, so that we don't waste any time."
+    },
+    {
+      "speaker": "A",
+      "text": "That's a very practical suggestion. Try to find two spare days for each beach. And remember that, ideally, you should survey all three beaches in the same week, so that the weather conditions are similar."
+    },
+    {
+      "speaker": "B",
+      "text": "We'll do that. Then we'll enter the figures into a spreadsheet and test whether the differences between the beaches are statistically significant."
+    },
+    {
+      "speaker": "A",
+      "text": "Excellent. Send me your revised plan by next Friday, and then we'll have another meeting. I'm looking forward to seeing the results."
+    },
+    {
+      "speaker": "C",
+      "text": "Thanks, Professor Walker."
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, thank you. That was very helpful."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 21,
+          "text": "What is the main aim of the students' project?",
+          "options": {
+            "A": "to compare the amount of litter on different beaches",
+            "B": "to test different methods of cleaning beaches",
+            "C": "to find out where the litter comes from"
+          },
+          "answer": [
+            "A"
+          ],
+          "explanation": "They want to compare the plastic litter on three beaches. Cleaning methods were dropped."
+        },
+        {
+          "number": 22,
+          "text": "Why do the students want to include Gull Rock?",
+          "options": {
+            "A": "It is the cleanest beach in the area.",
+            "B": "It provides a comparison with beaches that have more visitors.",
+            "C": "It is close to the university."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "It acts as a control, with very few visitors."
+        },
+        {
+          "number": 23,
+          "text": "What does Professor Walker advise about timing?",
+          "options": {
+            "A": "Visit all the beaches in the summer.",
+            "B": "Survey when the tide is out.",
+            "C": "Survey early in the morning."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Surveys should be done at low tide, when the whole beach is visible."
+        },
+        {
+          "number": 24,
+          "text": "What do the students decide to do with the litter after counting it?",
+          "options": {
+            "A": "weigh it at the university",
+            "B": "put it in bins provided by the council",
+            "C": "recycle it themselves"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "The professor advises against taking it to the university; it goes into the council bins."
+        },
+        {
+          "number": 25,
+          "text": "What does Tom suggest in order to avoid wasting time?",
+          "options": {
+            "A": "starting the survey in summer",
+            "B": "using fewer squares",
+            "C": "choosing back-up dates"
+          },
+          "answer": [
+            "C"
+          ],
+          "explanation": "He suggests choosing back-up dates in advance in case of bad weather."
+        }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "title": "Survey plan",
+      "questions": [
+        {
+          "number": 26,
+          "text": "Litter will be counted in a one-metre frame placed at ______ points on each beach.",
+          "answer": [
+            "30",
+            "thirty"
+          ],
+          "explanation": "Thirty squares on each beach."
+        },
+        {
+          "number": 27,
+          "text": "Fishing nets are expected to be found mainly on ______ Beach.",
+          "answer": [
+            "Harbour"
+          ],
+          "explanation": "Next to the fishing port."
+        },
+        {
+          "number": 28,
+          "text": "Cigarette ______ are likely to be the commonest item on Sandy Cove.",
+          "answer": [
+            "ends"
+          ],
+          "explanation": "Cigarette ends."
+        },
+        {
+          "number": 29,
+          "text": "The students must ask the ______ for permission to do the survey.",
+          "answer": [
+            "council"
+          ],
+          "explanation": "The council's permission."
+        },
+        {
+          "number": 30,
+          "text": "The survey will begin in ______.",
+          "answer": [
+            "April"
+          ],
+          "explanation": "They plan to start in April."
+        }
+      ]
+    }
+  ]
+}

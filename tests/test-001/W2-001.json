@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-001",
+  "module": "writing",
+  "task": 2,
+  "essayType": "discussion",
+  "topic": "education",
+  "prompt": "Some people believe that students learn better in a traditional classroom, while others think that online learning is more effective. Discuss both views and give your own opinion.",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase the question; state that both have strengths, but you think a mix works best (or choose a side).",
+    "body1": "Classroom view: face-to-face interaction, immediate feedback, discipline and routine, social development.",
+    "body2": "Online view: flexibility, access to experts anywhere, self-paced learning, lower cost. Then give your opinion with a reason.",
+    "conclusion": "Summarise both views and restate your opinion."
+  },
+  "modelAnswer": "Education has changed rapidly in recent years, and there is an ongoing debate about whether traditional classrooms or online courses offer the better learning experience. While each approach has clear advantages, I believe that the most effective option combines the two.\n\nThose who favour classrooms argue that face-to-face teaching creates a structured environment in which students stay focused. A teacher can notice when a student is confused and explain a concept in a different way immediately. Classrooms also help young people to develop social skills, such as teamwork and communication, which are difficult to build through a screen. For younger children in particular, the routine and discipline of a school day are very valuable.\n\nOn the other hand, supporters of online learning point to its flexibility and accessibility. Students can study at their own pace, replay lessons they did not understand and fit their studies around a job or family responsibilities. Moreover, learners in remote areas can attend courses taught by leading experts in other countries, something that would otherwise be impossible. Online courses are also frequently cheaper, as they do not require travel or expensive facilities.\n\nIn my opinion, neither approach is perfect on its own. Online learning demands strong self-discipline, and many students lose motivation without a teacher present. Classrooms, meanwhile, cannot always provide the personal attention that digital tools can. A blended model, in which students attend lessons in person but use online resources for revision and practice, seems to offer the best of both worlds.\n\nIn conclusion, although classrooms provide structure and social contact, and online courses offer flexibility and access, I believe a combination of the two is the most effective way to learn.",
+  "vocabulary": [
+    { "word": "blended", "meaning": "combining two different methods", "example": "Many universities now offer a blended course." },
+    { "word": "self-discipline", "meaning": "the ability to control yourself and keep working without being told", "example": "Online study requires strong self-discipline." },
+    { "word": "accessibility", "meaning": "how easy it is for people to reach or use something", "example": "Accessibility is a major benefit of online courses." },
+    { "word": "face-to-face", "meaning": "in person, not through a screen", "example": "Face-to-face teaching allows immediate feedback." },
+    { "word": "structured", "meaning": "organised in a clear, planned way", "example": "A structured timetable helps young learners." },
+    { "word": "at their own pace", "meaning": "as quickly or slowly as they wish", "example": "Students can learn at their own pace." },
+    { "word": "remote", "meaning": "far away from towns or cities", "example": "Learners in remote areas benefit from online classes." },
+    { "word": "motivation", "meaning": "the desire to do something", "example": "Many students lose motivation without a teacher." }
+  ],
+  "examinerComment": "Both views are fully discussed and a clear opinion is given. Ideas are developed with reasons and examples. Good range of vocabulary and complex sentences. Estimated band 8."
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-003",
+  "module": "writing",
+  "task": 2,
+  "essayType": "opinion",
+  "topic": "environment",
+  "prompt": "Some people think that governments should spend money on improving public transport rather than building new roads. To what extent do you agree or disagree?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase the question; state clearly that you largely agree that public transport deserves priority.",
+    "body1": "Reasons: new roads attract more cars (congestion returns), cost a lot, increase pollution and noise; public transport carries more people per space and cuts emissions.",
+    "body2": "Counter-view: roads are still necessary for rural areas, freight and emergency services; so some road spending is needed. But priority should be public transport in cities.",
+    "conclusion": "Restate opinion: broadly agree, with some road investment where essential."
+  },
+  "modelAnswer": "Traffic congestion is a growing problem in cities around the world, and governments must decide where to invest. In my opinion, spending on public transport should take priority over building new roads, although roads cannot be ignored altogether.\n\nThe main reason for favouring public transport is that new roads rarely solve congestion. Research from many cities has shown that wider roads simply encourage more people to drive, so traffic returns to its previous level within a few years. Roads are also very expensive to build and maintain, and they take up valuable land that could be used for housing or parks. In contrast, a train or a bus can carry dozens of passengers in the space occupied by a handful of cars. This reduces both traffic and air pollution, because fewer vehicles burn fuel, and it benefits people who cannot afford a car or are unable to drive, such as the elderly and the young.\n\nHowever, there are situations in which road spending is necessary. In rural regions, where populations are scattered, buses and trains may not be practical, and residents depend on cars to reach hospitals, schools and shops. Roads are also vital for transporting goods and for emergency vehicles. For these reasons, governments should continue to maintain existing roads and to build new ones where there is a clear need.\n\nNevertheless, in cities, where most people live and congestion is at its worst, I believe that the greater part of any transport budget should be spent on reliable, affordable and frequent public transport. If the service is good, many drivers will leave their cars at home voluntarily.\n\nIn conclusion, although roads still have a role, I largely agree that investing in public transport offers better long-term value for money, cleaner air and fairer access to mobility.",
+  "vocabulary": [
+    { "word": "congestion", "meaning": "a situation in which too many vehicles block the roads", "example": "Traffic congestion costs the economy billions each year." },
+    { "word": "maintain", "meaning": "to keep something in good condition", "example": "Roads are expensive to maintain." },
+    { "word": "emissions", "meaning": "gases released into the air, especially from vehicles", "example": "Public transport reduces carbon emissions." },
+    { "word": "affordable", "meaning": "cheap enough for most people to pay", "example": "Affordable fares encourage people to use buses." },
+    { "word": "scattered", "meaning": "spread over a wide area", "example": "The population in rural areas is scattered." },
+    { "word": "long-term", "meaning": "lasting or affecting a long period of time", "example": "Rail offers better long-term value." },
+    { "word": "mobility", "meaning": "the ability to move or travel easily", "example": "Public transport improves mobility for the elderly." },
+    { "word": "voluntarily", "meaning": "by choice, without being forced", "example": "Many drivers will switch voluntarily if buses are reliable." }
+  ],
+  "examinerComment": "A clear position is maintained throughout, with relevant reasons, a balanced counter-argument and a logical conclusion. Good range of topic vocabulary and complex structures. Estimated band 8."
+}

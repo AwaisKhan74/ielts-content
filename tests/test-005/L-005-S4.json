@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "L-005-S4",
+  "module": "listening",
+  "testNumber": 5,
+  "sectionNumber": 4,
+  "title": "The Story of Glass",
+  "accent": "british",
+  "difficulty": "hard",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Dr Ellis (lecturer)",
+      "gender": "male",
+      "voice": "en-GB-RyanNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good afternoon, everyone. Today's lecture is about a material that you probably use dozens of times a day without giving it a second thought: glass. We drink from it, look through it, and, if you're reading this on a screen, you may even be touching it right now. I'd like to trace its history from the ancient world to the present day, and to say a little about why it remains so important."
+    },
+    {
+      "speaker": "A",
+      "text": "Let's start with what glass actually is. Its main ingredient is sand, or, more precisely, silica, which makes up around seventy per cent of ordinary glass. On its own, silica melts only at an extremely high temperature, so glassmakers add a substance such as soda ash, which lowers the melting point, and a little lime, which makes the finished glass harder and more resistant to water. When the mixture is heated to around fifteen hundred degrees Celsius, it melts, and as it cools, it becomes a solid without forming crystals. This is why glass is sometimes described as a frozen liquid, although scientists today prefer to call it an amorphous solid."
+    },
+    {
+      "speaker": "A",
+      "text": "The earliest glass objects that we know of were beads, made in Mesopotamia and Egypt around thirty-five hundred years before Christ. At that time, glass was a precious material, which was valued almost as highly as jewels. Craftsmen could not yet make large sheets or hollow containers, and so glass was used for ornaments and small vessels formed around a core of clay. All this changed in the first century before Christ, when glassblowing was invented, probably in the region of Syria. A craftsman could now dip a long metal tube into molten glass and blow into it, creating a bubble that could be shaped into almost any form. The technique was quick and cheap, and under the Roman Empire, glass bottles and cups became so common that ordinary families could afford them."
+    },
+    {
+      "speaker": "A",
+      "text": "After the fall of Rome, glassmaking survived in several places, but its greatest centre in the Middle Ages was Venice. The Venetian authorities were anxious about two things. One was fire, since the furnaces were a danger to a city built largely of wood, and the other was the secrecy of their techniques. So in 1291, they ordered all the glassmakers to move to the nearby island of Murano. The craftsmen were highly respected, and they were also forbidden to leave the Republic. The result was a century of extraordinary innovation, including the creation, in the fifteenth century, of a very clear glass called cristallo."
+    },
+    {
+      "speaker": "A",
+      "text": "The next major development took place in England. In 1674, a glassmaker called George Ravenscroft was granted a patent for a new type of glass, in which he used lead oxide as an ingredient. The resulting glass was heavy, brilliant and easy to cut, with a sparkle that resembled the rock crystal that people had long valued. Lead crystal, as it is now known, became fashionable all over Europe, and a similar glass is still used today for expensive tableware, although concerns about the health effects of lead have led many manufacturers to use alternatives."
+    },
+    {
+      "speaker": "A",
+      "text": "For centuries, one thing glassmakers could not do cheaply was to make large, flat sheets without distortion. Window glass was made by blowing a huge cylinder, cutting it open and flattening it, and the result was always slightly wavy. Better quality could be obtained only by grinding and polishing the glass, which was a slow and costly business. The solution was found in the 1950s by an engineer at the British company Pilkington, Alastair Pilkington, who had a surprisingly simple idea. Instead of rolling the glass, he allowed molten glass to flow onto the surface of a bath of molten tin. Since the tin is perfectly flat, and since glass is lighter than tin, the glass floats on it and spreads out into a smooth, flat ribbon, which is then cooled and cut. The float process, as it is known, was announced in 1959, and today it is used to make almost all the flat glass in the world, from windows in buildings to the windscreens of cars."
+    },
+    {
+      "speaker": "A",
+      "text": "Glass has also played a vital role in the technology of communication. In the 1960s, an engineer named Charles Kao, working in England, suggested that if glass could be made pure enough, it could carry light signals over long distances. Within a few years, glass fibres thinner than a human hair were being used to transmit information as pulses of light. Today, optical fibres form the backbone of the internet, and carry telephone calls, television and data across oceans. Kao was awarded the Nobel Prize in Physics in 2009 for this work."
+    },
+    {
+      "speaker": "A",
+      "text": "Finally, I'd like to say a few words about the environment. Glass has an advantage over many other materials, because it can be recycled again and again, indefinitely, without any loss of quality. Making new glass from recycled glass uses about a quarter less energy than making it from raw materials, since the recycled glass melts at a lower temperature. Even so, in many countries, a large share of used glass is still thrown away. If we improved collection, we could save a great deal of energy and raw material."
+    },
+    {
+      "speaker": "A",
+      "text": "To sum up, glass has been with us for about five thousand years, and it has changed from a rare luxury to an everyday material. Next week, we will look at ceramics and compare their history with that of glass. For the seminar, please read the two articles on the course website about the float process and prepare one question for each."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+      "title": "The Story of Glass",
+      "questions": [
+        {
+          "number": 31,
+          "text": "The main ingredient of glass is sand, also called ______.",
+          "answer": [
+            "silica"
+          ],
+          "explanation": "Silica makes up around seventy per cent."
+        },
+        {
+          "number": 32,
+          "text": "The earliest glass objects, made about 3500 BC, were ______.",
+          "answer": [
+            "beads"
+          ],
+          "explanation": "The earliest known objects were beads."
+        },
+        {
+          "number": 33,
+          "text": "Glassblowing was probably invented in the region of ______.",
+          "answer": [
+            "Syria"
+          ],
+          "explanation": "In the first century BC, probably in Syria."
+        },
+        {
+          "number": 34,
+          "text": "In 1291, Venetian glassmakers were moved to the island of ______.",
+          "answer": [
+            "Murano"
+          ],
+          "explanation": "Because of fire risk and secrecy."
+        },
+        {
+          "number": 35,
+          "text": "George Ravenscroft used ______ oxide to make a brilliant new glass.",
+          "answer": [
+            "lead"
+          ],
+          "explanation": "Lead oxide."
+        },
+        {
+          "number": 36,
+          "text": "The float process was invented by Alastair ______.",
+          "answer": [
+            "Pilkington"
+          ],
+          "explanation": "An engineer at Pilkington."
+        },
+        {
+          "number": 37,
+          "text": "In the float process, molten glass is poured onto molten ______.",
+          "answer": [
+            "tin"
+          ],
+          "explanation": "A bath of molten tin."
+        },
+        {
+          "number": 38,
+          "text": "Optical fibres transmit information as pulses of ______.",
+          "answer": [
+            "light"
+          ],
+          "explanation": "Pulses of light."
+        },
+        {
+          "number": 39,
+          "text": "Charles Kao won the Nobel Prize in ______ in 2009.",
+          "answer": [
+            "physics",
+            "Physics"
+          ],
+          "explanation": "Nobel Prize in Physics."
+        },
+        {
+          "number": 40,
+          "text": "Glass can be recycled ______ without losing quality.",
+          "answer": [
+            "indefinitely",
+            "endlessly"
+          ],
+          "explanation": "Again and again, indefinitely."
+        }
+      ]
+    }
+  ]
+}

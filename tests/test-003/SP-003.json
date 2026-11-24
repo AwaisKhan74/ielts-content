@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "SP-003",
+  "module": "speaking",
+  "part1": [
+    {
+      "topic": "Hometown",
+      "questions": [
+        "Where is your hometown?",
+        "What do you like most about it?",
+        "Has your hometown changed much in recent years?",
+        "Is it a good place for young people to live?",
+        "Would you like to live there in the future?",
+        "What would you recommend a visitor to see there?"
+      ]
+    },
+    {
+      "topic": "Food and cooking",
+      "questions": [
+        "Do you enjoy cooking?",
+        "Who usually cooks in your home?",
+        "What is a typical meal in your country?",
+        "Do you prefer eating at home or in restaurants?",
+        "Have your eating habits changed since you were a child?",
+        "Is there any food you really dislike?"
+      ]
+    },
+    {
+      "topic": "Music",
+      "questions": [
+        "What kind of music do you enjoy?",
+        "When do you usually listen to music?",
+        "Did you learn to play an instrument as a child?",
+        "Do you prefer listening to music alone or with others?",
+        "Has your taste in music changed over time?",
+        "Do you often go to concerts?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "SP-003-C1",
+      "topic": "Describe a place in your country that you would recommend to visitors",
+      "bullets": [
+        "where the place is",
+        "what visitors can see or do there",
+        "how you know about it",
+        "and explain why you would recommend it"
+      ],
+      "roundingQuestion": "Have you been there many times?",
+      "sampleAnswer": "I'd like to talk about a lake called Saif ul Malook in the north of my country, which I would definitely recommend to visitors. It's located high in the mountains, and you reach it by travelling along a bumpy road in a jeep, which is an adventure in itself. When you arrive, you see a clear blue lake surrounded by snow-covered peaks, and visitors can walk around the shore, take photographs or just sit and enjoy the silence. I know about it because my uncle took our whole family there when I was fifteen, and I've never forgotten the view. I'd recommend it because the scenery is simply breathtaking, and it's a good way to escape the noise of the city. The only drawback is that the weather can change quickly, so it's wise to bring warm clothes. I've been there twice, and I'd love to go again in autumn.",
+      "part3": [
+        {
+          "question": "Why do people like to visit natural places?",
+          "sampleAnswer": "Because they offer a break from the stress of city life. Fresh air and quiet help people to relax and feel refreshed.",
+          "keyVocabulary": [
+            "escape",
+            "stress",
+            "refreshed"
+          ]
+        },
+        {
+          "question": "How can tourism damage the environment?",
+          "sampleAnswer": "Large numbers of visitors can leave rubbish, damage plants and disturb wildlife. If hotels are built nearby, the landscape can lose its beauty.",
+          "keyVocabulary": [
+            "wildlife",
+            "disturb",
+            "landscape"
+          ]
+        },
+        {
+          "question": "Should governments limit the number of tourists in popular places?",
+          "sampleAnswer": "In some cases, yes, because a place can be ruined if it is overcrowded. A limit on daily visitors or a higher ticket price could help protect it.",
+          "keyVocabulary": [
+            "overcrowded",
+            "limit",
+            "protect"
+          ]
+        },
+        {
+          "question": "How has travel changed in the last fifty years?",
+          "sampleAnswer": "It has become much cheaper and faster, so ordinary people can fly abroad. At the same time, social media has influenced where people choose to go.",
+          "keyVocabulary": [
+            "affordable",
+            "influence",
+            "destination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SP-003-C2",
+      "topic": "Describe a person who has helped you in your life",
+      "bullets": [
+        "who the person is",
+        "how you know them",
+        "how they helped you",
+        "and explain why their help was important to you"
+      ],
+      "roundingQuestion": "Have you thanked this person?",
+      "sampleAnswer": "I'd like to describe my old maths teacher, Mr Rahman, who helped me a great deal when I was about sixteen. I met him at school, and he taught my class for two years. At that time I was struggling with the subject and almost gave up, because I'd failed two exams in a row. He noticed that I was upset, and he offered to give me extra lessons after school, without asking for any payment. He explained things patiently, using simple examples from daily life, and he never made me feel stupid. Gradually, my results improved, and I ended up getting one of the top marks in my final exam. His help was important because it gave me confidence, not just in maths but in everything I did. I've thanked him in person since then, and we still send each other messages from time to time.",
+      "part3": [
+        {
+          "question": "What qualities make a good teacher?",
+          "sampleAnswer": "Patience is the most important, together with a good knowledge of the subject. A good teacher also motivates students and treats them with respect.",
+          "keyVocabulary": [
+            "patience",
+            "motivate",
+            "respect"
+          ]
+        },
+        {
+          "question": "Do children learn more from teachers or from parents?",
+          "sampleAnswer": "They learn different things. Parents teach values and daily skills, whereas teachers provide formal knowledge, so both are essential.",
+          "keyVocabulary": [
+            "values",
+            "formal",
+            "essential"
+          ]
+        },
+        {
+          "question": "Is it better to ask for help or to solve problems alone?",
+          "sampleAnswer": "It depends on the problem. Trying alone builds independence, but asking for help saves time and can prevent mistakes, particularly when the task is difficult.",
+          "keyVocabulary": [
+            "independence",
+            "prevent",
+            "depends"
+          ]
+        },
+        {
+          "question": "Why do some people find it hard to accept help?",
+          "sampleAnswer": "They may feel embarrassed or think that asking for help shows weakness. In some cultures, pride is also very important.",
+          "keyVocabulary": [
+            "embarrassed",
+            "weakness",
+            "pride"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SP-003-C3",
+      "topic": "Describe a time when you received some good news",
+      "bullets": [
+        "what the news was",
+        "who told you",
+        "where you were when you heard it",
+        "and explain how you felt about it"
+      ],
+      "roundingQuestion": "Did you celebrate the news?",
+      "sampleAnswer": "I'd like to talk about the day I found out that I'd passed my driving test, which was about two years ago. I'd taken the test in the morning, and the examiner told me to wait for the result, so I sat in the waiting room feeling extremely nervous. After about twenty minutes, she came back, smiled and said that I'd passed. I was so relieved that I could hardly speak, because it was my third attempt. I immediately called my father, who had been practising with me every weekend, and he was just as happy as I was. Then I went home and we had a family lunch to celebrate. I felt proud and a little bit amazed, because I'd almost lost hope. Since then, having a licence has given me a lot of freedom, and I no longer depend on other people for lifts.",
+      "part3": [
+        {
+          "question": "Do people prefer to receive good news in person or by message?",
+          "sampleAnswer": "In person, I think, because you can share the joy and see each other's reactions. For minor news, though, a message is perfectly fine.",
+          "keyVocabulary": [
+            "in person",
+            "reaction",
+            "joy"
+          ]
+        },
+        {
+          "question": "Why do some people share their good news on social media?",
+          "sampleAnswer": "They want to celebrate with a wide circle of friends and sometimes to receive recognition. For others, it is simply a convenient way to inform everyone at once.",
+          "keyVocabulary": [
+            "recognition",
+            "convenient",
+            "circle"
+          ]
+        },
+        {
+          "question": "How do people usually react to bad news?",
+          "sampleAnswer": "Many are shocked at first, and then they look for support from family. Some people stay calm and try to find a solution immediately.",
+          "keyVocabulary": [
+            "shocked",
+            "support",
+            "solution"
+          ]
+        },
+        {
+          "question": "Do you think the news media report too much bad news?",
+          "sampleAnswer": "Yes, I think so, because dramatic stories attract more viewers. As a result, people may get a negative view of the world and feel anxious.",
+          "keyVocabulary": [
+            "media",
+            "dramatic",
+            "anxious"
+          ]
+        }
+      ]
+    }
+  ]
+}

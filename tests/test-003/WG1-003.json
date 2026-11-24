@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "WG1-003",
+  "module": "writing",
+  "track": "general",
+  "task": 1,
+  "tone": "formal",
+  "prompt": "You recently ordered a table online, but when it arrived it was damaged. Write a letter to the customer service manager of the company. In your letter:",
+  "bullets": [
+    "describe what you ordered and when it arrived",
+    "explain what is wrong with it",
+    "say what you would like the company to do"
+  ],
+  "minWords": 150,
+  "modelAnswer": "Dear Sir or Madam,\n\nI am writing to complain about a dining table that I ordered from your website on 3 March. The order number is 48215.\n\nThe table was delivered on 12 March, which was two days later than promised. When I unpacked it, I discovered a deep scratch across the top and one of the legs was cracked, so the table is not safe to use. The delivery driver did not wait while I checked it, and the packaging was torn, which suggests that the damage happened during transport.\n\nI paid £320 for the table, and I am extremely disappointed with both the quality and the service. I would therefore be grateful if you could arrange for a replacement to be delivered as soon as possible. If a new table is not available, I would like a full refund, together with someone to collect the damaged one at no cost to me. I have attached photographs showing the damage.\n\nI look forward to hearing from you within the next seven days. If I do not receive a satisfactory reply, I will have to contact a consumer advice organisation.\n\nYours faithfully,\nDavid Hughes",
+  "examinerComment": "All three bullets are covered with relevant detail. The tone is consistently formal, with a suitable opening and closing and logical paragraphing.",
+  "usefulPhrases": [
+    "I am writing to complain about ...",
+    "I would be grateful if you could ...",
+    "I look forward to hearing from you.",
+    "I am extremely disappointed with ...",
+    "Please arrange for ...",
+    "a full refund",
+    "Yours faithfully (Dear Sir or Madam)",
+    "Yours sincerely (Dear Mr Smith)"
+  ]
+}

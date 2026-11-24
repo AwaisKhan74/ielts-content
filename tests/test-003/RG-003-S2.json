@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-003-S2",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 3,
+  "sectionNumber": 2,
+  "title": "Working at Brightwell Logistics",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "Text A: Company Vehicle Policy",
+      "paragraphs": [
+        { "label": "A", "text": "ELIGIBILITY: Company vehicles are available to employees who have held a full driving licence for at least two years and who have completed the induction session run by the Transport Office. Staff who are on probation may not drive company vehicles except with the written permission of their line manager. Every driver must show their licence to the Transport Office once a year so that a copy can be kept on file." },
+        { "label": "B", "text": "BOOKING: Vehicles should be booked through the online booking system at least 48 hours before they are needed. Urgent requests may be made by telephone, but these cannot be guaranteed. The vehicle will be allocated according to the number of passengers and the amount of luggage; employees may not choose a particular model. If you need to cancel a booking, please do so as early as possible so that others can use the vehicle." },
+        { "label": "C", "text": "FUEL AND CHARGING: All company vehicles are fuelled by the company's fuel card, which is kept in the glove compartment. The card may be used only for fuel and may not be used to pay for food, drink or car washes. Electric vehicles must be left connected to a charging point when they are returned. Receipts should be handed to the Transport Office on the day of return." },
+        { "label": "D", "text": "ACCIDENTS AND DAMAGE: Any accident, however small, must be reported to the Transport Office within 24 hours, and to the police where someone has been injured. Drivers should photograph the damage and take the names and contact details of any other drivers involved. Do not admit responsibility at the scene. The company pays for repairs where the driver has followed the policy, but drivers who have broken the law, for example by using a handheld phone, may be asked to pay part of the cost." },
+        { "label": "E", "text": "PERSONAL USE: Company vehicles are provided for business purposes only. Occasional personal use may be approved by a department head in special circumstances, and a mileage charge of 25p per mile will then be deducted from the employee's salary. Vehicles must not be used to carry anyone who is not an employee, unless this has been agreed in advance. Smoking is not permitted in any company vehicle at any time." }
+      ]
+    },
+    {
+      "title": "Text B: Forklift Driver Training Programme",
+      "paragraphs": [
+        { "label": "F", "text": "Brightwell Logistics is offering its warehouse staff the chance to train as forklift truck drivers. The five-day course will be run by an external training company, Safelift, at our Northfield depot, in the weeks beginning 3 and 17 June. Each course is limited to eight participants, and places will be allocated in order of application.\n\nWho can apply? The programme is open to all permanent warehouse employees who have worked for the company for at least six months. Temporary and agency staff are not eligible at present, although the company will review this policy next year. Applicants must be at least eighteen years old and must pass a simple eye test, which the company will arrange free of charge.\n\nWhat does the training involve? The first two days take place in the classroom and cover health and safety law, how to inspect a truck before use, and the safe handling of different loads. The remaining three days are spent on practical driving in the warehouse, and trainees are assessed by an examiner on the final afternoon. Those who pass receive a licence, which is valid for five years and which can be used at other companies. Those who fail may retake the practical test once, at no extra cost.\n\nWhat does it cost? The course is free for employees, and they will be paid their normal wages while they train. However, anyone who leaves the company within twelve months of completing the course will be asked to repay half of the training fee, which is £600. After a successful training, drivers receive a pay rise of £1,200 a year.\n\nHow do I apply? Please complete the form on the staff intranet and ask your supervisor to sign it. The closing date is Friday 17 May. We expect a lot of interest, so we encourage applicants to apply as soon as they can." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Text A has five sections, A-E. Which section contains the following information? Write the correct letter, A-E.",
+      "questions": [
+        { "number": 15, "text": "a rule about who may travel in the vehicle", "answer": ["E"], "explanation": "Section E: not carry non-employees unless agreed." },
+        { "number": 16, "text": "what to do when you have been in a collision", "answer": ["D"], "explanation": "Section D." },
+        { "number": 17, "text": "how far in advance a vehicle must be reserved", "answer": ["B"], "explanation": "Section B: at least 48 hours." },
+        { "number": 18, "text": "the length of time a driver must have held a licence", "answer": ["A"], "explanation": "Section A: at least two years." },
+        { "number": 19, "text": "what must be done with an electric vehicle after use", "answer": ["C"], "explanation": "Section C: left connected to a charging point." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Text B? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 20, "text": "Temporary workers may apply for the forklift training programme.", "answer": ["FALSE"], "explanation": "Temporary and agency staff are not eligible at present." },
+        { "number": 21, "text": "The company pays for the eye test that applicants must take.", "answer": ["TRUE"], "explanation": "The company will arrange it free of charge." },
+        { "number": 22, "text": "More than half of the training is spent in the classroom.", "answer": ["FALSE"], "explanation": "Two days of classroom, three days of practical." },
+        { "number": 23, "text": "Safelift has trained employees at other companies in the town.", "answer": ["NOT GIVEN"], "explanation": "Nothing is said about Safelift's other clients." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from Text B for each answer.",
+      "questions": [
+        { "number": 24, "text": "Participants who fail the practical test may take it ______.", "answer": ["once", "one more time", "once more"], "explanation": "They may retake it once." },
+        { "number": 25, "text": "The licence awarded to successful trainees is valid for ______ years.", "answer": ["5", "five"], "explanation": "Valid for five years." },
+        { "number": 26, "text": "Employees who leave within twelve months must repay ______ of the training fee.", "answer": ["half"], "explanation": "Half of the £600 fee." },
+        { "number": 27, "text": "Applications must be signed by the applicant's ______.", "answer": ["supervisor"], "explanation": "Ask your supervisor to sign it." }
+      ]
+    }
+  ]
+}

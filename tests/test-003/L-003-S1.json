@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "id": "L-003-S1",
+  "module": "listening",
+  "testNumber": 3,
+  "sectionNumber": 1,
+  "title": "Joining a Leisure Centre",
+  "accent": "british",
+  "difficulty": "easy",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Daniel (receptionist)",
+      "gender": "male",
+      "voice": "en-GB-RyanNeural"
+    },
+    {
+      "id": "B",
+      "name": "Ms Wojcik (caller)",
+      "gender": "female",
+      "voice": "en-GB-SoniaNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good morning, Riverside Leisure Centre. Daniel speaking. How can I help you?"
+    },
+    {
+      "speaker": "B",
+      "text": "Oh, hello. I'd like to find out about becoming a member, please. I've just moved to the area."
+    },
+    {
+      "speaker": "A",
+      "text": "Of course. Welcome to the neighbourhood. I can take your details now and explain the different memberships as we go. Could I start with your name?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, it's Anna Wojcik."
+    },
+    {
+      "speaker": "A",
+      "text": "Sorry, I didn't catch the surname. Could you spell it for me?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sure. It's W-O-J-C-I-K. It's Polish, and people always get it wrong."
+    },
+    {
+      "speaker": "A",
+      "text": "W-O-J-C-I-K. Thanks. And what's your postcode?"
+    },
+    {
+      "speaker": "B",
+      "text": "It's S-K-1-4, and then 9-R-D. That's in the new flats beside the canal."
+    },
+    {
+      "speaker": "A",
+      "text": "S-K-1-4, 9-R-D. Good, that's very close to us, you can practically walk here. Now, may I ask what's made you decide to join? Some people come for the pool, some for the gym, and some just want to meet people."
+    },
+    {
+      "speaker": "B",
+      "text": "Well, my doctor did suggest swimming a while ago, because I've had some problems with my back. But the real reason is that I've signed up for a charity ten-kilometre run in May, and I haven't done any proper training for years."
+    },
+    {
+      "speaker": "A",
+      "text": "That's a great goal. In that case you'll want the gym as well as the pool, because we have treadmills and a running track upstairs. Let me explain the options. We have three types of membership. The full membership is forty-two pounds a month, and that lets you come at any time, seven days a week."
+    },
+    {
+      "speaker": "B",
+      "text": "Forty-two. That's a bit more than I was expecting to pay."
+    },
+    {
+      "speaker": "A",
+      "text": "There's also a student membership at twenty-five pounds, but you'd need a valid student card. Are you a student?"
+    },
+    {
+      "speaker": "B",
+      "text": "No, I'm afraid not. I work nights at the hospital, so I'm usually free in the mornings and early afternoons."
+    },
+    {
+      "speaker": "A",
+      "text": "Then the off-peak membership would be ideal for you. That's thirty pounds a month, and you can use everything on weekdays between ten in the morning and four in the afternoon, as well as all day on Sundays."
+    },
+    {
+      "speaker": "B",
+      "text": "Thirty pounds sounds much better. I'll take the off-peak one, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Lovely. Now, is there anything specific you'd like to know about the facilities?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, what about the swimming pool? Is it open every day? I'd like to swim on my days off."
+    },
+    {
+      "speaker": "A",
+      "text": "It's open every day except Monday evenings, when it closes for cleaning. It used to be closed on Sunday mornings, but we changed that in January because so many families wanted to come."
+    },
+    {
+      "speaker": "B",
+      "text": "That's fine, I wouldn't be here on Monday evenings anyway. And is there a sauna?"
+    },
+    {
+      "speaker": "A",
+      "text": "There is, but I'm afraid it's closed for repairs until the end of next month. We hope it'll be open again by April. Members will be told by email."
+    },
+    {
+      "speaker": "B",
+      "text": "Oh well, I can wait. I'm more interested in the running track and the pool at the moment."
+    },
+    {
+      "speaker": "A",
+      "text": "Now, as a new member, you'll need to attend an induction session in the gym. It lasts about forty-five minutes, and one of our instructors will show you how to use the machines safely and help you to write a training plan. It's free, and it's held every Thursday at ten o'clock."
+    },
+    {
+      "speaker": "B",
+      "text": "Thursday at ten. That works well for me, because I don't work on Wednesday nights."
+    },
+    {
+      "speaker": "A",
+      "text": "Excellent. Now, you asked about starting dates. When would you like your membership to begin?"
+    },
+    {
+      "speaker": "B",
+      "text": "As soon as possible, really. Could I begin next week, on the twenty-sixth of February?"
+    },
+    {
+      "speaker": "A",
+      "text": "I'm afraid memberships can only start on the first day of a month, because they're paid by direct debit. So the earliest start date would be the first of March. Is that all right?"
+    },
+    {
+      "speaker": "B",
+      "text": "That's fine. It gives me a few days to buy some trainers."
+    },
+    {
+      "speaker": "A",
+      "text": "Perfect. I'll put you down for the first of March. Now, there are a couple of things you'll need to bring with you when you come in to collect your card. First, you'll need some photo identification, for example a passport or a driving licence."
+    },
+    {
+      "speaker": "B",
+      "text": "I have my driving licence, so that's no problem. Do I also need to bring proof of my address?"
+    },
+    {
+      "speaker": "A",
+      "text": "No, we only need that if you're joining the student scheme. Just the photo identification is enough. We'll take your photo here at the desk for the card."
+    },
+    {
+      "speaker": "B",
+      "text": "Okay. And what happens if I decide I want to stop coming? Is there a long contract?"
+    },
+    {
+      "speaker": "A",
+      "text": "There's no contract at all. You just need to give one month's notice in writing if you want to cancel. Some centres ask for three months, but we think that's unfair."
+    },
+    {
+      "speaker": "B",
+      "text": "That's very reasonable. Thank you, Daniel. You've been really helpful."
+    },
+    {
+      "speaker": "A",
+      "text": "You're welcome, Ms Wojcik. We look forward to seeing you on the first of March. Goodbye."
+    },
+    {
+      "speaker": "B",
+      "text": "Goodbye."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "form_completion",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "title": "Riverside Leisure Centre: Membership Form",
+      "questions": [
+        {
+          "number": 1,
+          "text": "Surname: ______",
+          "answer": [
+            "Wojcik"
+          ],
+          "explanation": "Spelled W-O-J-C-I-K."
+        },
+        {
+          "number": 2,
+          "text": "Postcode: ______",
+          "answer": [
+            "SK14 9RD",
+            "SK149RD"
+          ],
+          "explanation": "She gives the postcode SK14 9RD."
+        },
+        {
+          "number": 3,
+          "text": "Type of membership: ______",
+          "answer": [
+            "off-peak",
+            "off peak"
+          ],
+          "explanation": "She chooses the off-peak membership because she is free in the mornings and early afternoons."
+        },
+        {
+          "number": 4,
+          "text": "Monthly cost: £ ______",
+          "answer": [
+            "30",
+            "thirty"
+          ],
+          "explanation": "Off-peak costs thirty pounds a month. Forty-two is the full price and twenty-five is for students."
+        },
+        {
+          "number": 5,
+          "text": "Start date: ______ March",
+          "answer": [
+            "1",
+            "1st",
+            "first",
+            "the first"
+          ],
+          "explanation": "She wanted the 26th of February, but memberships can only start on the first of a month."
+        },
+        {
+          "number": 6,
+          "text": "Must bring: ______ identification",
+          "answer": [
+            "photo"
+          ],
+          "explanation": "Only photo identification is needed; proof of address is for students only."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 7,
+          "text": "Why does Ms Wojcik want to join the leisure centre?",
+          "options": {
+            "A": "Her doctor told her to start exercising.",
+            "B": "She wants to meet people in the area.",
+            "C": "She is preparing for a charity run."
+          },
+          "answer": [
+            "C"
+          ],
+          "explanation": "Her doctor suggested swimming, but 'the real reason' is the charity ten-kilometre run in May."
+        },
+        {
+          "number": 8,
+          "text": "When is the swimming pool closed?",
+          "options": {
+            "A": "on Sunday mornings",
+            "B": "on Monday evenings",
+            "C": "on Wednesday afternoons"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "It closes on Monday evenings for cleaning. Sunday mornings was the old closing time."
+        }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questions": [
+        {
+          "number": 9,
+          "text": "On which day is the free induction session held?",
+          "answer": [
+            "Thursday",
+            "Thursdays"
+          ],
+          "explanation": "It is held every Thursday at ten o'clock."
+        },
+        {
+          "number": 10,
+          "text": "How much notice must members give to cancel?",
+          "answer": [
+            "one month",
+            "1 month",
+            "a month",
+            "one month's"
+          ],
+          "explanation": "There is no contract; members only need to give one month's notice."
+        }
+      ]
+    }
+  ]
+}

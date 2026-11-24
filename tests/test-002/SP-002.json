@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "SP-002",
+  "module": "speaking",
+  "part1": [
+    {
+      "topic": "Work or study",
+      "questions": [
+        "Do you work or are you a student?",
+        "Why did you choose that job or subject?",
+        "What do you enjoy most about it?",
+        "Is there anything you dislike about it?",
+        "Do you prefer working alone or with other people?",
+        "What would you like to do in the future?"
+      ]
+    },
+    {
+      "topic": "Weather",
+      "questions": [
+        "What is the weather like in your hometown?",
+        "What is your favourite season, and why?",
+        "Does the weather affect your mood?",
+        "What do you usually do on rainy days?",
+        "Has the weather in your country changed in recent years?",
+        "Do you check the weather forecast every day?"
+      ]
+    },
+    {
+      "topic": "Technology",
+      "questions": [
+        "How often do you use your phone?",
+        "What do you mainly use it for?",
+        "Do you think people spend too much time on their phones?",
+        "What was the first piece of technology you owned?",
+        "Do you find it easy to learn how to use new devices?",
+        "How do you think technology will change in the next ten years?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "SP-002-C1",
+      "topic": "Describe a book you have enjoyed reading",
+      "bullets": ["what the book was", "what it was about", "why you decided to read it", "and explain why you enjoyed it"],
+      "roundingQuestion": "Would you recommend it to other people?",
+      "sampleAnswer": "I'd like to talk about a novel called The Alchemist, which I read about two years ago. It's about a young shepherd who dreams of finding treasure near the Egyptian pyramids, and he travels across the desert to look for it. Along the way he meets all kinds of people who teach him about life. I decided to read it because my best friend kept telling me it had changed her way of thinking, and I was curious. At the time I was feeling a bit lost, because I had just finished university and wasn't sure what to do next. The story gave me a lot of encouragement, since it's about following your dreams even when it's difficult. I also loved the writing style. It's simple, almost like a fairy tale, so I finished it in just a few days. Yes, I would definitely recommend it, particularly to young people who are at a crossroads in their lives, although I think some people might find it a bit unrealistic.",
+      "part3": [
+        {
+          "question": "Do you think people read less than they used to?",
+          "sampleAnswer": "In some ways, yes, because there are so many other distractions, like social media and streaming. But people read short texts all day, so it's the long books that are suffering.",
+          "keyVocabulary": ["distractions", "streaming", "attention span"]
+        },
+        {
+          "question": "Are e-books better than printed books?",
+          "sampleAnswer": "They're more convenient, because you can carry hundreds on one device. Personally, though, I prefer paper, since it's easier on the eyes and feels more enjoyable.",
+          "keyVocabulary": ["convenient", "printed", "portable"]
+        },
+        {
+          "question": "What can children learn from reading?",
+          "sampleAnswer": "Quite a lot. Reading widens their vocabulary, improves their imagination and helps them to understand other people's feelings.",
+          "keyVocabulary": ["vocabulary", "imagination", "empathy"]
+        },
+        {
+          "question": "Should libraries still receive government funding?",
+          "sampleAnswer": "I think so. Libraries give free access to knowledge, especially for people who can't afford books or the internet, so they play an important social role.",
+          "keyVocabulary": ["government funding", "access", "social role"]
+        }
+      ]
+    },
+    {
+      "id": "SP-002-C2",
+      "topic": "Describe a time when you were late for something important",
+      "bullets": ["what you were late for", "why you were late", "what happened when you arrived", "and explain how you felt about it"],
+      "roundingQuestion": "Are you usually a punctual person?",
+      "sampleAnswer": "I'd like to describe the time I was late for a job interview about a year ago. It was for a position at a marketing company I really wanted to join. I'd planned to leave home an hour early, but on the way, the bus I was on broke down in the middle of a busy road, and we had to wait for another one. By the time I got to the office, I was about twenty minutes late. I was extremely nervous, and I apologised to the receptionist, who was very understanding and took me straight to the interviewer. Fortunately, the manager had also been delayed by traffic, so she hadn't noticed. I felt a mixture of relief and embarrassment, and for the first few minutes I couldn't think straight. Still, the interview went quite well, and I actually got the job. Since then, I've always left home much earlier than necessary, because the experience taught me that you can't rely on public transport. I'd say I'm normally quite punctual.",
+      "part3": [
+        {
+          "question": "Why are some people always late?",
+          "sampleAnswer": "Some people are simply bad at estimating time, and others are so busy that they try to fit too much in. For some, it's just a habit.",
+          "keyVocabulary": ["estimate", "habit", "punctual"]
+        },
+        {
+          "question": "Is being on time more important in some countries than others?",
+          "sampleAnswer": "Yes, I think so. In some cultures, arriving ten minutes late is normal and nobody minds, whereas in others it's considered rude.",
+          "keyVocabulary": ["culture", "rude", "etiquette"]
+        },
+        {
+          "question": "How can people manage their time better?",
+          "sampleAnswer": "They can make a daily plan, set reminders and put the most important tasks first. It also helps to avoid distractions, such as checking the phone all the time.",
+          "keyVocabulary": ["prioritise", "reminders", "time management"]
+        },
+        {
+          "question": "Do you think technology has made people more or less punctual?",
+          "sampleAnswer": "More, in a way. Phones remind us of appointments and maps tell us how long a journey will take. But constant messages can also distract us and make us lose track of time.",
+          "keyVocabulary": ["appointments", "distract", "lose track of time"]
+        }
+      ]
+    },
+    {
+      "id": "SP-002-C3",
+      "topic": "Describe a gift you gave to someone",
+      "bullets": ["what the gift was", "who you gave it to", "why you chose it", "and explain how the person reacted"],
+      "roundingQuestion": "Do you enjoy giving gifts?",
+      "sampleAnswer": "I'd like to talk about a gift I gave my grandmother for her seventieth birthday last year. It was a photo album that I made myself, containing pictures of our family from the past fifty years. I'd spent about a month collecting old photographs from my uncles and aunts, and then I scanned them, arranged them in order and added short captions describing what was happening in each one. I chose it because my grandmother already has everything she needs, and she has always said that memories are more valuable than objects. When I gave it to her at the family dinner, she was speechless at first, and then she started to cry, though she said they were happy tears. She spent the whole evening looking through it and telling stories about each photo, and everyone gathered around her to listen. It was one of the most special moments I've had with my family. I really enjoy giving gifts, especially when I can put some personal thought into them.",
+      "part3": [
+        {
+          "question": "Why do people give gifts on special occasions?",
+          "sampleAnswer": "To show that they care. A gift is a way of expressing appreciation and strengthening a relationship, especially when you can't say it in words.",
+          "keyVocabulary": ["appreciation", "express", "strengthen a relationship"]
+        },
+        {
+          "question": "Is a handmade gift better than something bought from a shop?",
+          "sampleAnswer": "Often, yes, because it shows effort and thought. But it depends on the person. Some people prefer something practical that they can use.",
+          "keyVocabulary": ["handmade", "thoughtful", "practical"]
+        },
+        {
+          "question": "Do you think people spend too much money on gifts?",
+          "sampleAnswer": "Sometimes. At holidays, there's pressure to buy expensive presents, and people can end up in debt. The value should come from the thought, not the price.",
+          "keyVocabulary": ["pressure", "in debt", "commercialised"]
+        },
+        {
+          "question": "How have gift-giving customs changed over time?",
+          "sampleAnswer": "Nowadays, more people give money, vouchers or online gifts, and many send presents by post instead of delivering them in person. Still, the tradition of giving something on birthdays has stayed the same.",
+          "keyVocabulary": ["vouchers", "tradition", "customs"]
+        }
+      ]
+    }
+  ]
+}

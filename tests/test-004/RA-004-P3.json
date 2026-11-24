@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-004-P3",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 4,
+  "passageNumber": 3,
+  "title": "Why We Forget, and How to Remember",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "In the 1880s, a German psychologist named Hermann Ebbinghaus set out to measure forgetting scientifically. Using himself as his only subject, he memorised long lists of meaningless three-letter combinations, known as nonsense syllables, so that his results would not be affected by anything he already knew. He then tested himself after various intervals, from twenty minutes to a month, and recorded how much he could still recall. The results, which he published in 1885, showed that forgetting follows a regular pattern. Most of what we learn is lost very quickly, within hours or days, and after that the rate of loss slows down. This pattern became known as the forgetting curve, and it has been confirmed in many later studies." },
+    { "label": "B", "text": "Why do we forget? To answer this, it helps to think of memory as a process with three stages: encoding, in which information is taken in; storage, in which it is kept; and retrieval, in which it is brought back to mind. A failure at any stage can make us forget. Perhaps surprisingly, psychologists believe that many everyday memory failures are not caused by information being lost at all. The information is still stored, but we cannot find it at the right moment. This explains the familiar 'tip of the tongue' experience, in which we are sure that we know a word, and even know its first letter, but cannot say it until it suddenly returns hours later." },
+    { "label": "C", "text": "One reason for such failures is interference. New memories can get in the way of old ones, particularly when they are similar, so that learning a new telephone number may make it harder to recall the previous one. Sleep appears to protect memories from this effect. In a classic experiment in 1924, two American psychologists asked students to learn a list of words and then either go to sleep or stay awake for several hours. When tested, the students who had slept remembered considerably more than those who had remained awake. Later research suggests that during sleep, the brain replays what has been learned and strengthens the connections between neurons, a process known as consolidation." },
+    { "label": "D", "text": "Another well-established finding is the spacing effect. Studying the same material in several short sessions spread over days or weeks produces far better long-term memory than studying for the same total time in a single long session, the method that students commonly call cramming. Cramming can produce good marks in an exam the next morning, but the knowledge disappears quickly. The best interval between sessions seems to depend on how long the person wants to remember the material: for a test in a week, a gap of a day or so is about right, while for something that must be remembered for a year, the sessions should be weeks apart." },
+    { "label": "E", "text": "A third discovery concerns the value of self-testing. In a well-known experiment published in 2006, Henry Roediger and Jeffrey Karpicke asked students to read short passages. One group then read each passage several more times, while the other group read it once and then tried to write down everything they could remember. When tested five minutes later, the students who had re-read the passage did better. But when they were tested a week later, the results were reversed, and the group that had practised recalling the information remembered substantially more. Retrieving a memory, it seems, strengthens it, in a way that simply looking at the information again does not." },
+    { "label": "F", "text": "Despite this evidence, most students prefer to re-read their notes. The reason is that re-reading feels easy and produces a sense of familiarity, which is easily mistaken for knowledge. Testing oneself, by contrast, is uncomfortable, because it reveals what we do not know. The psychologist Robert Bjork has argued that the techniques which make learning feel slower and harder in the short term are often the ones that produce the best long-term results, and he has called such techniques 'desirable difficulties'. Learners who rely on the feeling of fluency may therefore choose the less effective methods, and may be overconfident in what they know." },
+    { "label": "G", "text": "Practical advice follows from this research: spread out your study, test yourself instead of re-reading, get enough sleep after learning, and explain ideas aloud in your own words. Some people go further and use special techniques. The oldest known is the method of loci, attributed to ancient Greek and Roman speakers, who memorised long speeches by imagining a familiar building and mentally placing each item to be remembered in a different room. Modern memory champions, who can memorise thousands of digits, often use a version of this method, which they call a memory palace. Studies of such champions suggest that their abilities come from training rather than from an unusually good natural memory." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_headings",
+      "instruction": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-F from the list of headings below. Write the correct number, i-viii.",
+      "headings": {
+        "i": "Information that is stored but cannot be found",
+        "ii": "Why learning that feels easy can be misleading",
+        "iii": "Competing memories and the role of sleep",
+        "iv": "Learning in several short sessions",
+        "v": "The surprising benefits of being tested",
+        "vi": "Memory techniques of the ancient world",
+        "vii": "Differences between short-term and long-term memory",
+        "viii": "The first experiments on memory"
+      },
+      "questions": [
+        { "number": 27, "text": "Paragraph B", "answer": ["i"], "explanation": "Stored but cannot be retrieved: tip of the tongue." },
+        { "number": 28, "text": "Paragraph C", "answer": ["iii"], "explanation": "Interference and sleep." },
+        { "number": 29, "text": "Paragraph D", "answer": ["iv"], "explanation": "The spacing effect." },
+        { "number": 30, "text": "Paragraph E", "answer": ["v"], "explanation": "Self-testing." },
+        { "number": 31, "text": "Paragraph F", "answer": ["ii"], "explanation": "Re-reading feels easy and creates familiarity." }
+      ]
+    },
+    {
+      "type": "ynng",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if it contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        { "number": 32, "text": "Forgetting happens most rapidly soon after something has been learned.", "answer": ["YES"], "explanation": "Paragraph A: most is lost very quickly, then the rate slows." },
+        { "number": 33, "text": "When we cannot remember something, the information has always been lost.", "answer": ["NO"], "explanation": "Paragraph B: often it is still stored." },
+        { "number": 34, "text": "Cramming is an effective way to learn material for the long term.", "answer": ["NO"], "explanation": "Paragraph D: the knowledge disappears quickly." },
+        { "number": 35, "text": "In the 2006 experiment, the students who tested themselves did better in the five-minute test.", "answer": ["NO"], "explanation": "Paragraph E: the re-readers did better after five minutes." },
+        { "number": 36, "text": "Memory champions have better natural memories than most people.", "answer": ["NO"], "explanation": "Paragraph G: their abilities come from training rather than from an unusually good natural memory." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "questions": [
+        { "number": 37, "text": "Ebbinghaus tested himself using lists of ______ syllables.", "answer": ["nonsense"], "explanation": "Paragraph A." },
+        { "number": 38, "text": "The students who slept after learning words remembered ______ than those who stayed awake.", "answer": ["more", "considerably more"], "explanation": "Paragraph C." },
+        { "number": 39, "text": "The method of loci involves imagining a familiar ______ and placing items in its rooms.", "answer": ["building"], "explanation": "Paragraph G." },
+        { "number": 40, "text": "Bjork calls the techniques that make learning harder but more effective 'desirable ______'.", "answer": ["difficulties"], "explanation": "Paragraph F." }
+      ]
+    }
+  ]
+}

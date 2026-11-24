@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-005-P1",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 5,
+  "passageNumber": 1,
+  "title": "The Return of the Wolf to Yellowstone",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "When Yellowstone National Park was established in 1872, it was home to large numbers of wolves. Yet for many years the animals were regarded as a menace to farm animals and to the deer and elk that hunters wanted to shoot. Hunters, trappers and government agents used guns, traps and poison to eliminate them across the western United States, and in Yellowstone itself, the last wolf pack is believed to have been destroyed in 1926. For almost seventy years afterwards, the park, which was supposed to protect nature, had no wolves at all." },
+    { "label": "B", "text": "By the 1960s, ecologists had begun to argue that this was a serious mistake. Predators, they said, are an essential part of a healthy ecosystem, and removing the top predator can upset the balance of the entire food chain. After more than twenty years of debate, public hearings and legal arguments, a decision was finally made to bring wolves back. In 1995 and 1996, thirty-one wolves captured in Canada were released in the park. The wolves adapted quickly and bred successfully, and within ten years, there were more than a hundred of them living in several packs." },
+    { "label": "C", "text": "The most obvious effect was on the park's elk. Before the wolves returned, the northern herd had grown so large that it numbered about seventeen thousand animals, and in winter, the elk were eating nearly all of the young trees and shrubs along the rivers. After the wolves arrived, the herd shrank rapidly, and in some years it was less than half its previous size. Wolves took many animals, but they were not the only reason: hunting outside the park boundaries, harsh winters, and the arrival of bears and mountain lions as predators also played a part." },
+    { "label": "D", "text": "Some scientists argue that the consequences went much further. They believe that the elk did not only become fewer, but also changed their behaviour. With wolves hunting in the valleys, elk spent less time grazing in the open beside rivers, where they could easily be ambushed, and moved to higher ground or into the forest. This phenomenon, sometimes called the 'landscape of fear', is said to have allowed willow and aspen trees to recover along the streams. The recovering trees shaded the water, provided food and building materials for beavers, and supplied nesting sites for songbirds. The number of beaver colonies in the park rose from one to several, according to some counts, and beaver ponds in turn created habitats for fish, frogs and ducks." },
+    { "label": "E", "text": "This story, in which the wolves transformed the entire park, became popular and was told in books and documentary films. However, it has also been criticised. Several researchers point out that Yellowstone was affected by other changes at the same time. A long drought in the early 2000s reduced the amount of water available to the willows, and rising temperatures altered the pattern of snowfall, while the growth of the trees was also affected by the grazing of other animals. Some studies have found that the willows recovered only in places where the stream channels were suitable, and not everywhere. Critics argue that the dramatic accounts may have exaggerated the role of the wolves, and that the ecosystem is too complicated to be explained by a single cause." },
+    { "label": "F", "text": "The reintroduction also had a social side. Ranchers living around the park were concerned that wolves would kill their livestock, and some animals were indeed lost. Government and private organisations created compensation funds that paid farmers for confirmed losses, and many ranchers now use measures such as night fencing to protect their herds. Hunters, for their part, worried about fewer elk. On the other hand, tourism has benefited. Visitors come from all over the world to watch the wolves, often at dawn, using telescopes from the roadside, and wolf-watching is estimated to bring tens of millions of dollars a year into the local economy." },
+    { "label": "G", "text": "Elsewhere, wolves have returned without any human help. Since around 2000, wolves have moved westwards from Poland into Germany, where they are now established in many regions, and they have also reappeared in France, Italy and Spain. Conservationists see the return of large predators as part of a wider movement known as rewilding, in which the aim is to restore natural processes rather than manage nature directly. Whether the experience of Yellowstone can be repeated in densely populated countries is still uncertain, because it depends on people living alongside wolves, but it has changed the way many scientists and the public think about predators." }
+  ],
+  "questionGroups": [
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+      "questions": [
+        { "number": 1, "text": "Government agents were involved in killing wolves in the western United States.", "answer": ["TRUE"], "explanation": "Paragraph A." },
+        { "number": 2, "text": "The last pack in Yellowstone was destroyed in 1926.", "answer": ["TRUE"], "explanation": "Paragraph A." },
+        { "number": 3, "text": "The wolves released in 1995 and 1996 were captured in the United States.", "answer": ["FALSE"], "explanation": "Paragraph B: captured in Canada." },
+        { "number": 4, "text": "The northern elk herd has grown larger since the wolves were released.", "answer": ["FALSE"], "explanation": "Paragraph C: it shrank rapidly." },
+        { "number": 5, "text": "Most tourists visit Yellowstone mainly in order to see wolves.", "answer": ["NOT GIVEN"], "explanation": "Paragraph F says wolf-watching brings in money, but not that most tourists come mainly for wolves." }
+      ]
+    },
+    {
+      "type": "matching_info",
+      "instruction": "Reading Passage 1 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G.",
+      "questions": [
+        { "number": 6, "text": "reasons why the importance of wolves may have been overstated", "answer": ["E"], "explanation": "Paragraph E: drought, temperature, other grazers." },
+        { "number": 7, "text": "a description of a change in animal behaviour caused by fear of predators", "answer": ["D"], "explanation": "Paragraph D: the 'landscape of fear'." },
+        { "number": 8, "text": "a mention of payments made to people who lost animals", "answer": ["F"], "explanation": "Paragraph F: compensation funds." },
+        { "number": 9, "text": "an example of wolves returning to an area without being released by people", "answer": ["G"], "explanation": "Paragraph G: Germany." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "title": "The effects of wolves in Yellowstone",
+      "questions": [
+        { "number": 10, "text": "Some scientists believe that, because elk avoided open valleys, ______ trees were able to recover beside streams.", "answer": ["willow", "willow and aspen", "aspen"], "explanation": "Paragraph D." },
+        { "number": 11, "text": "The recovering trees provided food and building materials for ______.", "answer": ["beavers"], "explanation": "Paragraph D." },
+        { "number": 12, "text": "Critics say that a long ______ in the early 2000s also affected the willows.", "answer": ["drought"], "explanation": "Paragraph E." },
+        { "number": 13, "text": "Wolf-watching ______ brings large amounts of money into the local economy.", "answer": ["tourism"], "explanation": "Paragraph F: tourism has benefited." }
+      ]
+    }
+  ]
+}

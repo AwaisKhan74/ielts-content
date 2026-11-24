@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-002-P1",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 2,
+  "passageNumber": 1,
+  "title": "The Antikythera Mechanism: A Computer from the Ancient World",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "In 1900, a group of Greek sponge divers sheltering from a storm off the tiny island of Antikythera made an unexpected discovery on the seabed: the wreck of an ancient ship, lying some forty-five metres below the surface. The vessel is thought to have sunk in the first century BC. Over the following year, the divers and the Greek navy recovered an impressive cargo of bronze and marble statues, jewellery, coins and pottery, much of which is now displayed in the National Archaeological Museum in Athens. Among the finds was a corroded lump of bronze and wood, roughly the size of a shoebox, which at first attracted very little attention. It was simply stored with the other items, and nobody imagined that it would one day become the most famous object from the wreck." },
+    { "label": "B", "text": "The lump might have remained forgotten had it not been for an archaeologist named Valerios Stais, who in May 1902 noticed that a gear wheel was embedded in one of the pieces, after the object had cracked open while in storage. At the time, most scholars believed that such complex machinery was impossible in the ancient world. Some suggested that the object was a later artefact that had fallen into the wreck by accident, while others proposed that it was an astrolabe, a simple navigational instrument. The matter was left unresolved for several decades, and the fragments lay largely unstudied in the museum's storerooms." },
+    { "label": "C", "text": "Serious investigation began in the 1950s, when Derek de Solla Price, a British physicist and historian of science, started to examine the fragments. In the early 1970s, together with a Greek colleague, he used X-ray images to look inside the corroded pieces and counted the teeth on the gears. In 1974, he concluded that the device was an astronomical calendar of astonishing complexity, containing at least thirty gears, and that it had probably been made in the second or first century BC. His conclusions were met with a good deal of disbelief, since nothing comparable was known for more than a thousand years afterwards. Gears of this sophistication did not appear in European clocks until the fourteenth century." },
+    { "label": "D", "text": "Price's work was taken much further after 2005, when an international team of researchers used a three-dimensional X-ray scanning technique, similar to that used in hospitals, to look inside the fragments in far greater detail than had ever been possible. The scans revealed thousands of tiny letters engraved on the inner surfaces of the plates, which formed a kind of instruction manual for the machine. Using specially designed lighting techniques, the team also read inscriptions on the outer surfaces. These texts showed that the device displayed the movements of the sun, the moon and the five planets known to the ancient Greeks." },
+    { "label": "E", "text": "It is now believed that when a user turned a handle, a series of gears moved pointers across several dials. One dial showed the positions of the sun and moon against the signs of the zodiac, and another displayed the phases of the moon. The gears could also predict eclipses, using a cycle of 223 lunar months, known as the Saros cycle, which Babylonian astronomers had discovered centuries earlier. A further dial followed the nineteen-year Metonic cycle, which links the solar year to the lunar months and was used to organise religious festivals. A smaller dial on the back of the machine showed the dates of the Olympic Games and other Greek sporting festivals, which suggests that the device served both scientific and social purposes." },
+    { "label": "F", "text": "Who built the mechanism, and where, remains unknown. Some scholars have suggested that its design was inspired by the work of the astronomer Hipparchus, while others point to Archimedes, who was reputed to have made mechanical models of the heavens, although he died more than a century before the device is thought to have been made. The ship itself was probably sailing from the eastern Mediterranean to Rome, and may have been carrying plunder or goods for sale. The mechanism may therefore have been intended as a luxury item for a wealthy owner, rather than as a tool for scientists." },
+    { "label": "G", "text": "Whatever its purpose, the device has changed the way historians view ancient technology. Its small, precisely cut gears suggest a tradition of skilled craftsmanship of which the Antikythera mechanism is the only survivor, since bronze objects were routinely melted down and reused. Underwater excavations at the wreck site, resumed in recent decades, have uncovered further objects, and archaeologists hope that more fragments of the mechanism, or even another device, may still lie buried on the seabed. For now, however, the corroded lump that was once overlooked remains one of the greatest puzzles of the ancient world." }
+  ],
+  "questionGroups": [
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+      "questions": [
+        { "number": 1, "text": "The sponge divers were searching for the ancient wreck when they found it.", "answer": ["FALSE"], "explanation": "They were sheltering from a storm when they made an unexpected discovery." },
+        { "number": 2, "text": "The lump of bronze was immediately recognised as an important discovery.", "answer": ["FALSE"], "explanation": "It attracted very little attention at first." },
+        { "number": 3, "text": "Stais noticed the gear wheel after the object had split open.", "answer": ["TRUE"], "explanation": "The object had cracked open in storage." },
+        { "number": 4, "text": "Price's 1974 conclusions were quickly accepted by other scholars.", "answer": ["FALSE"], "explanation": "They were met with a good deal of disbelief." },
+        { "number": 5, "text": "The wreck contained more bronze statues than any other ancient wreck ever found.", "answer": ["NOT GIVEN"], "explanation": "No comparison with other wrecks is made." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        { "number": 6, "text": "The ancient ship was probably sailing from the eastern Mediterranean to ______.", "answer": ["Rome"], "explanation": "Paragraph F." },
+        { "number": 7, "text": "The three-dimensional scans revealed thousands of tiny ______ engraved on the inner plates.", "answer": ["letters"], "explanation": "Paragraph D." },
+        { "number": 8, "text": "The Saros cycle consists of ______ lunar months.", "answer": ["223"], "explanation": "Paragraph E." },
+        { "number": 9, "text": "A small dial on the back showed the dates of the Olympic Games and other Greek ______.", "answer": ["sporting festivals", "festivals"], "explanation": "Paragraph E." }
+      ]
+    },
+    {
+      "type": "matching_features",
+      "instruction": "Look at the following statements and the list of people and groups below. Match each statement with the correct person or group, A, B or C. You may use any letter more than once.",
+      "options": { "A": "Valerios Stais", "B": "Derek de Solla Price", "C": "the international research team (after 2005)" },
+      "questions": [
+        { "number": 10, "text": "was the first to notice a gear in one of the fragments", "answer": ["A"], "explanation": "Paragraph B." },
+        { "number": 11, "text": "counted the gear teeth using X-ray images", "answer": ["B"], "explanation": "Paragraph C." },
+        { "number": 12, "text": "used three-dimensional scanning to read text inside the fragments", "answer": ["C"], "explanation": "Paragraph D." },
+        { "number": 13, "text": "described the object as an astronomical calendar", "answer": ["B"], "explanation": "Paragraph C." }
+      ]
+    }
+  ]
+}

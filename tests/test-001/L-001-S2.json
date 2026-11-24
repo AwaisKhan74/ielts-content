@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "L-001-S2",
+  "module": "listening",
+  "testNumber": 1,
+  "sectionNumber": 2,
+  "title": "Welcome Talk at Heron Bay Nature Reserve",
+  "accent": "canadian",
+  "difficulty": "easy",
+  "speakers": [
+    { "id": "A", "name": "Ranger", "gender": "male", "voice": "en-CA-LiamNeural" }
+  ],
+  "script": [
+    { "speaker": "A", "text": "Good morning, everyone, and welcome to Heron Bay Nature Reserve. My name's Alex, and I'm one of the rangers here. Before you set off, I'd like to give you a quick introduction to the reserve, and then tell you where everything is." },
+    { "speaker": "A", "text": "First, a little history. The land around the bay has been used in many different ways. In the eighteen hundreds it was a salt works, and some of the old brick channels are still visible near the windmill. During the Second World War, the army used the area for training. After the war, there were plans to build a housing estate here, but local people campaigned against it." },
+    { "speaker": "A", "text": "The first proposal for a nature reserve was made back in nineteen sixty-eight, but it took another ten years before it finally opened to the public, in nineteen seventy-eight. It was extended in nineteen eighty-eight to include the western wetland, which is where you'll find most of our wading birds." },
+    { "speaker": "A", "text": "These days, the reserve is much busier than it used to be. We now welcome around sixty thousand visitors a year, which is up from about forty thousand five years ago. We're hoping to reach eighty thousand by twenty thirty, but we'll need to be careful that we don't damage the habitats we're here to protect." },
+    { "speaker": "A", "text": "Of course, more visitors bring more challenges. A few years ago, our biggest problem was litter, and we still ask you to take your rubbish home with you. But the issue that worries us most now is dogs. Many of the birds nest on the ground here, and a dog running off the path can frighten them away from their nests, so please keep your dogs on a lead at all times." },
+    { "speaker": "A", "text": "Now, the facilities. There's a map on the wall by the door if you'd like to follow along. The café is opposite the main gate, so it's the first thing you'll see when you come in. It serves hot meals and snacks, and most of the food comes from local farms." },
+    { "speaker": "A", "text": "The toilets are behind the visitor centre. You'll need to go through the courtyard to find them. If you're keen on birdwatching, the best place to go is the bird hide, which is at the far end of the boardwalk. It takes around twenty minutes to walk there, and it's worth going early in the morning, when the birds are most active." },
+    { "speaker": "A", "text": "If you've brought your own lunch, you can use the picnic area, which is on the hill overlooking the bay. It has wonderful views, though it can get quite windy up there. And finally, school groups use our education centre, which is next to the old windmill. It's normally closed to the general public, but you can look through the windows if you're passing." },
+    { "speaker": "A", "text": "Now, a word about activities. We run guided walks every weekend. On Saturdays, we have a family walk at ten thirty, which is aimed at children and lasts about an hour. On Sundays, we have the longer, expert-led walk, which starts at nine thirty and is better for serious birdwatchers. Both walks leave from the visitor centre, and there's no need to book." },
+    { "speaker": "A", "text": "Lastly, we couldn't run the reserve without our volunteers. They help with everything from repairing paths to counting birds. If you'd like to get involved, you can pick up a form at the visitor centre. Volunteers need to be at least sixteen years old, although we do have a junior club for younger children." },
+    { "speaker": "A", "text": "Right, that's everything from me. Please enjoy your visit, and if you have any questions, any of us wearing a green jacket will be happy to help." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 11, "text": "When did the reserve first open to the public?", "options": { "A": "1968", "B": "1978", "C": "1988" }, "answer": ["B"], "explanation": "The proposal was in 1968, it opened in 1978 and was extended in 1988." },
+        { "number": 12, "text": "How many visitors does the reserve receive each year now?", "options": { "A": "40,000", "B": "60,000", "C": "80,000" }, "answer": ["B"], "explanation": "40,000 was five years ago and 80,000 is the future target." },
+        { "number": 13, "text": "What is the reserve's biggest concern at the moment?", "options": { "A": "rubbish left by visitors", "B": "damage to the paths", "C": "dogs disturbing nesting birds" }, "answer": ["C"], "explanation": "Litter was the earlier problem, but dogs worry them most now." }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Where is each facility located? Choose the correct letter, A-F, for each facility.",
+      "options": {
+        "A": "beside the car park",
+        "B": "at the end of the boardwalk",
+        "C": "on the hill overlooking the bay",
+        "D": "next to the old windmill",
+        "E": "opposite the main gate",
+        "F": "behind the visitor centre"
+      },
+      "questions": [
+        { "number": 14, "text": "Café", "answer": ["E"], "explanation": "The café is opposite the main gate." },
+        { "number": 15, "text": "Toilets", "answer": ["F"], "explanation": "The toilets are behind the visitor centre." },
+        { "number": 16, "text": "Bird hide", "answer": ["B"], "explanation": "It is at the far end of the boardwalk." },
+        { "number": 17, "text": "Picnic area", "answer": ["C"], "explanation": "It is on the hill overlooking the bay." },
+        { "number": 18, "text": "Education centre", "answer": ["D"], "explanation": "It is next to the old windmill." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questions": [
+        { "number": 19, "text": "The expert-led walk on Sundays starts at ______.", "answer": ["9.30", "9:30", "half past nine", "nine thirty"], "explanation": "Saturday's family walk is at 10.30; Sunday's is at 9.30." },
+        { "number": 20, "text": "Volunteers must be at least ______ years old.", "answer": ["16", "sixteen"], "explanation": "Volunteers need to be at least sixteen." }
+      ]
+    }
+  ]
+}

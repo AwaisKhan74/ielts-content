@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "L-005-S1",
+  "module": "listening",
+  "testNumber": 5,
+  "sectionNumber": 1,
+  "title": "Registering at a Medical Centre",
+  "accent": "irish",
+  "difficulty": "easy",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Connor (receptionist)",
+      "gender": "male",
+      "voice": "en-IE-ConnorNeural"
+    },
+    {
+      "id": "B",
+      "name": "Priya Nair (patient)",
+      "gender": "female",
+      "voice": "en-IE-EmilyNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good morning, Elmwood Medical Centre. Connor speaking. How can I help?"
+    },
+    {
+      "speaker": "B",
+      "text": "Hello. I've just moved to the area, and I'd like to register as a new patient, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Of course. I'll take some details over the phone now, and then you'll need to come in to complete the registration. Could I have your full name, please?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, it's Priya Nair."
+    },
+    {
+      "speaker": "A",
+      "text": "Could you spell your surname for me?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sure. It's N-A-I-R."
+    },
+    {
+      "speaker": "A",
+      "text": "N-A-I-R, thank you. And what's your date of birth?"
+    },
+    {
+      "speaker": "B",
+      "text": "The twelfth of November, nineteen ninety-one."
+    },
+    {
+      "speaker": "A",
+      "text": "Twelfth of November, ninety-one. And your address?"
+    },
+    {
+      "speaker": "B",
+      "text": "It's flat fourteen, Bridge Court, which is on Mill Lane. I've lived there only a few weeks, so I keep forgetting the number."
+    },
+    {
+      "speaker": "A",
+      "text": "Fourteen, Bridge Court, Mill Lane. Yes, you're inside our area, so that's fine. Now, what's your phone number?"
+    },
+    {
+      "speaker": "B",
+      "text": "My mobile is oh seven eight five five, three one nine, four six two."
+    },
+    {
+      "speaker": "A",
+      "text": "Oh seven eight five five, three one nine, four six two. Thank you. Now, could I ask why you'd like to join us? Did someone recommend us?"
+    },
+    {
+      "speaker": "B",
+      "text": "Well, I did look at a couple of other surgeries. But the main reason is that the centre is just a five-minute walk from my flat, and I don't have a car."
+    },
+    {
+      "speaker": "A",
+      "text": "That's one of the benefits. Have you been registered with another doctor recently?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, I was with a doctor in Leeds until last month, when I moved for work. I'm a teacher, and I started a new job at Hill Road Primary School in September."
+    },
+    {
+      "speaker": "A",
+      "text": "Lovely. We look after quite a few teachers from that school. Now, do you have any ongoing medical conditions we should know about?"
+    },
+    {
+      "speaker": "B",
+      "text": "Only mild asthma. I use an inhaler, but I haven't had any serious problems for years. I'll need a new prescription before the end of the month, though."
+    },
+    {
+      "speaker": "A",
+      "text": "That's no problem. Once you're registered, you can book a short appointment with the nurse, and she'll arrange the prescription. Appointments with the nurse are usually available within a week."
+    },
+    {
+      "speaker": "B",
+      "text": "That's good to know. What are your opening hours?"
+    },
+    {
+      "speaker": "A",
+      "text": "We're open from eight in the morning until six thirty in the evening, Monday to Friday. On Saturdays, we're open from nine until twelve, but only for urgent appointments. If you need to see a doctor outside those hours, you can call the helpline, which is open all night, and a doctor will call you back."
+    },
+    {
+      "speaker": "B",
+      "text": "Good. And how do I book an appointment?"
+    },
+    {
+      "speaker": "A",
+      "text": "You can telephone us, or, if you prefer, you can book online. We'll give you a password when you register. Most people find the online system quicker, because the phone lines are busiest between eight and nine in the morning."
+    },
+    {
+      "speaker": "B",
+      "text": "I'd rather use the online system, then. And what do I need to bring when I come in to register?"
+    },
+    {
+      "speaker": "A",
+      "text": "Two things. First, you'll need some proof of your address. A bank statement or a letter from your landlord is fine, but it has to be less than three months old. Second, please bring your passport or driving licence as proof of identity."
+    },
+    {
+      "speaker": "B",
+      "text": "I have my passport, so that's fine. Do I need to bring any medical records?"
+    },
+    {
+      "speaker": "A",
+      "text": "No, we'll request those from your previous doctor ourselves. It normally takes about two weeks for them to arrive. And you'll also be asked to fill in a short health questionnaire, which takes about ten minutes. We'll give you a form at reception."
+    },
+    {
+      "speaker": "B",
+      "text": "I could come in tomorrow afternoon, if that's all right. Would three o'clock suit?"
+    },
+    {
+      "speaker": "A",
+      "text": "Tomorrow's Thursday, and the registration desk is closed on Thursday afternoons, I'm afraid. But it's open on Friday morning from nine, or on Monday all day."
+    },
+    {
+      "speaker": "B",
+      "text": "Friday morning would be fine. I'll come in at about ten."
+    },
+    {
+      "speaker": "A",
+      "text": "Perfect. I'll make a note of that. Thank you, Ms Nair, and welcome to Elmwood. We'll see you on Friday."
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you very much. Goodbye."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "form_completion",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "title": "Elmwood Medical Centre: New Patient Registration",
+      "questions": [
+        {
+          "number": 1,
+          "text": "Surname: ______",
+          "answer": [
+            "Nair"
+          ],
+          "explanation": "Spelled N-A-I-R."
+        },
+        {
+          "number": 2,
+          "text": "Date of birth: 12 ______ 1991",
+          "answer": [
+            "November"
+          ],
+          "explanation": "The twelfth of November."
+        },
+        {
+          "number": 3,
+          "text": "Address: Flat ______, Bridge Court, Mill Lane",
+          "answer": [
+            "14",
+            "fourteen"
+          ],
+          "explanation": "Flat fourteen."
+        },
+        {
+          "number": 4,
+          "text": "Reason for choosing the centre: it is close to home and she has no ______",
+          "answer": [
+            "car"
+          ],
+          "explanation": "A five-minute walk from her flat; she doesn't have a car."
+        },
+        {
+          "number": 5,
+          "text": "Occupation: ______",
+          "answer": [
+            "teacher"
+          ],
+          "explanation": "She is a teacher."
+        },
+        {
+          "number": 6,
+          "text": "Medical condition: mild ______",
+          "answer": [
+            "asthma"
+          ],
+          "explanation": "Only mild asthma."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 7,
+          "text": "Why does Ms Nair need to see the nurse?",
+          "options": {
+            "A": "to have a health check",
+            "B": "to get a new prescription",
+            "C": "to have an injection"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "She needs a new prescription for her inhaler before the end of the month."
+        },
+        {
+          "number": 8,
+          "text": "What does Connor say about booking appointments?",
+          "options": {
+            "A": "The online system is usually quicker.",
+            "B": "The phone lines are quiet in the morning.",
+            "C": "Appointments can only be booked in person."
+          },
+          "answer": [
+            "A"
+          ],
+          "explanation": "Most people find the online system quicker; the phone lines are busiest from eight to nine."
+        }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questions": [
+        {
+          "number": 9,
+          "text": "What must be less than three months old?",
+          "answer": [
+            "bank statement",
+            "proof of address",
+            "a bank statement",
+            "landlord letter",
+            "a letter"
+          ],
+          "explanation": "A bank statement or a letter from her landlord must be less than three months old."
+        },
+        {
+          "number": 10,
+          "text": "On which day will Ms Nair come in to register?",
+          "answer": [
+            "Friday"
+          ],
+          "explanation": "Thursday afternoon is closed, so she will come on Friday morning."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "WA1-004",
+  "module": "writing",
+  "track": "academic",
+  "task": 1,
+  "prompt": "The line graph below shows the average daily water consumption per person in three cities between 1990 and 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "minWords": 150,
+  "chartSpec": {
+    "type": "line",
+    "title": "Daily water use per person (litres)",
+    "unit": "litres",
+    "xLabel": "Year",
+    "yLabel": "Litres per person per day",
+    "categories": [
+      "1990",
+      "1995",
+      "2000",
+      "2005",
+      "2010",
+      "2015"
+    ],
+    "series": [
+      {
+        "name": "City X",
+        "values": [
+          220,
+          210,
+          190,
+          175,
+          165,
+          150
+        ]
+      },
+      {
+        "name": "City Y",
+        "values": [
+          120,
+          130,
+          150,
+          170,
+          190,
+          200
+        ]
+      },
+      {
+        "name": "City Z",
+        "values": [
+          160,
+          160,
+          158,
+          155,
+          150,
+          145
+        ]
+      }
+    ]
+  },
+  "modelAnswer": "The line graph compares the amount of water used each day by the average resident of three cities between 1990 and 2015.\n\nOverall, water consumption fell steadily in City X, rose considerably in City Y and declined only slightly in City Z. As a result, the city with the lowest use in 1990 had the highest by the end of the period.\n\nIn 1990, City X residents used the most water, at 220 litres per person, compared with 160 litres in City Z and only 120 litres in City Y. Over the following 25 years, City X's figure dropped by 70 litres to 150 litres, with the fastest decrease occurring between 1995 and 2000.\n\nBy contrast, City Y's consumption rose in every period, climbing from 120 to 200 litres. It overtook City Z around 2005 and passed City X in 2010, when the two cities recorded 190 and 165 litres respectively.\n\nCity Z remained relatively stable, falling only from 160 to 145 litres, and by 2015 it had the lowest consumption of the three.",
+  "examinerComment": "Clear overview, accurate data and good comparisons, including the points at which lines cross. Information is logically organised by city.",
+  "usefulPhrases": [
+    "The graph compares ...",
+    "declined steadily / rose considerably",
+    "fell only slightly",
+    "overtook ... in ...",
+    "By contrast, ...",
+    "remained relatively stable",
+    "the fastest decrease occurred between ... and ...",
+    "As a result, ..."
+  ]
+}

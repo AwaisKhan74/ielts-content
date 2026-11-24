@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-002-S3",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 2,
+  "sectionNumber": 3,
+  "title": "The Four-Day Working Week: Experiment or Future?",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "The Four-Day Working Week: Experiment or Future?",
+      "paragraphs": [
+        { "label": "A", "text": "For almost a century, the five-day working week has been the norm in most industrial countries. The car manufacturer Henry Ford is often credited with popularising it, when his company introduced a five-day week at its factories in 1926, arguing that workers with more free time would also have more time to spend money. The pattern spread gradually and eventually became so familiar that it seemed natural, even unchangeable. In recent years, however, a growing number of companies have begun to ask whether it still makes sense in a world of laptops, mobile phones and flexible working." },
+        { "label": "B", "text": "The idea behind the four-day week is simple: employees work for four days instead of five, but receive the same pay. Supporters often describe it as the 100-80-100 model, in which workers receive 100 per cent of their pay for 80 per cent of their time, in return for maintaining 100 per cent of their output. Between 2015 and 2019, trials in Iceland involved around 2,500 workers in schools, hospitals and offices, and the results were widely described as an overwhelming success. In 2022, a larger experiment began in Britain, in which around sixty companies from a variety of sectors, including finance, marketing and charities, reduced working hours for several thousand employees for six months." },
+        { "label": "C", "text": "The reported results were striking. Employees said they felt less stressed and less exhausted, and many companies recorded fewer sick days and fewer resignations. Managers said that it was easier to recruit new staff, because the shorter week made vacancies more attractive. Perhaps most surprisingly, productivity generally stayed the same or even rose. Many firms said that workers had become more focused, meetings had become shorter and unnecessary tasks had been dropped. At the end of the British trial, a large majority of the companies said that they intended to continue with the four-day week, and a number made the change permanent." },
+        { "label": "D", "text": "Not everyone is convinced. Critics point out that the model is far easier to apply in some jobs than in others. Hospitals, restaurants and shops, for instance, need to provide continuous cover, so giving everyone an extra day off is much more difficult to organise. In some trials, employees did not actually work fewer hours but simply compressed their working week into four long days, which can be just as tiring, especially for workers with young children. There is also a concern that the results are not representative. Companies that volunteer for an experiment are likely to be enthusiastic about the idea already, and may have been better prepared than the average employer." },
+        { "label": "E", "text": "Economists are divided about the wider consequences. Some believe that shorter weeks could reduce commuting and the pollution it causes, and could improve public health, which would eventually save governments money. Others warn that, in industries where output depends on the number of hours worked, firms may be forced to hire additional staff to maintain the same level of service, raising their costs. If these costs were passed on to customers, prices could rise, and the benefit to workers would be partly cancelled out." },
+        { "label": "F", "text": "For individual employees, the extra day off has been put to many different uses. Some use it to spend time with children or elderly relatives, others to study, to volunteer or simply to rest. A number of workers said that the change had made them more loyal to their employer, as they were unwilling to give up the arrangement by moving to another job. Several, however, admitted that they sometimes checked emails on their day off, which suggests that a shorter week works best when employers also respect the boundaries between work and personal time." },
+        { "label": "G", "text": "Whether the four-day week will become standard remains uncertain. A number of governments are considering the matter, and some have launched their own trials, but few have proposed changing the law. Most observers expect the change to spread gradually, sector by sector, rather than in a single step, beginning with industries such as technology and marketing, where output is easiest to measure. If the trials are any guide, those organisations that adopt it early may find themselves with a significant advantage in attracting and keeping the best staff." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the text? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 28, "text": "Henry Ford's company introduced a five-day working week in the 1920s.", "answer": ["TRUE"], "explanation": "Paragraph A: 1926." },
+        { "number": 29, "text": "In the Icelandic trials, employees' pay was reduced.", "answer": ["FALSE"], "explanation": "The model is the same pay for fewer days." },
+        { "number": 30, "text": "Most of the British companies stopped using the four-day week after the trial.", "answer": ["FALSE"], "explanation": "A large majority intended to continue." },
+        { "number": 31, "text": "Most of the companies in the British trial were in the technology sector.", "answer": ["NOT GIVEN"], "explanation": "Only finance, marketing and charities are named; no proportions are given." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+      "questions": [
+        { "number": 32, "text": "In the 100-80-100 model, workers receive 100 per cent of their ______.", "answer": ["pay"], "explanation": "Paragraph B." },
+        { "number": 33, "text": "Employees in the trials said that they felt less stressed and less ______.", "answer": ["exhausted"], "explanation": "Paragraph C." },
+        { "number": 34, "text": "Hospitals, restaurants and shops need to provide continuous ______.", "answer": ["cover"], "explanation": "Paragraph D." },
+        { "number": 35, "text": "In some trials, workers compressed their week into four ______ days.", "answer": ["long"], "explanation": "Paragraph D." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+      "title": "The wider debate",
+      "questions": [
+        { "number": 36, "text": "Some economists believe that shorter weeks could reduce ______ and the pollution it causes.", "answer": ["commuting"], "explanation": "Paragraph E." },
+        { "number": 37, "text": "Others warn that firms may have to ______ extra staff, which would raise their costs.", "answer": ["hire"], "explanation": "Paragraph E." },
+        { "number": 38, "text": "Critics also say that companies taking part in trials are probably ______ about the idea already.", "answer": ["enthusiastic"], "explanation": "Paragraph D." },
+        { "number": 39, "text": "Most observers expect the change to spread ______, sector by sector.", "answer": ["gradually"], "explanation": "Paragraph G." },
+        { "number": 40, "text": "A number of governments are ______ the matter, though few have proposed changing the law.", "answer": ["considering"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

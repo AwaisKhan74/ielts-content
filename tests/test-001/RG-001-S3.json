@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-001-S3",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 1,
+  "sectionNumber": 3,
+  "title": "The Return of the Night Train",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "The Return of the Night Train",
+      "paragraphs": [
+        { "label": "A", "text": "In the 1990s, travellers across Europe could board a sleeper train in one capital in the evening and wake up in another the next morning. Over the following two decades, however, many of these services disappeared. The spread of low-cost airlines made flying cheaper than a train ticket, while new high-speed rail lines meant that many journeys that once took a night could now be completed in a few hours. By the mid-2010s, several countries had closed their night services completely, as they were no longer profitable." },
+        { "label": "B", "text": "Today, the picture is changing. Several operators have reintroduced sleeper routes, and new ones have been planned or launched. One reason is growing public concern about climate change. In some countries, 'flight shame', the feeling of guilt about taking short flights, has encouraged travellers to look for alternatives. Rail travel produces far less carbon dioxide per passenger than air travel, and a night train has the added advantage of saving the cost of a hotel room." },
+        { "label": "C", "text": "The Austrian railway company has played a leading role. When a German operator announced that it was giving up its sleeper services in 2016, the Austrian company bought many of the carriages and began to expand its network, investing in new modern trains. Since then, passenger numbers on its night routes have grown steadily, and operators in other countries, including France, Sweden and the Czech Republic, have launched or restored routes of their own." },
+        { "label": "D", "text": "However, running sleepers is not easy. Specialist carriages are expensive to build, and few factories are left that can make them. Because a sleeping car makes only one journey a day, it earns less money than a daytime carriage, and rail companies must pay fees for the use of tracks in each country they cross. Maintenance work on the tracks is also often scheduled overnight, which can disrupt services." },
+        { "label": "E", "text": "Comfort is another consideration. Traditional night trains offer a range of accommodation, from reclining seats to compartments with six couchettes and private cabins with real beds and washbasins. Sales figures suggest that passengers are increasingly willing to pay for privacy, and operators report that the private cabins sell out first. Some new trains include cabins with their own shower and toilet, and a few offer capsule-style beds for solo travellers on lower budgets." },
+        { "label": "F", "text": "Supporters argue that governments should support night trains in the same way that they support roads and airports. They point out that aviation benefits from tax exemptions on aircraft fuel, which makes tickets cheaper than they would otherwise be. Critics reply that night trains are unlikely ever to compete on price or speed for most travellers, and that subsidies would be better spent on faster daytime links." },
+        { "label": "G", "text": "Whatever the outcome of this debate, travellers appear to be enjoying the revival. For some, the appeal lies in the journey itself: watching the landscape from the window, dining in a restaurant car, and arriving in the city centre rather than at an airport on the outskirts. For one frequent traveller, the journey becomes part of the holiday rather than something to be endured." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the text? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 28, "text": "Most European night train services had already disappeared by the 1990s.", "answer": ["FALSE"], "explanation": "Many services disappeared during the two decades after the 1990s." },
+        { "number": 29, "text": "High-speed trains reduced the need for overnight journeys on some routes.", "answer": ["TRUE"], "explanation": "Paragraph A." },
+        { "number": 30, "text": "The German operator stopped its sleeper services because it did not have enough passengers.", "answer": ["NOT GIVEN"], "explanation": "The reason is not given." },
+        { "number": 31, "text": "Track maintenance is mostly carried out during the daytime.", "answer": ["FALSE"], "explanation": "It is often scheduled overnight." },
+        { "number": 32, "text": "Private cabins are the first type of accommodation to sell out.", "answer": ["TRUE"], "explanation": "Operators report that private cabins sell out first." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+      "questions": [
+        { "number": 33, "text": "'Flight shame' describes the feeling of ______ about taking short flights.", "answer": ["guilt"], "explanation": "Paragraph B." },
+        { "number": 34, "text": "Rail companies must pay ______ for the use of tracks in each country they cross.", "answer": ["fees"], "explanation": "Paragraph D." },
+        { "number": 35, "text": "Some new trains have cabins with their own shower and ______.", "answer": ["toilet"], "explanation": "Paragraph E." },
+        { "number": 36, "text": "Critics say that subsidies would be better spent on faster ______ links.", "answer": ["daytime"], "explanation": "Paragraph F." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questions": [
+        { "number": 37, "text": "What does the writer give as the main reason for the decline of night trains?", "options": { "A": "the high price of tickets", "B": "competition from cheap flights and faster trains", "C": "a lack of interest from passengers", "D": "government decisions" }, "answer": ["B"], "explanation": "Paragraph A." },
+        { "number": 38, "text": "Why does the writer mention hotel rooms in paragraph B?", "options": { "A": "Night trains can save passengers money.", "B": "Hotels are cheaper than flights.", "C": "Rail companies own hotels.", "D": "Hotels are often full." }, "answer": ["A"], "explanation": "A night train saves the cost of a hotel room." },
+        { "number": 39, "text": "What do supporters of subsidies say about aviation?", "options": { "A": "It pays more tax than rail.", "B": "Its fuel is not taxed.", "C": "It is less safe than rail.", "D": "It is cheaper to operate." }, "answer": ["B"], "explanation": "Paragraph F: tax exemptions on aircraft fuel." },
+        { "number": 40, "text": "What does the writer suggest in the final paragraph?", "options": { "A": "Many travellers value the experience of the journey.", "B": "The revival of night trains will soon end.", "C": "Night trains are mainly used by tourists.", "D": "Airports are better located than stations." }, "answer": ["A"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

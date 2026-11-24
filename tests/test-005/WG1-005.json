@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "WG1-005",
+  "module": "writing",
+  "track": "general",
+  "task": 1,
+  "tone": "semi-formal",
+  "prompt": "Your neighbour is having building work done on his house, and the noise is causing you problems. Write a letter to your neighbour. In your letter:",
+  "bullets": [
+    "explain the problem",
+    "describe how it is affecting you",
+    "suggest what he could do to help"
+  ],
+  "minWords": 150,
+  "modelAnswer": "Dear Mr Collins,\n\nI hope you are well. I am writing about the building work that has been taking place at your house over the past three weeks. I understand that you are having an extension built, and I do not want to cause any trouble, but the noise has recently become a real problem for me.\n\nThe workers usually arrive at about seven in the morning, and the drilling and hammering often continues until after six in the evening. Because I work from home, I have found it almost impossible to concentrate or to take telephone calls, and my young daughter, who is preparing for exams, cannot study at all during the day. The noise on Saturdays has also prevented us from resting.\n\nI wonder whether it would be possible to ask the builders to start at eight o'clock and to avoid the noisiest work between twelve and two, when my daughter needs the most quiet. It would also help greatly if you could stop work at the weekend.\n\nI would really appreciate your help, and I am sure we can find a solution that suits us both. Please do not hesitate to knock on my door if you would like to discuss this.\n\nKind regards,\nMargaret Lewis",
+  "examinerComment": "All three bullet points are covered with relevant detail. The tone is polite but firm and suitable for a neighbour, with a clear opening and closing.",
+  "usefulPhrases": [
+    "I am writing about ...",
+    "I do not want to cause any trouble, but ...",
+    "it has become a real problem for me",
+    "I wonder whether it would be possible to ...",
+    "It would help greatly if you could ...",
+    "I would really appreciate your help.",
+    "I am sure we can find a solution.",
+    "Kind regards (Dear Mr Collins)"
+  ]
+}

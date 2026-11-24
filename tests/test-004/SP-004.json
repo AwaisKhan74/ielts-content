@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "SP-004",
+  "module": "speaking",
+  "part1": [
+    {
+      "topic": "Daily routine",
+      "questions": [
+        "What time do you usually get up?",
+        "Which part of the day do you like best?",
+        "Do you have a regular routine on weekdays?",
+        "Is your routine different at weekends?",
+        "Would you like to change anything about your daily routine?",
+        "Do you prefer to plan your day or do things spontaneously?"
+      ]
+    },
+    {
+      "topic": "Shopping",
+      "questions": [
+        "Do you enjoy shopping?",
+        "Do you prefer to shop online or in shops?",
+        "What kinds of things do you like to buy?",
+        "Who do you usually go shopping with?",
+        "Have you ever bought something you later regretted?",
+        "How have shopping habits changed in your country?"
+      ]
+    },
+    {
+      "topic": "Friends",
+      "questions": [
+        "Do you have many friends?",
+        "How often do you see your friends?",
+        "What do you usually do together?",
+        "Is it easy for you to make new friends?",
+        "Do you keep in touch with friends from your school days?",
+        "What qualities do you value most in a friend?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "SP-004-C1",
+      "topic": "Describe a useful skill you learned",
+      "bullets": [
+        "what the skill is",
+        "when and how you learned it",
+        "who helped you",
+        "and explain why it is useful"
+      ],
+      "roundingQuestion": "Do you want to learn any other skills?",
+      "sampleAnswer": "I'd like to talk about learning to swim, which I think is one of the most useful skills anyone can have. I learned when I was about twelve, during a summer holiday at my uncle's house near a river. At first I was quite frightened of the water, and I refused to go in beyond my knees. My cousin, who was a very good swimmer, helped me by holding me up and showing me how to move my arms and legs. After about two weeks, I could swim a short distance without help, and by the end of the summer I could cross the river. It's useful because it can save your life, and it's also a very healthy form of exercise. Since then, I've swum regularly, and I even helped teach my younger brother. Now I'd like to learn another skill, probably how to play the guitar.",
+      "part3": [
+        {
+          "question": "Why is it important for children to learn practical skills?",
+          "sampleAnswer": "Because practical skills make them more independent and confident. They also learn to solve everyday problems, which school lessons sometimes don't teach.",
+          "keyVocabulary": [
+            "independent",
+            "confident",
+            "practical"
+          ]
+        },
+        {
+          "question": "Should schools teach more practical subjects?",
+          "sampleAnswer": "I think so. Subjects like cooking, first aid and basic finance prepare students for adult life and are just as useful as academic ones.",
+          "keyVocabulary": [
+            "first aid",
+            "finance",
+            "academic"
+          ]
+        },
+        {
+          "question": "Is it easier for children or adults to learn new skills?",
+          "sampleAnswer": "Children usually learn faster because they are less afraid of making mistakes. Adults, however, can be more disciplined and understand why they are learning.",
+          "keyVocabulary": [
+            "disciplined",
+            "mistakes",
+            "motivated"
+          ]
+        },
+        {
+          "question": "How has technology changed the way people learn skills?",
+          "sampleAnswer": "Nowadays people can watch tutorials online and learn almost anything at their own pace. However, it can be harder to get personal feedback.",
+          "keyVocabulary": [
+            "tutorials",
+            "at their own pace",
+            "feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SP-004-C2",
+      "topic": "Describe a memorable meal you had",
+      "bullets": [
+        "where you had the meal",
+        "who you were with",
+        "what you ate",
+        "and explain why it was memorable"
+      ],
+      "roundingQuestion": "Would you like to have a meal like that again?",
+      "sampleAnswer": "I'd like to describe a dinner I had for my twentieth birthday at a small restaurant by the sea. I went there with my parents and two close friends. The restaurant is famous for its fresh fish, so we all ordered grilled fish with rice and salad, and then shared a huge chocolate cake for dessert. The food was delicious, but what made the evening memorable was the atmosphere. We sat outside on a terrace, and we watched the sun go down over the water while a musician played quiet songs on the guitar. My friends had arranged a surprise, and the waiters came out singing and carrying candles on the cake. I was so touched that I almost cried. We stayed there for nearly four hours, talking and laughing. I'd love to have a meal like that again, perhaps for another special occasion.",
+      "part3": [
+        {
+          "question": "Why do families like to eat together?",
+          "sampleAnswer": "It gives them time to talk and share news. It also strengthens family bonds, especially when everyone is busy during the day.",
+          "keyVocabulary": [
+            "bonds",
+            "share",
+            "strengthens"
+          ]
+        },
+        {
+          "question": "Do you think people eat healthily nowadays?",
+          "sampleAnswer": "Many don't, because fast food is cheap and convenient. However, people are becoming more aware of nutrition and choosing healthier options.",
+          "keyVocabulary": [
+            "nutrition",
+            "convenient",
+            "aware"
+          ]
+        },
+        {
+          "question": "How have eating habits changed in your country?",
+          "sampleAnswer": "People eat out more often and rely on ready-made meals. Traditional home cooking is still valued but takes less time than it used to.",
+          "keyVocabulary": [
+            "ready-made",
+            "traditional",
+            "habits"
+          ]
+        },
+        {
+          "question": "Should governments tax unhealthy food?",
+          "sampleAnswer": "It might help reduce consumption, but it could hurt poorer families. Education and clear labels may be fairer.",
+          "keyVocabulary": [
+            "tax",
+            "labels",
+            "consumption"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SP-004-C3",
+      "topic": "Describe a building that you like",
+      "bullets": [
+        "where it is",
+        "what it looks like",
+        "what it is used for",
+        "and explain why you like it"
+      ],
+      "roundingQuestion": "Would you recommend it to tourists?",
+      "sampleAnswer": "I'd like to talk about the main library in my city, which is one of my favourite buildings. It's in the centre of town, next to a large park. It was built about a hundred years ago, and it has high stone walls, big arched windows and a beautiful dome above the entrance hall. Inside, there are long wooden tables, comfortable chairs and rows and rows of books. It's used mainly for studying and borrowing books, but it also holds free events, such as talks and exhibitions. I like it because it's so peaceful, and the high ceilings make you feel calm and focused. I spent most of my exam preparation there, and I always did my best work in that building. I'd definitely recommend it to tourists, even if they don't read much, because the architecture alone is worth seeing.",
+      "part3": [
+        {
+          "question": "Why do cities preserve old buildings?",
+          "sampleAnswer": "They are part of a city's history and identity. Many old buildings also attract tourists, which brings in money.",
+          "keyVocabulary": [
+            "identity",
+            "preserve",
+            "heritage"
+          ]
+        },
+        {
+          "question": "Do you think modern buildings are as attractive as old ones?",
+          "sampleAnswer": "Some are, but many look similar and plain. Old buildings usually have more detail and character.",
+          "keyVocabulary": [
+            "character",
+            "plain",
+            "architecture"
+          ]
+        },
+        {
+          "question": "Should governments spend money on public buildings?",
+          "sampleAnswer": "Yes, because libraries, hospitals and schools serve everyone. They should, however, be careful to spend the money wisely.",
+          "keyVocabulary": [
+            "public",
+            "wisely",
+            "serve"
+          ]
+        },
+        {
+          "question": "How might buildings change in the future?",
+          "sampleAnswer": "They will probably be more energy efficient, using solar panels and smart technology. Some may also be built with recycled materials.",
+          "keyVocabulary": [
+            "energy efficient",
+            "solar panels",
+            "recycled"
+          ]
+        }
+      ]
+    }
+  ]
+}

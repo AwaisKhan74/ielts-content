@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "L-002-S4",
+  "module": "listening",
+  "testNumber": 2,
+  "sectionNumber": 4,
+  "title": "A Short History of Chocolate",
+  "accent": "american",
+  "difficulty": "medium",
+  "speakers": [
+    { "id": "A", "name": "Lecturer", "gender": "male", "voice": "en-US-GuyNeural" }
+  ],
+  "script": [
+    { "speaker": "A", "text": "Good afternoon, everyone. Today I'd like to trace the history of something that many of us eat every day without giving it a second thought: chocolate. It's a remarkable food, because for most of its history it wasn't something you ate at all. And along the way, it has been a religious offering, a form of money, a medicine and a luxury for kings, before it became the everyday snack that we know." },
+    { "speaker": "A", "text": "The story begins in Central America, more than three thousand years ago. Archaeologists have found traces of cacao on pottery from ancient Mesoamerica, which suggests that people were using it long before the Maya. By about the sixth century, the Maya were preparing cacao as a drink, but it would hardly be recognizable to us today. It was bitter, frothy and usually served cold, and it was often flavored with chili or vanilla." },
+    { "speaker": "A", "text": "The Aztecs, who came later, valued cacao even more highly. Not only did they drink it, especially at ceremonies and in the courts of their rulers, they also used the beans as a form of currency. You could buy food, cloth and other goods with them, which is why the Aztecs sometimes said that money really did grow on trees." },
+    { "speaker": "A", "text": "In the early sixteenth century, Spanish explorers took cacao back to Spain. At first, the bitter drink did not appeal to them, but they began to add sugar and cinnamon, and suddenly it became fashionable at the royal court. For nearly a century, Spain managed to keep the recipe a secret from the rest of Europe. But secrets rarely last, and by the middle of the seventeenth century, chocolate houses had opened in cities such as London and Paris, where wealthy people met to drink it and discuss politics." },
+    { "speaker": "A", "text": "However, chocolate remained a luxury for the rich, because producing it was slow and expensive. Everything had to be ground by hand, and the drink was often greasy, because the beans contain a lot of natural fat." },
+    { "speaker": "A", "text": "The first big change came in eighteen twenty-eight, when a Dutch chemist named Coenraad van Houten invented a press that squeezed most of the fat, known as cocoa butter, out of the roasted beans. What remained could be ground into a fine powder, which dissolved easily in water, and the cocoa butter could be saved and used for other purposes. This also made chocolate much cheaper to produce." },
+    { "speaker": "A", "text": "It was a British company, Fry's, that realized the cocoa butter could be mixed back into the powder, together with sugar, to make a paste that could be molded. So in eighteen forty-seven, Fry's produced the first chocolate that could be eaten as a solid bar. It was thick and rather coarse, but it opened up a mass market for the first time." },
+    { "speaker": "A", "text": "Smoothness came next. In eighteen seventy-five, a Swiss chocolate maker named Daniel Peter, after years of experiments, succeeded in making milk chocolate. The problem had been that milk contains water, which causes chocolate to spoil. His solution was to use condensed milk, from which most of the water had already been removed. Peter happened to live next door to Henri Nestlé, whose company was already well known for its milk products, and the two men later went into business together." },
+    { "speaker": "A", "text": "Four years after that, in eighteen seventy-nine, another Swiss, Rodolphe Lindt, developed a process called conching, in which chocolate is stirred and heated for many hours. This removes harsh flavors and makes the chocolate much smoother, and it's the reason why modern chocolate melts so easily in the mouth. Many manufacturers still use the process today." },
+    { "speaker": "A", "text": "Today, cacao is grown mainly in a belt around the equator, and more than half of the world's cocoa now comes from West Africa. However, the story has a darker side. Many of the farmers who grow the beans live in poverty, because their income is extremely low, compared with the price of the chocolate we buy in shops. Campaigners have been calling for fairer prices and an end to child labor on some farms, and in response, some manufacturers now sell fair trade chocolate, though it still represents a small share of the market." },
+    { "speaker": "A", "text": "In next week's lecture, we'll look at another product with a similar story: coffee. Please read the first chapter of the course book before then. Thank you." }
+  ],
+  "questionGroups": [
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "title": "The History of Chocolate",
+      "questions": [
+        { "number": 31, "text": "The Maya prepared cacao as a bitter ______, often with chili.", "answer": ["drink"], "explanation": "They prepared it as a bitter, frothy drink." },
+        { "number": 32, "text": "The Aztecs also used cacao beans as ______.", "answer": ["currency", "money"], "explanation": "The beans were a form of currency." },
+        { "number": 33, "text": "The Spanish made the drink more popular by adding ______.", "answer": ["sugar"], "explanation": "They added sugar and cinnamon." },
+        { "number": 34, "text": "For almost a century, Spain kept chocolate a ______.", "answer": ["secret"], "explanation": "Spain kept the recipe a secret." },
+        { "number": 35, "text": "In 1828, van Houten invented a ______ to remove fat from the beans.", "answer": ["press"], "explanation": "He invented a press." },
+        { "number": 36, "text": "In 1847, Fry's made the first chocolate ______ for eating.", "answer": ["bar"], "explanation": "The first solid bar that could be eaten." },
+        { "number": 37, "text": "Peter made milk chocolate by using ______ milk.", "answer": ["condensed"], "explanation": "He used condensed milk." },
+        { "number": 38, "text": "In 1879, Lindt developed a smoothing process called ______.", "answer": ["conching"], "explanation": "The process was called conching." },
+        { "number": 39, "text": "More than half of the world's cocoa comes from West ______.", "answer": ["Africa"], "explanation": "West Africa." },
+        { "number": 40, "text": "Many cocoa farmers live in poverty because their ______ is very low.", "answer": ["income", "incomes"], "explanation": "Their income is extremely low." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-004-P1",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 4,
+  "passageNumber": 1,
+  "title": "The Long Journey of Tea",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "According to Chinese legend, tea was discovered in 2737 BC by the emperor Shennong, a keen student of herbs. He was boiling drinking water one day when a few leaves from a nearby bush blew into the pot, and when he tasted the resulting liquid, he found it pleasant and refreshing. Historians treat the story with caution, since it was written down many centuries later, but there is good evidence that tea has been drunk in China for a very long time. Archaeologists have found the remains of tea leaves in an imperial tomb dating from the second century BC, which suggests that the plant was valued enough to be buried with a ruler." },
+    { "label": "B", "text": "Tea became truly popular during the Tang dynasty, which lasted from 618 to 907, when it turned from a medicinal drink into a daily pleasure for people of all classes. During this period, a scholar named Lu Yu wrote a famous book describing how tea should be grown, prepared and served. The habit also crossed national borders. Buddhist monks who had studied in China took tea seeds back to Japan in the ninth century, and because tea helped them to stay awake during long hours of meditation, it became closely linked with Buddhist practice. Over the following centuries, the Japanese developed their own elaborate tea ceremony." },
+    { "label": "C", "text": "Europeans did not encounter tea until the sixteenth century, when Portuguese and Dutch traders began to carry it home from Asia. It reached England in the middle of the seventeenth century, but at first few people knew what to do with it. It was Catherine of Braganza, a Portuguese princess who married King Charles II in 1662, who made it fashionable at court. Tea was extraordinarily expensive, costing the equivalent of several weeks' wages for a small quantity, and wealthy households kept it in locked tea caddies, the keys to which were held by the lady of the house. Governments soon realised that they could raise money by taxing it, and by the eighteenth century, the duty was so high that smuggling became a major industry." },
+    { "label": "D", "text": "Taxation on tea also played a part in the history of the United States. In 1773, the British government gave a trading company the exclusive right to sell tea in the American colonies, and colonists who objected to paying a tax decided by a parliament in which they had no representatives, boarded ships in Boston harbour and threw hundreds of chests of tea into the water. This event, known as the Boston Tea Party, was one of the steps that led to the American Revolution. A little later, a different dispute arose between Britain and China. Britain was buying huge quantities of Chinese tea, but the Chinese wanted little in return except silver. To correct the imbalance, British merchants began to sell opium, grown in India, to Chinese buyers. When the Chinese authorities tried to stop the trade, war broke out in 1839, and the conflict ended with China being forced to open more of its ports." },
+    { "label": "E", "text": "These events convinced the British that they should not depend on China for their tea. In 1823, a Scottish adventurer called Robert Bruce discovered tea bushes growing wild in the Indian region of Assam, but the leaves were different from those used in China, and it took years to develop a successful industry. In 1848, the East India Company sent a botanist, Robert Fortune, on a secret mission to China. Disguised in local clothes, he travelled through regions that were closed to foreigners, collected thousands of tea plants and seeds, and recruited skilled Chinese workers to take to India. By the end of the nineteenth century, India and Ceylon, now Sri Lanka, had overtaken China as the main suppliers of tea to Britain." },
+    { "label": "F", "text": "The twentieth century brought further innovations. The tea bag is often said to have been invented by accident around 1908, when a New York merchant named Thomas Sullivan sent samples of tea to his customers in small silk bags. Some of them assumed that the bags were meant to be placed directly in the cup, and so they were. Iced tea, now a favourite across the United States, is also popularly believed to have become famous at a trade fair in St Louis in 1904, when a vendor found that nobody wanted hot tea in the summer heat and poured it over ice, although historians have found earlier recipes." },
+    { "label": "G", "text": "Today, tea is one of the most widely consumed drinks in the world, second only to water, according to many estimates. China and India remain the largest producers, but tea is also grown in Kenya, Sri Lanka and Turkey. Remarkably, almost all of it comes from the leaves of a single species of plant, Camellia sinensis. The differences between green, black and oolong tea do not come from the plant itself but from the way in which the leaves are processed, especially the degree to which they are allowed to oxidise before being dried. Green tea is barely oxidised, black tea is fully oxidised, and oolong lies somewhere between the two." }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Reading Passage 1 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G.",
+      "questions": [
+        { "number": 1, "text": "a story about how tea was first discovered", "answer": ["A"], "explanation": "Paragraph A: the emperor Shennong legend." },
+        { "number": 2, "text": "an example of tea being protected because of its high price", "answer": ["C"], "explanation": "Paragraph C: locked tea caddies." },
+        { "number": 3, "text": "an explanation of why different types of tea exist", "answer": ["G"], "explanation": "Paragraph G: processing, not the plant." },
+        { "number": 4, "text": "a description of a secret journey made by a plant expert", "answer": ["E"], "explanation": "Paragraph E: Robert Fortune." },
+        { "number": 5, "text": "how an imbalance in trade led to a conflict", "answer": ["D"], "explanation": "Paragraph D: tea, silver, opium and war." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+      "questions": [
+        { "number": 6, "text": "Tea was drunk in China before the Tang dynasty.", "answer": ["TRUE"], "explanation": "Paragraph A: remains from the second century BC." },
+        { "number": 7, "text": "Tea was brought to Japan by traders rather than by monks.", "answer": ["FALSE"], "explanation": "Paragraph B: Buddhist monks." },
+        { "number": 8, "text": "Catherine of Braganza was the first person in England to drink tea.", "answer": ["FALSE"], "explanation": "Paragraph C: tea had arrived earlier; she made it fashionable." },
+        { "number": 9, "text": "The Boston Tea Party was a protest against a tax on tea.", "answer": ["TRUE"], "explanation": "Paragraph D." },
+        { "number": 10, "text": "All of Robert Fortune's plants survived the journey to India.", "answer": ["NOT GIVEN"], "explanation": "The passage does not say how many plants survived." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "questions": [
+        { "number": 11, "text": "In wealthy English households, tea was stored in locked ______.", "answer": ["tea caddies", "caddies"], "explanation": "Paragraph C." },
+        { "number": 12, "text": "Robert Bruce found tea bushes growing wild in ______.", "answer": ["Assam"], "explanation": "Paragraph E." },
+        { "number": 13, "text": "According to the story, tea bags began when samples were sent in ______ bags.", "answer": ["silk"], "explanation": "Paragraph F." }
+      ]
+    }
+  ]
+}

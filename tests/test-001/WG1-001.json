@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "WG1-001",
+  "module": "writing",
+  "track": "general",
+  "task": 1,
+  "tone": "formal",
+  "prompt": "You rent a flat and the heating has not worked for two weeks. Write a letter to the landlord. In your letter:",
+  "bullets": [
+    "describe the problem",
+    "explain how it is affecting you",
+    "say what you would like the landlord to do"
+  ],
+  "minWords": 150,
+  "modelAnswer": "Dear Mr Harrison,\n\nI am writing to complain about the heating in my flat at 14 Ash Court, which has not worked for the past two weeks.\n\nThe problem began on the 3rd of this month, when the radiators suddenly stopped producing any heat. I checked the thermostat and the boiler, but neither shows any sign of power. The hot water, however, still works.\n\nThis has made the flat extremely uncomfortable, as temperatures at night have fallen to around five degrees. My young daughter has developed a cold, and I have been unable to dry any washing indoors, which has led to damp patches on the bedroom wall.\n\nI would be grateful if you could arrange for an engineer to visit within the next two days, as I believe the boiler may need to be repaired or replaced. In the meantime, could you please provide me with a portable heater? I would also appreciate it if you could let me know when the work is likely to be completed.\n\nI look forward to hearing from you as soon as possible.\n\nYours sincerely,\nSamira Khan",
+  "examinerComment": "All three bullet points are fully covered with relevant detail. Tone is consistently formal and polite. Paragraphing and linking are clear. Letter begins and ends appropriately (Dear Mr ..., Yours sincerely).",
+  "usefulPhrases": [
+    "I am writing to complain about ...",
+    "I would be grateful if you could ...",
+    "This has caused considerable inconvenience.",
+    "I would appreciate a prompt response.",
+    "I look forward to hearing from you.",
+    "Yours sincerely (when you know the name)"
+  ]
+}

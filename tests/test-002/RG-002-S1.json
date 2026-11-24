@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-002-S1",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 2,
+  "sectionNumber": 1,
+  "title": "Local Services",
+  "difficulty": "easy",
+  "texts": [
+    {
+      "title": "Text A: Westbrook Public Library, Information for Members",
+      "paragraphs": [
+        { "label": "A", "text": "OPENING HOURS: Monday to Thursday 9.00 am to 8.00 pm. Friday 9.00 am to 5.00 pm. Saturday 10.00 am to 4.00 pm. Closed on Sundays and public holidays.\n\nJOINING: Membership is free for residents. To join, please bring proof of your address, such as a recent utility bill or bank statement, to the main desk. Your card will be issued on the same day.\n\nBORROWING: Adults may borrow up to 10 books for 3 weeks. Children may borrow up to 6 books. DVDs and music CDs may be borrowed for 1 week (maximum 3 items) for a charge of £1 each. Items can be renewed twice, online or by phone, unless another member has reserved them.\n\nLATE FEES: 20p per day for each item borrowed by an adult. There are no late fees for children's books.\n\nCOMPUTERS: Free internet access is available for 1 hour per day. Please bring photo identification to book a computer. Printing costs 10p per page.\n\nSTUDY ROOMS: A quiet study room on the second floor can be reserved in advance for up to 4 hours at a time. Please set your mobile phone to silent in all areas of the library." }
+      ]
+    },
+    {
+      "title": "Text B: City Language Centre, Spring Term Evening Courses",
+      "paragraphs": [
+        { "label": "B", "text": "Learn Spanish, French, German, Italian or Mandarin this spring!\n\nCourses run for 10 weeks, with one class each week from 7.00 pm to 9.00 pm. Beginners' classes are held on Mondays and Tuesdays, and intermediate classes on Wednesdays and Thursdays.\n\nFees: £120 per term. Students and people over 65 pay a reduced fee of £90. The course book costs an additional £25 and is not included in the fee.\n\nHow to enrol: Online or in person at the centre by 15 January. Classes begin in the week of 20 January.\n\nFREE TASTER SESSION: Saturday 11 January at 10.30 am. No booking is needed.\n\nPlease note: each class is limited to 12 students. If fewer than 6 students enrol, the class will be cancelled and fees will be refunded in full. Students who attend at least 80% of classes receive a certificate of attendance." }
+      ]
+    },
+    {
+      "title": "Text C: Sunnyside Hostel, Guest Information",
+      "paragraphs": [
+        { "label": "C", "text": "CHECK-IN from 2.00 pm. CHECK-OUT by 10.30 am. If you are leaving later in the day, you may leave your luggage in our storage room free of charge until 6.00 pm.\n\nROOMS: Dormitory beds (6 or 8 beds per room) are £18 per night. Private rooms are £45 per night and include breakfast. Breakfast is served from 7.30 am to 9.30 am and costs £4 for dormitory guests.\n\nKITCHEN: Open from 7.00 am to 11.00 pm. Please wash your dishes after use.\n\nQUIET HOURS: 11.00 pm to 7.00 am. Please respect other guests.\n\nSECURITY: Each guest has a locker. Please bring your own padlock, or buy one at reception for £3.\n\nWI-FI: Free in the common room only. Wi-Fi is not available in the bedrooms.\n\nSmoking is not permitted anywhere in the building or the garden. Guests under 18 must be accompanied by an adult." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Which text mentions the following? Write the correct letter, A, B or C.",
+      "questions": [
+        { "number": 1, "text": "a reduced price for older people", "answer": ["B"], "explanation": "People over 65 pay £90." },
+        { "number": 2, "text": "a charge for using a printer", "answer": ["A"], "explanation": "Printing costs 10p per page." },
+        { "number": 3, "text": "free storage for bags after leaving", "answer": ["C"], "explanation": "Luggage storage is free until 6.00 pm." },
+        { "number": 4, "text": "a document that must be shown in order to join", "answer": ["A"], "explanation": "Proof of address is required." },
+        { "number": 5, "text": "a minimum number of people needed for something to go ahead", "answer": ["B"], "explanation": "Classes are cancelled if fewer than 6 students enrol." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the texts? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 6, "text": "The library is open on Saturday afternoons.", "answer": ["TRUE"], "explanation": "Saturday 10.00 am to 4.00 pm." },
+        { "number": 7, "text": "Late fees apply to children's books.", "answer": ["FALSE"], "explanation": "There are no late fees for children's books." },
+        { "number": 8, "text": "The Language Centre offers Japanese classes.", "answer": ["NOT GIVEN"], "explanation": "Japanese is not in the list." },
+        { "number": 9, "text": "The course book is included in the course fee.", "answer": ["FALSE"], "explanation": "It costs an additional £25." },
+        { "number": 10, "text": "Guests can use the hostel's Wi-Fi in their bedrooms.", "answer": ["FALSE"], "explanation": "Wi-Fi is free in the common room only." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 11, "text": "For how long can an adult keep a library book?", "answer": ["3 weeks", "three weeks"], "explanation": "Text A." },
+        { "number": 12, "text": "What is the last date for enrolling on a language course?", "answer": ["15 January", "January 15", "15th January"], "explanation": "Text B." },
+        { "number": 13, "text": "By what time must hostel guests check out?", "answer": ["10.30 am", "10.30", "10:30", "10:30 am"], "explanation": "Text C." },
+        { "number": 14, "text": "How much does a padlock cost at hostel reception?", "answer": ["£3", "3", "3 pounds"], "explanation": "Text C." }
+      ]
+    }
+  ]
+}

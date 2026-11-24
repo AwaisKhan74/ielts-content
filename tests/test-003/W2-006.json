@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-006",
+  "module": "writing",
+  "task": 2,
+  "essayType": "problem-solution",
+  "topic": "work",
+  "prompt": "Many people today find it difficult to balance their work and personal lives. What are the causes of this problem, and what can be done to solve it?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase; say there are several causes and practical solutions.",
+    "body1": "Causes: long working hours, technology (email after hours), job insecurity, long commutes, rising living costs.",
+    "body2": "Solutions: flexible hours / remote work, laws limiting overtime, employers respecting off-hours, individuals setting boundaries.",
+    "conclusion": "Summarise causes and solutions."
+  },
+  "modelAnswer": "In modern society, a growing number of employees complain that their jobs leave them little time for family, friends or rest. This essay will examine the main causes of this imbalance and suggest some practical solutions.\n\nThe first cause is the length of the working day. In many industries, employees are expected to work overtime, either because their company is understaffed or because they fear that leaving on time will make them look uncommitted. Technology has made the situation worse. Smartphones and email mean that many people can be contacted at any hour, and work follows them into the evening and the weekend. Additionally, long commutes in large cities can add two or three hours to the working day, while rising living costs force some people to take second jobs. Finally, job insecurity makes workers reluctant to refuse extra tasks.\n\nThere are several ways to tackle these problems. Firstly, employers could introduce flexible working hours and allow people to work from home on some days, which would save time on travel and give staff more control over their schedules. Secondly, governments can pass laws which limit weekly working hours and require companies to pay properly for overtime, as has been done in several European countries. Some firms have even adopted policies that forbid managers from sending messages outside office hours. On an individual level, employees can protect their free time by switching off their devices in the evening and by learning to say no to unreasonable requests.\n\nIn conclusion, the lack of work-life balance results from long hours, constant connectivity, commuting and financial pressure. Through flexible working, sensible legislation and personal discipline, it is possible to improve the situation.",
+  "vocabulary": [
+    {
+      "word": "work-life balance",
+      "meaning": "a healthy division of time between work and personal life",
+      "example": "Flexible hours improve work-life balance."
+    },
+    {
+      "word": "overtime",
+      "meaning": "extra hours worked beyond normal hours",
+      "example": "Staff are paid extra for overtime."
+    },
+    {
+      "word": "understaffed",
+      "meaning": "not having enough workers",
+      "example": "The hospital is understaffed."
+    },
+    {
+      "word": "commute",
+      "meaning": "to travel regularly between home and work",
+      "example": "She commutes two hours each day."
+    },
+    {
+      "word": "job insecurity",
+      "meaning": "fear of losing one's job",
+      "example": "Job insecurity makes workers accept extra tasks."
+    },
+    {
+      "word": "flexible",
+      "meaning": "able to change easily",
+      "example": "Flexible working suits parents."
+    },
+    {
+      "word": "legislation",
+      "meaning": "laws made by a government",
+      "example": "New legislation limits working hours."
+    },
+    {
+      "word": "connectivity",
+      "meaning": "the state of being connected, especially online",
+      "example": "Constant connectivity blurs work and home."
+    }
+  ],
+  "examinerComment": "Causes and solutions are both clearly addressed, with logical paragraphs and relevant examples. Wide vocabulary range and a good variety of structures. Estimated band 8."
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-003-P3",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 3,
+  "passageNumber": 3,
+  "title": "Is More Choice Always Better?",
+  "difficulty": "hard",
+  "paragraphs": [
+    { "label": "A", "text": "A large modern supermarket may stock tens of thousands of different products, and a shopper wishing to buy something as simple as toothpaste or breakfast cereal can be faced with dozens of alternatives. For most of the twentieth century, this abundance was seen as unambiguous progress. Economists argued that choice is valuable because it allows people to find the option that suits them best, and that adding options can only make consumers better off, since anyone who does not want an extra option can simply ignore it. Around the turn of the millennium, however, a group of psychologists began to challenge this assumption, suggesting that too much choice might leave people less satisfied, or even unable to decide at all." },
+    { "label": "B", "text": "The study that did most to popularise this idea was published in 2000 by the psychologists Sheena Iyengar and Mark Lepper. They set up a tasting table in an upmarket grocery store in California, and on different days they displayed either twenty-four varieties of jam or only six. The larger display attracted more attention: about 60 per cent of the shoppers who passed it stopped to taste the jams, compared with about 40 per cent for the smaller one. But when it came to buying, the results were reversed. Only 3 per cent of the people who had visited the large display purchased a jar, whereas 30 per cent of those who had seen the small display did so. The researchers concluded that a wide range of options attracts customers but also makes it harder for them to commit." },
+    { "label": "C", "text": "Later work suggested that the effect might extend far beyond the supermarket. Iyengar and two colleagues analysed the records of several hundred thousand employees who were offered the chance to join workplace pension schemes, and they found that the more investment funds a company offered, the less likely its employees were to enrol at all. For every ten funds added to the list, participation fell by around two percentage points. This was a striking finding, because joining a pension scheme is a decision that is clearly in a person's long-term interest, and the choice they avoided could have cost them thousands of pounds." },
+    { "label": "D", "text": "Several explanations have been offered. The simplest is that evaluating a large number of options takes mental effort, and when the task becomes too demanding people tend to give up or pick at random. A second explanation concerns regret. The American psychologist Barry Schwartz has argued that when there are many alternatives, shoppers become more aware of what they have given up, and so they are more likely to feel that they could have chosen better. Schwartz also drew a distinction, borrowed from the economist Herbert Simon, between two kinds of decision-makers. 'Maximisers' insist on finding the best possible option and therefore search exhaustively, while 'satisficers' are content with one that is good enough. According to Schwartz, maximisers tend to achieve slightly better results but feel less satisfied with them, and they are more prone to regret." },
+    { "label": "E", "text": "As the idea spread into popular books and business advice, other researchers tried to reproduce the original findings, and they ran into difficulty. In 2010, Benjamin Scheibehenne and his colleagues combined the results of about fifty experiments on choice overload in a single analysis. They found that, taken together, the average effect of offering more options was close to zero. In some of the experiments, a larger selection did reduce satisfaction or purchases, but in others it increased them, and in many it made no difference. The authors did not conclude that choice overload never occurs, but they did argue that it is much less common than the popular accounts implied." },
+    { "label": "F", "text": "A more recent analysis, by Alexander Chernev and colleagues, took a different approach. Rather than asking whether choice overload exists, they asked when it appears. Studying the data from dozens of experiments, they found that the effect is most likely when the options are difficult to compare, for example because they differ on many dimensions, when people have no clear idea of what they want in advance, and when they feel that they will have to justify their decision to other people. It is also stronger when the range of options is very large. When these conditions are not present, adding choices seems to cause little harm and may even help." },
+    { "label": "G", "text": "These findings have practical value. Retailers and website designers can reduce the burden on customers by grouping products into categories, by offering clear filters and by highlighting a small number of recommended items, instead of cutting their ranges drastically. For individuals, the research suggests that it may be sensible to decide what matters most before looking at the options, and to accept a good choice rather than hunting for a perfect one. The slogan 'less is more' is therefore too simple. Choice overload is a real phenomenon, but it depends heavily on the circumstances, and a large selection can be a pleasure for people who know exactly what they are looking for." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "number": 27,
+          "text": "What do the results of the jam experiment in paragraph B show?",
+          "options": {
+            "A": "Shoppers prefer to taste products before buying them.",
+            "B": "A large display interested more shoppers but led to fewer purchases.",
+            "C": "A small display attracted more shoppers than a large one.",
+            "D": "The same number of shoppers bought jam from both displays."
+          },
+          "answer": ["B"],
+          "explanation": "60% stopped at the large display but only 3% bought, compared with 30% at the small display."
+        },
+        {
+          "number": 28,
+          "text": "What did the pension study in paragraph C suggest?",
+          "options": {
+            "A": "Employees prefer funds that offer the highest returns.",
+            "B": "A longer list of funds was linked to lower participation.",
+            "C": "Employees rarely read information about their pension schemes.",
+            "D": "Companies offering fewer funds lost more employees."
+          },
+          "answer": ["B"],
+          "explanation": "For every ten funds added, participation fell by about two percentage points."
+        },
+        {
+          "number": 29,
+          "text": "According to paragraph D, maximisers",
+          "options": {
+            "A": "make decisions more quickly than satisficers.",
+            "B": "are usually satisfied with a good enough choice.",
+            "C": "feel less satisfied with their outcomes.",
+            "D": "consider fewer alternatives than other people."
+          },
+          "answer": ["C"],
+          "explanation": "They achieve slightly better results but feel less satisfied with them."
+        },
+        {
+          "number": 30,
+          "text": "What does the writer conclude in paragraph G?",
+          "options": {
+            "A": "Retailers should reduce their ranges drastically.",
+            "B": "The idea of choice overload has been completely disproved.",
+            "C": "Choice overload depends on the circumstances.",
+            "D": "People should avoid making decisions about large purchases."
+          },
+          "answer": ["C"],
+          "explanation": "It is a real phenomenon, but it depends heavily on the circumstances."
+        }
+      ]
+    },
+    {
+      "type": "matching_features",
+      "instruction": "Look at the following statements and the list of researchers below. Match each statement with the correct researcher or group of researchers, A-D. You may use any letter more than once.",
+      "options": {
+        "A": "Iyengar and Lepper",
+        "B": "Barry Schwartz",
+        "C": "Scheibehenne and colleagues",
+        "D": "Chernev and colleagues"
+      },
+      "questions": [
+        { "number": 31, "text": "found that shoppers were more likely to buy when fewer products were on display", "answer": ["A"], "explanation": "Paragraph B: the jam study." },
+        { "number": 32, "text": "divided decision-makers into two types", "answer": ["B"], "explanation": "Paragraph D: maximisers and satisficers." },
+        { "number": 33, "text": "found little overall effect when the results of many experiments were combined", "answer": ["C"], "explanation": "Paragraph E: average effect close to zero." },
+        { "number": 34, "text": "identified the conditions in which too much choice becomes a problem", "answer": ["D"], "explanation": "Paragraph F." },
+        { "number": 35, "text": "suggested that a large selection makes people more aware of what they have given up", "answer": ["B"], "explanation": "Paragraph D: the regret explanation." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "title": "Recent research on choice overload",
+      "questions": [
+        { "number": 36, "text": "An analysis of about fifty experiments found that the average effect of offering more options was close to ______.", "answer": ["zero"], "explanation": "Paragraph E." },
+        { "number": 37, "text": "Choice overload is more likely when the options are difficult to ______.", "answer": ["compare"], "explanation": "Paragraph F." },
+        { "number": 38, "text": "It is also more likely when people have no clear ______ in advance.", "answer": ["idea", "idea of what they want"], "explanation": "Paragraph F: no clear idea of what they want in advance." },
+        { "number": 39, "text": "Another condition is that people feel they must ______ their decision to others.", "answer": ["justify"], "explanation": "Paragraph F." },
+        { "number": 40, "text": "Retailers can help customers by grouping products into ______.", "answer": ["categories"], "explanation": "Paragraph G." }
+      ]
+    }
+  ]
+}

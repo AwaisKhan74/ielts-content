@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-004-S1",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 4,
+  "sectionNumber": 1,
+  "title": "Staying in Harbour Bay",
+  "difficulty": "easy",
+  "texts": [
+    {
+      "title": "Text A: Harbour View Youth Hostel, Guest Information",
+      "paragraphs": [
+        { "label": "A", "text": "RECEPTION: Open daily from 7.00 am to 10.00 pm. If you expect to arrive after 10.00 pm, please telephone us in advance so that we can arrange a late check-in.\n\nCHECK-IN AND CHECK-OUT: Rooms are available from 2.00 pm. Please check out by 10.00 am. You may leave your luggage at reception on the day of departure free of charge.\n\nPRICES (per night): Dormitory bed £22. Private double room £55. Breakfast is not included in these prices and costs an additional £6 per person.\n\nKITCHEN: A fully equipped kitchen is available for guests free of charge, from 7.00 am to 10.00 pm. Please wash up after use and label any food you keep in the fridge.\n\nSECURITY: Each bed has a locker. Guests must bring their own padlock; if you forget, you can buy one at reception for £4.\n\nQUIET TIME: To allow everyone to sleep, noise in the dormitories is not permitted after 11.00 pm. Alcohol may not be consumed in bedrooms.\n\nINTERNET: Wireless internet is free in the common room, but it is not available in the bedrooms. Laundry facilities are in the basement; a wash costs £3." }
+      ]
+    },
+    {
+      "title": "Text B: Getting Around by Bus",
+      "paragraphs": [
+        { "label": "B", "text": "ROUTE 12 runs between the railway station, the hostel and the city centre every 20 minutes, from 7.00 am to 7.00 pm. After 7.00 pm, buses run every hour. On Friday and Saturday evenings, the last bus leaves the city centre at 11.30 pm. There is no service on public holidays.\n\nTICKETS: A single journey costs £2.20. A day ticket, which allows unlimited travel, costs £5.00. Children under five travel free. Students receive a 30 per cent discount on all tickets if they show a valid student card.\n\nPAYMENT: Tickets are bought from the driver, who can accept only cash. Please have the exact money ready, as drivers cannot give change. The Harbour Bay app can be used to buy tickets for later use, and these can be paid for by card.\n\nLOST PROPERTY: Items left on buses are taken to the bus station on Market Street and are kept for 14 days." }
+      ]
+    },
+    {
+      "title": "Text C: Things to Do in Harbour Bay",
+      "paragraphs": [
+        { "label": "C", "text": "OLD TOWN WALKING TOUR: Every day at 10.00 am. The tour lasts two hours and costs £10 per person. It begins at the clock tower in the main square. Guests who book through the reception desk at their accommodation receive a 10 per cent discount.\n\nHARBOUR MUSEUM: Open Tuesday to Sunday, 10.00 am to 5.00 pm. Normal entry costs £6, but entry is free on the first Sunday of every month. The museum has a café with views across the bay.\n\nCASTLE: The castle is open from 9.30 am to 5.30 pm every day except Monday, when it is closed for maintenance. Audio guides in six languages are available for £3.\n\nBOAT TRIPS: Trips around the bay run between April and October. They leave from the harbour every hour and last 45 minutes. The cost is £14 for adults and £8 for children.\n\nBICYCLE HIRE: Bicycles can be hired from Bay Cycles on Quay Street for £12 per day. A helmet and lock are included. Customers must show photo identification." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Which text mentions the following? Write the correct letter, A, B or C.",
+      "questions": [
+        { "number": 1, "text": "a reduced fare for students", "answer": ["B"], "explanation": "Text B: 30 per cent discount." },
+        { "number": 2, "text": "a type of payment that is not accepted by drivers", "answer": ["B"], "explanation": "Drivers accept only cash, so cards are not accepted on the bus." },
+        { "number": 3, "text": "a discount for booking through a hotel or hostel", "answer": ["C"], "explanation": "Text C: 10 per cent discount for the walking tour." },
+        { "number": 4, "text": "something guests must bring to keep their belongings safe", "answer": ["A"], "explanation": "A padlock for the locker." },
+        { "number": 5, "text": "free entry on a particular day", "answer": ["C"], "explanation": "The museum is free on the first Sunday of the month." },
+        { "number": 6, "text": "a time after which noise is not allowed", "answer": ["A"], "explanation": "After 11.00 pm in the dormitories." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the texts? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 7, "text": "Guests may check in before noon.", "answer": ["FALSE"], "explanation": "Rooms are available from 2.00 pm." },
+        { "number": 8, "text": "Breakfast is included in the price of a dormitory bed.", "answer": ["FALSE"], "explanation": "It costs an additional £6." },
+        { "number": 9, "text": "The castle can be visited on Mondays.", "answer": ["FALSE"], "explanation": "It is closed on Mondays." },
+        { "number": 10, "text": "Route 12 buses run more frequently at weekends.", "answer": ["NOT GIVEN"], "explanation": "Weekend frequency is not mentioned." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 11, "text": "How much does a private double room cost per night?", "answer": ["£55", "55", "55 pounds"], "explanation": "Text A." },
+        { "number": 12, "text": "Where does the Old Town walking tour begin?", "answer": ["clock tower", "the clock tower"], "explanation": "Text C." },
+        { "number": 13, "text": "How long does the walking tour last?", "answer": ["2 hours", "two hours"], "explanation": "Text C." },
+        { "number": 14, "text": "In which month does the season for boat trips begin?", "answer": ["April"], "explanation": "Text C." }
+      ]
+    }
+  ]
+}

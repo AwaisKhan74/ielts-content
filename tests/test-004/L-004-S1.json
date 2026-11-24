@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "L-004-S1",
+  "module": "listening",
+  "testNumber": 4,
+  "sectionNumber": 1,
+  "title": "Booking a Walking Holiday",
+  "accent": "canadian",
+  "difficulty": "easy",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Liam (tour company assistant)",
+      "gender": "male",
+      "voice": "en-CA-LiamNeural"
+    },
+    {
+      "id": "B",
+      "name": "Karen Lindqvist (caller)",
+      "gender": "female",
+      "voice": "en-CA-ClaraNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Highland Trails, good morning. Liam speaking. How can I help you?"
+    },
+    {
+      "speaker": "B",
+      "text": "Hello, Liam. I'm interested in your walking holiday in the Scottish Highlands, the one that's advertised on your website. Is it still possible to book for this year?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yes, we still have a few places left, mainly in September. I can take your details now if you like. May I have your name, please?"
+    },
+    {
+      "speaker": "B",
+      "text": "It's Karen Lindqvist."
+    },
+    {
+      "speaker": "A",
+      "text": "I'm sorry, could you spell your surname for me?"
+    },
+    {
+      "speaker": "B",
+      "text": "Of course. It's L-I-N-D-Q-V-I-S-T. It's Swedish, my husband's family name."
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you. L-I-N-D-Q-V-I-S-T. And how did you hear about our holidays, Ms Lindqvist? We like to know which of our adverts is working best."
+    },
+    {
+      "speaker": "B",
+      "text": "Well, I did see a small advertisement in a magazine, but it wasn't that which made me call. A friend of mine, Joanna, went on the same trip last year and she couldn't stop talking about it. She gave me your brochure."
+    },
+    {
+      "speaker": "A",
+      "text": "That's great to hear. Recommendations from friends are our best advertising. Now, how many people will be in your group?"
+    },
+    {
+      "speaker": "B",
+      "text": "At first it was just my sister and me, so two of us, but then two of our neighbours heard about it and they'd like to come as well. So that's four altogether."
+    },
+    {
+      "speaker": "A",
+      "text": "Four. No problem. Our groups are never larger than ten, so you'll be walking with some other people too. Which date would you prefer?"
+    },
+    {
+      "speaker": "B",
+      "text": "I was hoping for the second week of September. Is there a departure on the ninth?"
+    },
+    {
+      "speaker": "A",
+      "text": "There is, yes. The ninth is a Monday, and the holiday lasts for seven days, so you'd finish on the following Sunday. I'm afraid the sixteenth is already full, but the ninth has space."
+    },
+    {
+      "speaker": "B",
+      "text": "The ninth is perfect. Now, could you tell me about the walking itself? My sister has a bad knee, so we can't manage anything too difficult."
+    },
+    {
+      "speaker": "A",
+      "text": "I'd say it's moderate. We offer three levels, easy, moderate and challenging, and this holiday is graded moderate. You walk for five to six hours a day, mostly on clear paths, with a couple of steeper sections. There's one day, in the middle of the week, which is a rest day, so your sister's knee would have a chance to recover. And if anybody feels tired, our guide can arrange for them to ride in the support vehicle for part of the route."
+    },
+    {
+      "speaker": "B",
+      "text": "That sounds ideal. And where do we stay?"
+    },
+    {
+      "speaker": "A",
+      "text": "In small family-run guesthouses. Every night is in a different village, but you don't have to carry your luggage. We move your suitcases from one place to the next, and the service is included in the price. Most of the guesthouses have only twin rooms, though, so you'd need to share."
+    },
+    {
+      "speaker": "B",
+      "text": "That's fine. What does the price include?"
+    },
+    {
+      "speaker": "A",
+      "text": "It's six hundred and forty pounds per person. That covers the accommodation, breakfast and dinner every day, the luggage transfer and the services of the guide. It doesn't include lunch, so you'll buy sandwiches in the villages or the guesthouse will make you a packed lunch for a small charge. It also doesn't cover travel insurance, which is compulsory, so you'll need to arrange that yourselves."
+    },
+    {
+      "speaker": "B",
+      "text": "Six hundred and forty. That's a bit less than I expected, actually. And do we need any special equipment?"
+    },
+    {
+      "speaker": "A",
+      "text": "Strong waterproof boots are essential, because the weather can change very quickly in the Highlands, even in September. Please make sure that you've worn them in before you come. I'd also recommend a waterproof jacket, but you don't have to buy trousers, because light trousers are fine as long as they dry quickly. We'll send you a full list with your booking confirmation."
+    },
+    {
+      "speaker": "B",
+      "text": "Good. How do I pay?"
+    },
+    {
+      "speaker": "A",
+      "text": "We ask for a deposit of twenty per cent when you book, which is one hundred and twenty-eight pounds each, and the balance has to be paid eight weeks before departure. If you cancel after that, I'm afraid we can't give you a refund."
+    },
+    {
+      "speaker": "B",
+      "text": "I understand. Let me give you my details, then. My email address is karen at lindqvist dot net, and my phone number is oh seven seven four, nine one two, three three eight."
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you very much. I'll send you the booking form this afternoon, and once I've received your deposit, I'll confirm everything by email. Is there anything else I can help you with?"
+    },
+    {
+      "speaker": "B",
+      "text": "No, that's everything. Thank you, Liam. You've been very helpful."
+    },
+    {
+      "speaker": "A",
+      "text": "My pleasure. Goodbye, Ms Lindqvist."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "form_completion",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "title": "Highland Trails: Booking Form",
+      "questions": [
+        {
+          "number": 1,
+          "text": "Surname: ______",
+          "answer": [
+            "Lindqvist"
+          ],
+          "explanation": "Spelled L-I-N-D-Q-V-I-S-T."
+        },
+        {
+          "number": 2,
+          "text": "Number of people in the group: ______",
+          "answer": [
+            "4",
+            "four"
+          ],
+          "explanation": "Two at first, then two neighbours: four altogether."
+        },
+        {
+          "number": 3,
+          "text": "Departure date: ______ September",
+          "answer": [
+            "9",
+            "9th",
+            "ninth",
+            "the ninth"
+          ],
+          "explanation": "The ninth has space; the sixteenth is full."
+        },
+        {
+          "number": 4,
+          "text": "Level of walking: ______",
+          "answer": [
+            "moderate"
+          ],
+          "explanation": "The holiday is graded moderate."
+        },
+        {
+          "number": 5,
+          "text": "Price per person: £ ______",
+          "answer": [
+            "640",
+            "six hundred and forty"
+          ],
+          "explanation": "Six hundred and forty pounds per person."
+        },
+        {
+          "number": 6,
+          "text": "Deposit: 20 per cent, which is £ ______ each",
+          "answer": [
+            "128",
+            "one hundred and twenty-eight"
+          ],
+          "explanation": "One hundred and twenty-eight pounds each."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 7,
+          "text": "How did Ms Lindqvist find out about the holiday?",
+          "options": {
+            "A": "from a magazine advertisement",
+            "B": "from a friend",
+            "C": "from the company's website"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "A friend, Joanna, recommended it. The advert was not what made her call."
+        },
+        {
+          "number": 8,
+          "text": "What does Liam say about the guesthouses?",
+          "options": {
+            "A": "Guests must carry their own luggage.",
+            "B": "Guests usually have to share a room.",
+            "C": "Guests stay in the same village each night."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Most have only twin rooms, so they would need to share."
+        }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write ONE WORD ONLY for each answer.",
+      "questions": [
+        {
+          "number": 9,
+          "text": "Customers must arrange their own travel ______.",
+          "answer": [
+            "insurance"
+          ],
+          "explanation": "Travel insurance is compulsory but not included."
+        },
+        {
+          "number": 10,
+          "text": "Walkers must wear waterproof ______ that have been worn in before the holiday.",
+          "answer": [
+            "boots"
+          ],
+          "explanation": "Strong waterproof boots are essential."
+        }
+      ]
+    }
+  ]
+}

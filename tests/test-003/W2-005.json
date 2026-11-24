@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-005",
+  "module": "writing",
+  "task": 2,
+  "essayType": "discussion",
+  "topic": "education",
+  "prompt": "Some people think that university education should be free for all students. Others believe that students should pay for their own studies. Discuss both views and give your own opinion.",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase the question and say you will discuss both sides and give your view.",
+    "body1": "View 1: free education — equal opportunity, benefits society (more doctors, teachers), no debt.",
+    "body2": "View 2: students pay — government money limited, graduates earn more, people value what they pay for. Then give your opinion (e.g. a mix: free for low-income students, loans for others).",
+    "conclusion": "Summarise both views and restate your opinion."
+  },
+  "modelAnswer": "Whether higher education should be free or paid for by the students themselves is a subject of fierce debate. While both sides have valid arguments, I believe that a system which combines public funding with some personal contribution is the fairest.\n\nThose who support free university education argue that it creates equal opportunities. If tuition is free, talented young people from poor families can study alongside wealthier ones, and their future depends on ability rather than family income. Society also benefits, because it needs doctors, engineers and teachers, and these professions might attract fewer people if they involved years of debt. In addition, graduates who are not burdened by loans can start businesses or buy homes sooner, which supports the economy.\n\nOn the other hand, others believe that students should bear the cost. Governments have limited budgets, and money spent on universities cannot be used for hospitals, roads or primary schools. Moreover, graduates usually earn higher salaries than people without degrees, so it seems reasonable that they should pay part of the cost of the education that gives them this advantage. Some people also argue that students who pay for their courses take their studies more seriously and are less likely to drop out.\n\nIn my opinion, neither extreme is entirely satisfactory. Completely free education can place a heavy burden on taxpayers, while full fees may discourage poorer students. A balanced approach would be for the government to cover the basic cost of courses, to provide grants for low-income students, and to ask graduates to repay a small part of the cost once they are earning a good salary.\n\nIn conclusion, although free education promotes equality and personal contribution encourages commitment, I believe that a shared system works best.",
+  "vocabulary": [
+    {
+      "word": "tuition",
+      "meaning": "money paid for teaching, especially at a university",
+      "example": "Tuition fees have risen sharply."
+    },
+    {
+      "word": "burdened",
+      "meaning": "having a heavy load of something difficult, such as debt",
+      "example": "Graduates are burdened with loans."
+    },
+    {
+      "word": "bear the cost",
+      "meaning": "to pay for something",
+      "example": "Who should bear the cost of education?"
+    },
+    {
+      "word": "grant",
+      "meaning": "money given for a purpose that does not have to be repaid",
+      "example": "Poorer students receive a grant."
+    },
+    {
+      "word": "drop out",
+      "meaning": "to leave a course before finishing it",
+      "example": "Fewer students drop out when they pay for courses."
+    },
+    {
+      "word": "taxpayer",
+      "meaning": "a person who pays tax",
+      "example": "Free education places a burden on taxpayers."
+    },
+    {
+      "word": "commitment",
+      "meaning": "a strong dedication to a task or cause",
+      "example": "Fees encourage commitment."
+    },
+    {
+      "word": "equal opportunities",
+      "meaning": "the same chances for everyone",
+      "example": "Free tuition creates equal opportunities."
+    }
+  ],
+  "examinerComment": "Both views are discussed fully and the writer's own opinion is clear and consistent. Good organisation, a wide range of vocabulary and accurate complex sentences. Estimated band 8."
+}

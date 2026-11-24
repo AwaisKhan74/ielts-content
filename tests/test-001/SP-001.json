@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "SP-001",
+  "module": "speaking",
+  "part1": [
+    {
+      "topic": "Hometown",
+      "questions": [
+        "Where is your hometown?",
+        "What do you like most about your hometown?",
+        "Has your hometown changed much since you were a child?",
+        "Is it a good place for young people to live?",
+        "What kind of jobs do people do there?",
+        "Would you like to live there in the future?"
+      ]
+    },
+    {
+      "topic": "Daily routine",
+      "questions": [
+        "What time do you usually get up?",
+        "Which part of the day do you enjoy most?",
+        "Do you prefer to have a fixed routine or a flexible one?",
+        "Has your routine changed in the last few years?",
+        "What do you usually do in the evenings?",
+        "Do you think having a good routine is important?"
+      ]
+    },
+    {
+      "topic": "Food",
+      "questions": [
+        "What is your favourite food?",
+        "Do you like cooking?",
+        "Do you usually eat at home or in restaurants?",
+        "Is there any food you disliked as a child but like now?",
+        "What is a typical dish in your country?",
+        "Do you think people eat more healthily than in the past?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "SP-001-C1",
+      "topic": "Describe a person who has helped you",
+      "bullets": ["who this person is", "how you know them", "how they helped you", "and explain how you felt about their help"],
+      "roundingQuestion": "Would you like to help others in the same way?",
+      "sampleAnswer": "I'd like to talk about my uncle, who helped me a lot when I was preparing for my university entrance exam. He's my mother's younger brother and he's a maths teacher, so he's always been someone I look up to. When I was struggling with algebra, he offered to give me extra lessons on Sunday afternoons, and he never asked for anything in return. He had a really patient way of explaining things. Instead of just giving me the answer, he'd ask me questions until I worked it out myself, which built my confidence. He also lent me his own books, and he kept encouraging me when I wanted to give up. In the end, I passed the exam with a good score. I felt incredibly grateful, and a bit guilty too, because he spent so much of his free time on me. Looking back, I think I wouldn't have got into my university without him. Yes, I'd love to help others in the same way, and I already help my younger cousins with their homework.",
+      "part3": [
+        {
+          "question": "Why do some people enjoy helping others?",
+          "sampleAnswer": "I think it gives them a sense of purpose. Helping someone makes you feel useful, and it often strengthens relationships too.",
+          "keyVocabulary": ["a sense of purpose", "rewarding", "strengthen relationships"]
+        },
+        {
+          "question": "Should children be taught to help others at school?",
+          "sampleAnswer": "Definitely. If schools run volunteer projects, children learn empathy early, and those habits tend to stay with them as adults.",
+          "keyVocabulary": ["empathy", "volunteer", "instil values"]
+        },
+        {
+          "question": "Do people help each other less in big cities than in small towns?",
+          "sampleAnswer": "Probably, because people in cities are busier and often don't know their neighbours. In small towns, communities are closer, so people notice when someone needs help.",
+          "keyVocabulary": ["close-knit community", "anonymous", "neighbours"]
+        },
+        {
+          "question": "Is it better to help people with money or with time?",
+          "sampleAnswer": "It depends on the situation. Money solves urgent problems, but giving your time, like teaching or listening, can change someone's life in a more lasting way.",
+          "keyVocabulary": ["lasting impact", "financial support", "urgent"]
+        }
+      ]
+    },
+    {
+      "id": "SP-001-C2",
+      "topic": "Describe a place you visited that you would like to go back to",
+      "bullets": ["where it is", "when you went there", "what you did there", "and explain why you would like to go back"],
+      "roundingQuestion": "Do you prefer to visit new places or places you already know?",
+      "sampleAnswer": "I'd like to describe Hunza Valley, which is in the north of Pakistan. I went there about three years ago with my family during the summer holidays. It's surrounded by huge mountains, and the air is very fresh and clean. During our trip, we visited Baltit Fort, walked along the river and tried local food like walnut cake and apricot soup. We also spent one evening just sitting outside, watching the stars, which you can't see in the city because of the lights. I'd love to go back because I felt really relaxed there, and the people were extremely welcoming. We didn't have time to see the lakes, so I'd also like to explore those. Next time I'd probably go in autumn, when the leaves change colour and the valley looks spectacular. Generally, I like both, but I prefer new places because they give me fresh experiences, although a familiar place is more relaxing.",
+      "part3": [
+        {
+          "question": "Why do people like to travel?",
+          "sampleAnswer": "To escape their routine and experience new cultures. Travelling also broadens your mind and gives you stories to share.",
+          "keyVocabulary": ["escape the routine", "broaden your horizons", "cultural experience"]
+        },
+        {
+          "question": "What are the advantages and disadvantages of tourism for a local area?",
+          "sampleAnswer": "It brings jobs and income, but it can also cause crowding, pollution and higher prices for residents, so it must be managed carefully.",
+          "keyVocabulary": ["boost the economy", "overcrowding", "sustainable tourism"]
+        },
+        {
+          "question": "Do you think travelling will change in the future?",
+          "sampleAnswer": "Probably. People may choose greener options, such as trains instead of planes, and technology will make planning trips even easier.",
+          "keyVocabulary": ["eco-friendly", "carbon footprint", "convenient"]
+        },
+        {
+          "question": "Is it better to travel alone or with other people?",
+          "sampleAnswer": "Both have benefits. Alone, you have total freedom, while with others you share the costs and the memories.",
+          "keyVocabulary": ["independence", "share the cost", "companionship"]
+        }
+      ]
+    },
+    {
+      "id": "SP-001-C3",
+      "topic": "Describe a skill you would like to learn",
+      "bullets": ["what the skill is", "why you want to learn it", "how you would learn it", "and explain how it would be useful to you"],
+      "roundingQuestion": "Is it easier to learn new skills when you are young?",
+      "sampleAnswer": "One skill I'd really like to learn is playing the guitar. I've always enjoyed music, but I never had the chance to study an instrument when I was younger because of school commitments. I'd like to learn it now because I think it would help me relax after a long day, and also because I love the idea of being able to play songs for my friends. To learn, I'd probably start with online video lessons, since they're cheap and I can watch them at any time. Then, if I enjoyed it, I might join a weekly class so that a teacher could correct my mistakes. I think it would be useful in several ways: it would improve my concentration, give me a creative hobby, and maybe even help me meet new people who share my interest. I think young people often learn faster, because their brains are more flexible, but adults can do well too, as they usually have more patience and discipline.",
+      "part3": [
+        {
+          "question": "What skills do you think are most important for young people today?",
+          "sampleAnswer": "Communication and digital skills, I'd say, because almost every job requires them, along with the ability to keep learning.",
+          "keyVocabulary": ["adaptable", "digital literacy", "lifelong learning"]
+        },
+        {
+          "question": "Are practical skills as important as academic qualifications?",
+          "sampleAnswer": "In many cases, yes. Employers often value what you can actually do, so a mix of qualifications and practical ability is ideal.",
+          "keyVocabulary": ["hands-on experience", "qualifications", "employability"]
+        },
+        {
+          "question": "Should schools teach more practical skills like cooking or financial management?",
+          "sampleAnswer": "I think so. Many adults struggle with budgeting, and these skills would prepare students for real life.",
+          "keyVocabulary": ["budgeting", "real-life skills", "curriculum"]
+        },
+        {
+          "question": "How has technology changed the way people learn new skills?",
+          "sampleAnswer": "Enormously. You can find a tutorial on almost anything online, so learning is cheaper, quicker and more personalised.",
+          "keyVocabulary": ["tutorial", "accessible", "personalised learning"]
+        }
+      ]
+    }
+  ]
+}

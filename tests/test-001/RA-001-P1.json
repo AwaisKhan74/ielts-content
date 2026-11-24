@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "RA-001-P1",
+  "module": "reading",
+  "track": "academic",
+  "testNumber": 1,
+  "passageNumber": 1,
+  "title": "Tardigrades: Tiny Survivors",
+  "difficulty": "medium",
+  "paragraphs": [
+    { "label": "A", "text": "Water bears, or tardigrades, are microscopic animals, rarely longer than half a millimetre, that live in moss, lichen, soil and the sediments of lakes and oceans across the planet. They were first described in 1773 by a German pastor, Johann August Ephraim Goeze, who called them 'little water bears' because of the slow, lumbering way they walk on their eight stubby legs. A few years later, the Italian biologist Lazzaro Spallanzani gave them the scientific name Tardigrada, meaning 'slow steppers'. Today, around 1,300 species have been identified." },
+    { "label": "B", "text": "What makes tardigrades remarkable is not their appearance but their resilience. When their environment dries up, they can pull in their head and legs, expel almost all of the water from their bodies and enter a state known as cryptobiosis. In this condition, they form a shrivelled, barrel-shaped structure called a tun, and their metabolism drops to less than 0.01 per cent of its normal rate. Tuns have been brought back to life after many years in dry storage, simply by adding water." },
+    { "label": "C", "text": "Tardigrades in this state can withstand conditions that would kill most other animals. Experiments have shown that they can survive temperatures as low as minus 272 degrees Celsius, close to absolute zero, and as high as around 150 degrees for short periods. They can also tolerate pressures six times greater than those found in the deepest part of the ocean, and doses of radiation hundreds of times higher than would kill a human. In 2007, a team of European scientists attached dried tardigrades to the outside of a spacecraft and exposed them to the vacuum of space and to solar radiation for ten days. When the animals returned to Earth and were rehydrated, a number of them revived, and some even laid eggs that hatched." },
+    { "label": "D", "text": "For many years, scientists did not know how tardigrades protect themselves. In 2016, researchers in Japan studying the species Ramazzottius varieornatus discovered a protein, which they named Dsup, short for 'damage suppressor', that appears to shield the animal's DNA from radiation damage. When the researchers inserted the gene for this protein into human cells in a laboratory, the cells became around forty per cent more resistant to X-rays. Other researchers have since found that tardigrades produce sugars and unusual proteins that turn into a glass-like substance as the animal dries out, supporting the structures inside its cells." },
+    { "label": "E", "text": "These discoveries have raised hopes of practical applications. One possibility is in medicine: vaccines and some medicines must be kept cold during transport, which is expensive and difficult in remote regions. If scientists can copy the way tardigrades preserve their cells, it may be possible to store such products at room temperature. Others suggest that Dsup might one day protect cancer patients from the side effects of radiotherapy, or astronauts from cosmic radiation on long missions. However, most of this research is still at an early stage, and it is not yet clear how well the protein would work in a living human body rather than in cells in a laboratory dish." },
+    { "label": "F", "text": "It is also worth remembering that tardigrades are not indestructible. Most of the time, they live active lives in thin films of water around moss, and in that state they are as vulnerable as any other small animal. Their extraordinary toughness applies only when they are dried out, and even then they can die if they stay dry for too long. Some scientists also point out that survival in space is of limited importance, because it is not something tardigrades would ever meet naturally. Their toughness is more likely an adaptation to the unpredictable conditions in the places where they actually live, such as mosses that frequently dry out in summer." }
+  ],
+  "questionGroups": [
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+      "questions": [
+        { "number": 1, "text": "Fully grown tardigrades are usually longer than half a millimetre.", "answer": ["FALSE"], "explanation": "Paragraph A says they are rarely longer than half a millimetre.", "evidence": "rarely longer than half a millimetre" },
+        { "number": 2, "text": "The name Tardigrada was first used by the person who originally discovered tardigrades.", "answer": ["FALSE"], "explanation": "Goeze discovered them, but Spallanzani gave them the name Tardigrada.", "evidence": "the Italian biologist Lazzaro Spallanzani gave them the scientific name Tardigrada" },
+        { "number": 3, "text": "Tardigrades in the tun state can be revived after a long time without water.", "answer": ["TRUE"], "explanation": "Tuns have been revived after many years in dry storage.", "evidence": "brought back to life after many years in dry storage" },
+        { "number": 4, "text": "In the 2007 experiment, tardigrades were exposed to space for more than two weeks.", "answer": ["FALSE"], "explanation": "The exposure lasted ten days.", "evidence": "for ten days" },
+        { "number": 5, "text": "The Dsup protein has been found in every species of tardigrade.", "answer": ["NOT GIVEN"], "explanation": "Only one species is mentioned; the passage does not say whether all species have it." },
+        { "number": 6, "text": "Tardigrades can only survive extreme conditions after losing most of their body water.", "answer": ["TRUE"], "explanation": "Paragraph F says their toughness applies only when they are dried out.", "evidence": "Their extraordinary toughness applies only when they are dried out" }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        { "number": 7, "text": "Goeze called tardigrades 'little water bears' because of the way they ______.", "answer": ["walk"], "explanation": "Paragraph A: the slow, lumbering way they walk." },
+        { "number": 8, "text": "In the tun state, a tardigrade's metabolism falls to less than ______ per cent of its normal rate.", "answer": ["0.01"], "explanation": "Paragraph B." },
+        { "number": 9, "text": "Human cells containing the Dsup gene were around ______ per cent more resistant to X-rays.", "answer": ["40", "forty"], "explanation": "Paragraph D." },
+        { "number": 10, "text": "Some tardigrade proteins and sugars become a ______ substance when the animal dries out.", "answer": ["glass-like", "glass like"], "explanation": "Paragraph D." }
+      ]
+    },
+    {
+      "type": "matching_info",
+      "instruction": "Which paragraph contains the following information? Write the correct letter, A-F.",
+      "questions": [
+        { "number": 11, "text": "a possible way of reducing the cost of transporting medical products", "answer": ["E"], "explanation": "Paragraph E discusses storing vaccines at room temperature." },
+        { "number": 12, "text": "an explanation for the animal's abilities based on its natural habitat", "answer": ["F"], "explanation": "Paragraph F suggests toughness is an adaptation to drying mosses." },
+        { "number": 13, "text": "a description of an experiment carried out outside the Earth's atmosphere", "answer": ["C"], "explanation": "Paragraph C describes the 2007 spacecraft experiment." }
+      ]
+    }
+  ]
+}

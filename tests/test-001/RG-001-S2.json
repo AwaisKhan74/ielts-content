@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-001-S2",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 1,
+  "sectionNumber": 2,
+  "title": "Working at Lakeside Garden Centre",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "Text A: Job Advertisement",
+      "paragraphs": [
+        { "label": "A", "text": "CUSTOMER SERVICE ASSISTANT (PART-TIME), Lakeside Garden Centre\n\nWe are looking for a friendly, reliable person to join our busy team.\n\nDuties: greeting customers, answering questions about plants and products, operating the tills and restocking shelves.\n\nHours: 20 hours a week, including every second Saturday.\n\nPay: £11.50 per hour, plus a 20% staff discount on all products.\n\nRequirements: previous retail experience is desirable but not essential, as full training will be given during the first two weeks. Applicants must be able to lift boxes weighing up to 15 kg. A basic knowledge of gardening is an advantage.\n\nHow to apply: please send your CV and a short covering letter to the manager, Ms Rita Fernandes, by 30 November. Interviews will be held in the week beginning 9 December and the successful candidate will start in January. Lakeside Garden Centre is an equal opportunities employer." }
+      ]
+    },
+    {
+      "title": "Text B: Staff Handbook (extract), Leave and Absence",
+      "paragraphs": [
+        { "label": "B", "text": "ANNUAL LEAVE: Full-time staff receive 25 days of paid holiday a year. Part-time staff receive holiday in proportion to the hours they work. Requests for leave must be given to your line manager at least four weeks in advance. No leave may be taken during the first two weeks of December or during Easter week, as these are our busiest periods.\n\nSICKNESS: If you are unable to work because of illness, you must telephone your manager before the start of your shift. Text messages are not accepted. If you are absent for more than three days, you must provide a doctor's note. Sick pay is available only to staff who have completed six months' service.\n\nTRAINING: All new staff must complete health and safety training within their first month.\n\nUNIFORM: Two shirts and a fleece are provided free of charge. Additional items may be bought for £8 each.\n\nMOBILE PHONES: Phones should be kept in staff lockers during working hours." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 15, "text": "The job involves working ______ hours per week.", "answer": ["20", "twenty"], "explanation": "Text A, Hours." },
+        { "number": 16, "text": "Employees receive a discount of ______ per cent on products.", "answer": ["20", "twenty"], "explanation": "Text A, Pay." },
+        { "number": 17, "text": "New employees will receive full training during their first ______ weeks.", "answer": ["2", "two"], "explanation": "Text A, Requirements." },
+        { "number": 18, "text": "Applications should be sent to Ms Fernandes by ______.", "answer": ["30 November", "November 30", "30th November"], "explanation": "Text A, How to apply." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the texts? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 19, "text": "Applicants must have previous experience of retail work.", "answer": ["FALSE"], "explanation": "It is desirable but not essential." },
+        { "number": 20, "text": "Interviews will take place in November.", "answer": ["FALSE"], "explanation": "They will be held in the week beginning 9 December." },
+        { "number": 21, "text": "Staff may take leave in Easter week if they apply early enough.", "answer": ["FALSE"], "explanation": "No leave may be taken in Easter week." },
+        { "number": 22, "text": "Staff who are ill can inform their manager by text message.", "answer": ["FALSE"], "explanation": "They must telephone; texts are not accepted." },
+        { "number": 23, "text": "The garden centre offers a pension scheme.", "answer": ["NOT GIVEN"], "explanation": "Pensions are not mentioned." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 24, "text": "What must new staff do in their first month?", "options": { "A": "complete health and safety training", "B": "buy their own uniform", "C": "work every second Saturday" }, "answer": ["A"], "explanation": "Text B, Training." },
+        { "number": 25, "text": "When is a doctor's note required?", "options": { "A": "after one day of absence", "B": "after more than three days of absence", "C": "after a week of absence" }, "answer": ["B"], "explanation": "Text B, Sickness." },
+        { "number": 26, "text": "Who can receive sick pay?", "options": { "A": "all staff from their first day", "B": "full-time staff only", "C": "staff with at least six months' service" }, "answer": ["C"], "explanation": "Text B, Sickness." },
+        { "number": 27, "text": "What should staff do with their mobile phones at work?", "options": { "A": "switch them off at all times", "B": "keep them in a locker", "C": "use them only to contact customers" }, "answer": ["B"], "explanation": "Text B, Mobile phones." }
+      ]
+    }
+  ]
+}

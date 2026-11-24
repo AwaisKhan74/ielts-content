@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-003-S3",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 3,
+  "sectionNumber": 3,
+  "title": "Should Schools Start Later?",
+  "difficulty": "hard",
+  "texts": [
+    {
+      "title": "Should Schools Start Later?",
+      "paragraphs": [
+        { "label": "A", "text": "For millions of teenagers around the world, the day begins in the dark. Alarm clocks go off at six, or even earlier, so that students can reach classrooms by eight o'clock or before. Many arrive tired, and teachers are used to the sight of heads resting on desks by the middle of the morning. Parents often put this down to laziness or too much time on telephones, but over the last twenty years a growing number of scientists have suggested a different explanation: that the problem lies not with the students but with the timetable." },
+        { "label": "B", "text": "The argument begins with biology. During puberty, the body clock of a young person shifts. Teenagers begin to produce melatonin, the hormone that makes us feel sleepy, about two hours later in the evening than they did as children, which means that many of them do not feel tired until eleven o'clock at night or later. At the same time, they still need between eight and ten hours of sleep. A student who must get up at six in the morning therefore cannot simply go to bed earlier to make up for it, because the body is not ready to sleep. The result, according to many researchers, is a permanent shortage of sleep that builds up through the school week." },
+        { "label": "C", "text": "The effects of this shortage are widely documented. Tired students find it harder to concentrate and remember new information, and they are more likely to feel anxious or low in mood. Doctors have linked poor sleep in adolescence to a higher risk of obesity and depression. There is also a danger on the road. Studies of young drivers have found that those who sleep less than seven hours a night are much more likely to be involved in a car accident. Teachers, too, report that students in the first lesson of the day are often too sleepy to take part, and that some fall asleep completely." },
+        { "label": "D", "text": "Supporters of later starts can point to real examples. Several American school districts have moved their opening times, beginning with Edina, Minnesota, in the 1990s. One of the best-known experiments took place in Seattle in 2016, when two high schools changed their start time from 7.50 am to 8.45 am. Researchers from the University of Washington compared the students' sleep before and after the change. They found that the students slept, on average, about 34 minutes longer each night, and their grades improved by around 4.5 per cent. Attendance rose, and fewer students arrived late. Importantly, the students did not go to bed any later than they had before; the extra sleep came entirely from waking up later." },
+        { "label": "E", "text": "Not everybody is persuaded, however. Critics point to practical difficulties. Many schools share their buses between several schools, and changing one school's timetable can force the whole transport system to be reorganised, which can cost a great deal. Later finishing times can interfere with after-school sports and with part-time jobs, which many older students depend on. Working parents may also be unable to supervise younger children in the morning if the older ones leave later. A few commentators argue that the real answer is for teenagers to go to bed earlier and to stay away from screens at night, rather than for institutions to change." },
+        { "label": "F", "text": "Despite these objections, official attitudes are shifting. In 2014, the American Academy of Pediatrics recommended that middle and high schools should not begin before 8.30 am. In 2019, California became the first state in the country to pass a law requiring most high schools to follow this guideline, and the rule came into force in 2022. Other regions have conducted their own trials, and some schools in Britain, Australia and elsewhere have experimented with starting an hour later. Most of these trials report improved attendance and better behaviour, although the changes have usually been small, and results have varied from school to school." },
+        { "label": "G", "text": "Specialists in sleep stress that a later bell is not a miracle cure. Students still need good habits, such as keeping devices out of the bedroom at night and keeping regular bedtimes, and some schools have found that the benefits fade if these habits are neglected. Nevertheless, the evidence suggests that, for adolescents at least, the timing of the school day matters more than was once believed. Many experts recommend that any change should be introduced gradually and in consultation with families, teachers and local transport providers, so that the practical problems can be solved before they cause harm." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_headings",
+      "instruction": "The text has seven paragraphs, A-G. Choose the correct heading for paragraphs B-F from the list of headings below. Write the correct number, i-viii.",
+      "headings": {
+        "i": "Why teenagers cannot simply go to bed earlier",
+        "ii": "Practical obstacles to later starts",
+        "iii": "Signs of sleep loss in school and on the road",
+        "iv": "Laws and guidelines that encourage change",
+        "v": "Results from schools that changed their timetables",
+        "vi": "The cost of building new schools",
+        "vii": "Why younger children need more sleep",
+        "viii": "Advice for parents of teenagers"
+      },
+      "questions": [
+        { "number": 28, "text": "Paragraph B", "answer": ["i"], "explanation": "Melatonin is produced later, so they cannot sleep earlier." },
+        { "number": 29, "text": "Paragraph C", "answer": ["iii"], "explanation": "Concentration, mood and car accidents." },
+        { "number": 30, "text": "Paragraph D", "answer": ["v"], "explanation": "The Seattle experiment." },
+        { "number": 31, "text": "Paragraph E", "answer": ["ii"], "explanation": "Buses, sports and jobs, and parents." },
+        { "number": 32, "text": "Paragraph F", "answer": ["iv"], "explanation": "The 2014 recommendation and the 2019 Californian law." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the text? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 33, "text": "Teenagers' bodies make them feel sleepy later in the evening than children's bodies do.", "answer": ["TRUE"], "explanation": "Paragraph B: melatonin about two hours later." },
+        { "number": 34, "text": "In the Seattle study, students' grades improved by more than ten per cent.", "answer": ["FALSE"], "explanation": "Paragraph D: about 4.5 per cent." },
+        { "number": 35, "text": "After the change in Seattle, students started going to bed later.", "answer": ["FALSE"], "explanation": "Paragraph D: they did not go to bed any later." },
+        { "number": 36, "text": "Bus companies in Seattle charged extra to change their timetables.", "answer": ["NOT GIVEN"], "explanation": "Paragraph E talks about cost in general, not about Seattle bus companies." }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+      "title": "The case for later school start times",
+      "questions": [
+        { "number": 37, "text": "Teenagers need between eight and ten hours of ______ a night.", "answer": ["sleep"], "explanation": "Paragraph B." },
+        { "number": 38, "text": "Young drivers who sleep too little are more likely to have a car ______.", "answer": ["accident", "accidents"], "explanation": "Paragraph C." },
+        { "number": 39, "text": "Critics worry that later finishing times will interfere with sports and ______ jobs.", "answer": ["part-time", "part time"], "explanation": "Paragraph E." },
+        { "number": 40, "text": "In 2019, ______ became the first state in the country to pass a law on high school start times.", "answer": ["California"], "explanation": "Paragraph F." }
+      ]
+    }
+  ]
+}

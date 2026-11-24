@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-009",
+  "module": "writing",
+  "task": 2,
+  "essayType": "opinion",
+  "topic": "education",
+  "prompt": "Some people believe that all high school students should be required to do unpaid community service as part of their education. To what extent do you agree or disagree?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase; state clearly that you agree (or mostly agree).",
+    "body1": "Benefits for students: responsibility, teamwork, career exploration, better understanding of society, empathy.",
+    "body2": "Benefits for communities, plus counter-argument (burden on busy students, forced volunteering may reduce motivation) and a rebuttal (limited hours, flexible choices).",
+    "conclusion": "Restate opinion."
+  },
+  "modelAnswer": "Volunteering is often praised as a valuable activity, and some educators now propose that it should be compulsory in secondary schools. I largely agree with this view, as I believe that the benefits for both students and society outweigh the drawbacks.\n\nThe most important advantage for students is the development of personal qualities that classrooms rarely teach. When teenagers help to clean a park, serve meals to homeless people or read to the elderly, they learn responsibility, teamwork and patience. They also come to understand the problems that other people face, which makes them more compassionate. In addition, community work can give young people their first experience of the working world and help them to discover which careers interest them. Universities and employers also tend to value this kind of experience.\n\nCommunities benefit too. Local charities and public services are often short of staff and money, and a steady supply of young volunteers can help them to run programmes that would otherwise be impossible. Furthermore, when students are involved in their neighbourhoods, they are more likely to feel a sense of belonging and to remain active citizens as adults.\n\nCritics, however, argue that compulsory service is a contradiction, since volunteering should be a free choice, and forced participation may breed resentment. Others point out that students are already busy with exams and homework. These objections have some merit, but they can be answered. The requirement could be limited to a modest number of hours a year, and students could choose from a wide range of activities that suit their interests and timetables, which would keep them motivated.\n\nIn conclusion, although there are fair concerns about compulsion, I believe that a carefully designed community service requirement would develop character and strengthen society.",
+  "vocabulary": [
+    {
+      "word": "compulsory",
+      "meaning": "required by a rule or law",
+      "example": "Community service should be compulsory."
+    },
+    {
+      "word": "compassionate",
+      "meaning": "feeling sympathy for others",
+      "example": "Volunteering makes teenagers more compassionate."
+    },
+    {
+      "word": "sense of belonging",
+      "meaning": "the feeling of being part of a group",
+      "example": "Volunteers feel a sense of belonging."
+    },
+    {
+      "word": "resentment",
+      "meaning": "a feeling of anger about being treated unfairly",
+      "example": "Forced participation may breed resentment."
+    },
+    {
+      "word": "modest",
+      "meaning": "not very large",
+      "example": "A modest number of hours would be enough."
+    },
+    {
+      "word": "curriculum",
+      "meaning": "the subjects taught in a school",
+      "example": "The curriculum is already crowded."
+    },
+    {
+      "word": "motivated",
+      "meaning": "wanting to do something",
+      "example": "Students stay motivated if they choose."
+    },
+    {
+      "word": "outweigh",
+      "meaning": "to be greater than",
+      "example": "The benefits outweigh the drawbacks."
+    }
+  ],
+  "examinerComment": "A clear position is maintained, with relevant arguments, a fair counter-argument and a rebuttal. Wide vocabulary range and good control of complex sentences. Estimated band 8."
+}

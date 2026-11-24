@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "WA1-001",
+  "module": "writing",
+  "track": "academic",
+  "task": 1,
+  "prompt": "The bar chart below shows the proportion of household spending on four categories in a European country in 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "minWords": 150,
+  "chartSpec": {
+    "type": "bar",
+    "title": "Household spending on selected categories (% of total spending)",
+    "unit": "%",
+    "xLabel": "Category",
+    "yLabel": "Percentage of total household spending",
+    "categories": ["Housing", "Food", "Transport", "Leisure"],
+    "series": [
+      { "name": "2000", "values": [28, 24, 14, 10] },
+      { "name": "2020", "values": [34, 16, 15, 15] }
+    ]
+  },
+  "modelAnswer": "The bar chart compares the share of household spending devoted to four categories in a European country in 2000 and 2020.\n\nOverall, housing and leisure accounted for a larger share of spending by 2020, whereas food became noticeably less important. Transport remained almost unchanged.\n\nIn 2000, households spent 28% of their budgets on housing, which rose significantly to 34% twenty years later, so it was the largest category in both years. Leisure saw the second biggest increase, climbing from 10% to 15%, a rise of half.\n\nBy contrast, spending on food fell sharply from 24% to 16%. Food had been the second largest item in 2000, but by 2020 it was only marginally above leisure and transport. Transport itself barely moved, edging up from 14% to 15%.\n\nIn short, the pattern suggests that households were devoting more of their income to accommodation and free-time activities, while the proportion spent on basic food items declined.",
+  "examinerComment": "Clear overview, accurate figures and logical grouping of information. Comparisons (rise by half, sharp fall) show good range of data-description language. Avoid personal opinion or explanation not supported by the chart.",
+  "usefulPhrases": [
+    "The chart illustrates / compares ...",
+    "Overall, it is clear that ...",
+    "rose significantly from X% to Y%",
+    "fell sharply / dropped markedly",
+    "remained almost unchanged / barely moved",
+    "accounted for the largest share",
+    "By contrast, / Meanwhile, ...",
+    "a rise of half / a two-fold increase"
+  ]
+}

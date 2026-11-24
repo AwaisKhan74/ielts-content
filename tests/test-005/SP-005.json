@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "SP-005",
+  "module": "speaking",
+  "part1": [
+    {
+      "topic": "Home and accommodation",
+      "questions": [
+        "Do you live in a house or a flat?",
+        "What do you like most about your home?",
+        "Which room do you spend most time in?",
+        "Is there anything you would like to change about your home?",
+        "Do you prefer living in a city or in the countryside?",
+        "Would you like to live in a different country in the future?"
+      ]
+    },
+    {
+      "topic": "Reading",
+      "questions": [
+        "Do you enjoy reading?",
+        "What kinds of things do you usually read?",
+        "Do you prefer reading on paper or on a screen?",
+        "Did you read a lot as a child?",
+        "Do you think reading habits are changing?",
+        "Do you ever read in English?"
+      ]
+    },
+    {
+      "topic": "Transport",
+      "questions": [
+        "How do you usually travel to work or school?",
+        "Is public transport good in your area?",
+        "Do you prefer travelling by bus, train or car?",
+        "What problems are there with traffic in your city?",
+        "Have you ever had a bad experience while travelling?",
+        "How could transport be improved where you live?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "SP-005-C1",
+      "topic": "Describe a festival or celebration in your country",
+      "bullets": [
+        "what the festival is",
+        "when it takes place",
+        "what people do",
+        "and explain why it is important to you"
+      ],
+      "roundingQuestion": "Do you think the festival will change in the future?",
+      "sampleAnswer": "I'd like to talk about Eid, which is the biggest celebration in my country. It takes place twice a year, but I'm going to talk about Eid ul-Fitr, which comes at the end of the month of fasting. On the morning of Eid, people put on new clothes and go to the mosque for a special prayer, and afterwards they visit relatives and neighbours. Children receive gifts and money, and families prepare a lot of delicious food, especially sweet dishes. In my family, we usually gather at my grandparents' house, where about thirty people sit together for lunch. It's important to me because it brings the whole family together, and it's a time for forgiving each other and sharing with those who are less fortunate. I think the festival will continue much as it is, although more people may send greetings by phone instead of visiting in person.",
+      "part3": [
+        {
+          "question": "Why are festivals important to a society?",
+          "sampleAnswer": "They keep traditions alive and give people a shared sense of identity. They also provide a break from daily routine.",
+          "keyVocabulary": [
+            "tradition",
+            "identity",
+            "routine"
+          ]
+        },
+        {
+          "question": "Have festivals become too commercial?",
+          "sampleAnswer": "In some cases, yes, because shops use them to sell more products. However, the true meaning is still important to many families.",
+          "keyVocabulary": [
+            "commercial",
+            "meaning",
+            "consumerism"
+          ]
+        },
+        {
+          "question": "Do young people care about traditional celebrations?",
+          "sampleAnswer": "Many do, particularly because they enjoy seeing their relatives. Others are more interested in modern events like music festivals.",
+          "keyVocabulary": [
+            "relatives",
+            "modern",
+            "tradition"
+          ]
+        },
+        {
+          "question": "Should governments support cultural festivals?",
+          "sampleAnswer": "I think so, because they attract tourists and help to preserve culture. Funding could also support local artists and small businesses.",
+          "keyVocabulary": [
+            "preserve",
+            "tourists",
+            "funding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SP-005-C2",
+      "topic": "Describe a journey that you remember well",
+      "bullets": [
+        "where you went",
+        "how you travelled",
+        "who you went with",
+        "and explain why you remember it well"
+      ],
+      "roundingQuestion": "Would you like to make the same journey again?",
+      "sampleAnswer": "I'd like to describe a train journey I made with my cousin across the north of my country about three years ago. We travelled for almost twelve hours from the capital to a small mountain town, where my uncle lives. It was my first long train journey, so I was very excited. At first the scenery was flat and dull, but after a few hours, we began to climb, and the views of valleys and rivers became spectacular. The train was crowded, and we shared our food with a family sitting next to us, who gave us delicious homemade bread in return. Unfortunately, the train broke down for two hours in the middle of the night, so we arrived very late and exhausted. I remember it well because of the beautiful landscape and the kindness of the people. I'd happily do the same journey again, but next time I'd bring warmer clothes.",
+      "part3": [
+        {
+          "question": "Why do some people prefer to travel by train rather than by plane?",
+          "sampleAnswer": "Trains are more comfortable and you can enjoy the scenery. They also produce less pollution than aircraft.",
+          "keyVocabulary": [
+            "scenery",
+            "pollution",
+            "comfortable"
+          ]
+        },
+        {
+          "question": "How has travel changed in the last fifty years?",
+          "sampleAnswer": "It has become faster, cheaper and more accessible to ordinary people. Also, people can now book everything online.",
+          "keyVocabulary": [
+            "accessible",
+            "book online",
+            "cheaper"
+          ]
+        },
+        {
+          "question": "What are the benefits of travelling to other countries?",
+          "sampleAnswer": "It broadens the mind and teaches people about other cultures. It can also improve your language skills.",
+          "keyVocabulary": [
+            "broaden",
+            "culture",
+            "language skills"
+          ]
+        },
+        {
+          "question": "Do you think tourism is always good for local communities?",
+          "sampleAnswer": "Not always. It creates jobs, but it can also raise prices and damage the environment if it isn't managed well.",
+          "keyVocabulary": [
+            "jobs",
+            "prices",
+            "managed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SP-005-C3",
+      "topic": "Describe a job that you think would be interesting",
+      "bullets": [
+        "what the job is",
+        "what the work involves",
+        "what skills or qualifications are needed",
+        "and explain why you think it would be interesting"
+      ],
+      "roundingQuestion": "Would you like to do this job yourself?",
+      "sampleAnswer": "I'd like to talk about being a wildlife photographer, which I think would be a fascinating job. The work involves travelling to remote places, such as forests, mountains and deserts, to photograph animals in their natural habitats. Photographers often spend days or even weeks waiting quietly for the right moment. To do this job well, you need technical skill with a camera, a lot of patience, and a good knowledge of animal behaviour, and many photographers also study biology. I'd find it interesting because you'd see beautiful places and rare creatures that most people never see, and your pictures could also help to protect the environment by showing people what is in danger. The only drawbacks are that the work can be uncomfortable and dangerous, and the income isn't always reliable. I'd love to try it, at least as a hobby.",
+      "part3": [
+        {
+          "question": "What makes a job satisfying?",
+          "sampleAnswer": "Feeling that your work is useful and being paid fairly. Good colleagues and a chance to learn new things also matter.",
+          "keyVocabulary": [
+            "satisfying",
+            "fairly paid",
+            "colleagues"
+          ]
+        },
+        {
+          "question": "Is job security more important than a high salary?",
+          "sampleAnswer": "For most people it is, because stability lets them plan for the future. However, young people may be willing to take risks for a better salary.",
+          "keyVocabulary": [
+            "job security",
+            "stability",
+            "risks"
+          ]
+        },
+        {
+          "question": "How will technology change the jobs people do?",
+          "sampleAnswer": "Many routine jobs will be automated, so people will need new skills. At the same time, new types of work will appear.",
+          "keyVocabulary": [
+            "automated",
+            "routine",
+            "skills"
+          ]
+        },
+        {
+          "question": "Should people choose a career for money or for interest?",
+          "sampleAnswer": "Ideally for interest, since you spend so much of your life working. But you also need enough income to live comfortably.",
+          "keyVocabulary": [
+            "career",
+            "income",
+            "interest"
+          ]
+        }
+      ]
+    }
+  ]
+}

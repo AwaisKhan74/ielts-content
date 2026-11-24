@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "L-002-S3",
+  "module": "listening",
+  "testNumber": 2,
+  "sectionNumber": 3,
+  "title": "Planning a Research Project on Sleep and Memory",
+  "accent": "canadian",
+  "difficulty": "medium",
+  "speakers": [
+    { "id": "H", "name": "Hannah", "gender": "female", "voice": "en-CA-ClaraNeural" },
+    { "id": "B", "name": "Ben", "gender": "male", "voice": "en-CA-LiamNeural" }
+  ],
+  "script": [
+    { "speaker": "H", "text": "So, did you manage to see Dr Mehta this morning?" },
+    { "speaker": "B", "text": "I did. She had quite a lot to say about our proposal, some good and some not so good." },
+    { "speaker": "H", "text": "Go on, then. Start with the bad news." },
+    { "speaker": "B", "text": "Well, she said our research question is far too broad. We wrote 'How does sleep affect student performance', and she said that could take years to answer properly. She wants us to narrow it down to one single thing." },
+    { "speaker": "H", "text": "Right. Did she say which thing?" },
+    { "speaker": "B", "text": "Memory. Specifically, whether the number of hours of sleep affects how well first-year students remember new information." },
+    { "speaker": "H", "text": "That makes sense. And we're first-year students ourselves, so it'll be easy to find people." },
+    { "speaker": "B", "text": "Exactly. Now, the sample. We put two hundred students in the proposal." },
+    { "speaker": "H", "text": "Yes, which was a bit ambitious, I suppose." },
+    { "speaker": "B", "text": "She thought so too. We only have six weeks for collecting the data, so she suggested eighty. She said a smaller sample is fine as long as we're careful about the design." },
+    { "speaker": "H", "text": "Eighty is much more manageable. Could we get that many from the psychology department alone?" },
+    { "speaker": "B", "text": "She thinks so. We could advertise through the student union noticeboard and send some emails." },
+    { "speaker": "H", "text": "I can do the recruiting. I know the union secretary quite well." },
+    { "speaker": "B", "text": "Perfect. Then I'll design the memory test, since I've used the software before. And Dr Mehta will approve the ethics form, but only once we've sent her the final method." },
+    { "speaker": "H", "text": "Fine. Now, the sleep diaries. We were going to ask people to fill one in every morning." },
+    { "speaker": "B", "text": "Yes, and that's the next problem. Dr Mehta thought a lot of them would simply forget, especially around exam time, and then we'd end up with incomplete data." },
+    { "speaker": "H", "text": "That's true, I'd forget myself. I doubt people would lie about it, but forgetting is very likely. What's the alternative?" },
+    { "speaker": "B", "text": "She suggested sending a text reminder each morning, and using a short online form instead of a paper diary, so that it takes only two minutes." },
+    { "speaker": "H", "text": "Good idea. What should they record?" },
+    { "speaker": "B", "text": "Their bedtime and wake-up time, and also how much caffeine they've had, since caffeine can affect sleep as well as memory." },
+    { "speaker": "H", "text": "Okay. And the memory test itself?" },
+    { "speaker": "B", "text": "Each person learns a list of thirty words and then has to recall as many as possible. All the tests will take place at nine in the morning, so the time of day doesn't affect the results. At first I thought ten, but nine gives us more time to run several sessions." },
+    { "speaker": "H", "text": "Nine. Some of them will complain, but fine." },
+    { "speaker": "B", "text": "Then there's the analysis. She suggested we use a statistics program rather than doing it by hand, and she'll run a workshop on it in week four." },
+    { "speaker": "H", "text": "Brilliant. What about the presentation at the end?" },
+    { "speaker": "B", "text": "Instead of a written report, we present a poster at the end-of-term fair. The department will print it for us." },
+    { "speaker": "H", "text": "Great, that's less writing. When's the first deadline?" },
+    { "speaker": "B", "text": "We have to hand in the revised proposal on the twelfth of December. Not the fifth, as it says on the course page, because the department has extended it by a week." },
+    { "speaker": "H", "text": "December the twelfth. That gives us just over two weeks." },
+    { "speaker": "B", "text": "So let's split the rewriting. I'll do the method section tonight, and you can write the introduction." },
+    { "speaker": "H", "text": "Deal. I'll send you what I've got by Friday." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 21, "text": "What did Dr Mehta say about the original research question?", "options": { "A": "It was too broad.", "B": "It had been studied too often.", "C": "It would be hard to measure." }, "answer": ["A"], "explanation": "She said it was far too broad and had to be narrowed down." },
+        { "number": 22, "text": "How many participants will the students use?", "options": { "A": "40", "B": "80", "C": "200" }, "answer": ["B"], "explanation": "200 was the original plan; Dr Mehta suggested eighty." },
+        { "number": 23, "text": "What problem do the students identify with the sleep diaries?", "options": { "A": "Participants may not be honest.", "B": "Participants may forget to fill them in.", "C": "They will take too long to analyse." }, "answer": ["B"], "explanation": "Hannah says forgetting is very likely, and she doubts people would lie." }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Who will be responsible for each task? Choose the correct letter, A, B or C, for each answer.",
+      "options": { "A": "Hannah", "B": "Ben", "C": "Dr Mehta" },
+      "questions": [
+        { "number": 24, "text": "recruiting the participants", "answer": ["A"], "explanation": "Hannah will do the recruiting." },
+        { "number": 25, "text": "designing the memory test", "answer": ["B"], "explanation": "Ben will design the memory test." },
+        { "number": 26, "text": "approving the ethics form", "answer": ["C"], "explanation": "Dr Mehta will approve the ethics form." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questions": [
+        { "number": 27, "text": "Participants will record their bedtime, their wake-up time and their ______.", "answer": ["caffeine", "caffeine intake"], "explanation": "They record how much caffeine they have had." },
+        { "number": 28, "text": "All the memory tests will take place at ______ am.", "answer": ["9", "9.00", "9:00", "nine"], "explanation": "Tests will be held at nine in the morning." },
+        { "number": 29, "text": "The final results will be presented as a ______.", "answer": ["poster", "a poster"], "explanation": "A poster at the end-of-term fair, not a written report." },
+        { "number": 30, "text": "The revised proposal must be handed in on ______.", "answer": ["12 December", "December 12", "12th December", "December 12th", "the twelfth of December"], "explanation": "The deadline is the twelfth of December, not the fifth." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-003-S1",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 3,
+  "sectionNumber": 1,
+  "title": "Evening Classes at Greenfield Learning Centre",
+  "difficulty": "easy",
+  "texts": [
+    {
+      "title": "Text A: Spring Term Courses",
+      "paragraphs": [
+        { "label": "A", "text": "BEGINNER'S PHOTOGRAPHY\nTuesdays, 7.00 pm to 9.00 pm. Eight weeks, starting 14 January. Fee: £85 (concessions £65). Learn how to use your camera properly and take better pictures of people, places and events. Participants must bring their own digital camera, but no special equipment is needed. The final session is a walk around the old town centre.\n\nSPANISH FOR TRAVELLERS\nWednesdays, 6.30 pm to 8.30 pm. Ten weeks, starting 15 January. Fee: £110 (concessions £88). A lively course for people who want to speak simple Spanish on holiday. No previous knowledge is required. The course book costs an extra £12 and can be bought from the tutor in the first lesson.\n\nINTRODUCTION TO BAKING\nThursdays, 7.00 pm to 9.00 pm. Six weeks, starting 16 January. Fee: £90 (concessions £72), including all ingredients. Make bread, cakes and pastry in our fully equipped kitchen. Please bring an apron and some containers so that you can take your baking home.\n\nPRACTICAL FIRST AID\nSaturday 25 January only, 9.30 am to 4.30 pm. Fee: £40 (no concessions). A one-day course covering the treatment of burns, choking and bleeding. Those who pass a short practical test receive a certificate that is valid for three years. This course is limited to twelve participants, so early booking is recommended." }
+      ]
+    },
+    {
+      "title": "Text B: How to Enrol",
+      "paragraphs": [
+        { "label": "B", "text": "ENROLMENT: You can enrol online at the Greenfield Learning Centre website, or in person at the main reception desk, which is open from Monday to Friday, 9.00 am to 5.00 pm. We regret that we are unable to accept enrolments by telephone.\n\nPAYMENT: Fees must be paid in full when you enrol. We accept all major credit and debit cards. Cash can be accepted only at the reception desk.\n\nCONCESSIONS: Students, people over 60 and people who are unemployed pay the reduced fee shown in brackets. Please bring proof, such as a student card or benefit letter, when you enrol in person, or upload a copy if you enrol online.\n\nREFUNDS: If you cancel your place at least seven days before the course starts, you will receive a full refund. After that date, we cannot offer a refund unless the course is cancelled by the centre.\n\nCANCELLATIONS: A course will only go ahead if at least eight people have enrolled by the Friday before it begins. If a course is cancelled, you will be offered a place on another course or a full refund." }
+      ]
+    },
+    {
+      "title": "Text C: Facilities for Students",
+      "paragraphs": [
+        { "label": "C", "text": "CAFE: The Garden Café serves hot drinks, sandwiches and cakes. It is open from 9.00 am to 8.30 pm, Monday to Friday, and is closed at weekends. Students can order a sandwich and a drink at a reduced price on presenting their course card.\n\nLEARNING ROOM: All enrolled students may use the learning room on the first floor, where there are twenty computers, free wireless internet and a printer. Computer use is free, but printing is charged at 10p per sheet. The room is open on weekday evenings until 9.00 pm.\n\nLOCKERS: Lockers are available in the entrance hall for students who do not want to carry bags and coats. They cost 50p per day, and the coin is returned when you open the locker.\n\nPARKING: There is a small car park behind the building for staff and disabled visitors. Other students are advised to use the Library car park on Castle Road, which is free after 6.00 pm.\n\nROOM HIRE: Community groups may hire the main hall for £30 an hour, or the meeting room for £15 an hour. Bookings must be made at least two weeks in advance. No alcohol may be brought into the centre." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Which text mentions the following? Write the correct letter, A, B or C.",
+      "questions": [
+        { "number": 1, "text": "a maximum number of people who may attend a course", "answer": ["A"], "explanation": "First aid is limited to twelve participants." },
+        { "number": 2, "text": "a method of enrolling that is not available", "answer": ["B"], "explanation": "Telephone enrolments are not accepted." },
+        { "number": 3, "text": "free use of computers", "answer": ["C"], "explanation": "Learning room: computer use is free." },
+        { "number": 4, "text": "something that students must bring to a class", "answer": ["A"], "explanation": "A digital camera for photography, an apron for baking." },
+        { "number": 5, "text": "the point after which money cannot be returned", "answer": ["B"], "explanation": "Less than seven days before the course: no refund." },
+        { "number": 6, "text": "a price for somewhere to leave coats and bags", "answer": ["C"], "explanation": "Lockers cost 50p per day." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in the texts? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 7, "text": "The photography course lasts longer than the Spanish course.", "answer": ["FALSE"], "explanation": "Photography: eight weeks; Spanish: ten weeks." },
+        { "number": 8, "text": "The first aid certificate is valid for three years.", "answer": ["TRUE"], "explanation": "Text A." },
+        { "number": 9, "text": "Students can park free of charge in the Library car park on Saturdays.", "answer": ["NOT GIVEN"], "explanation": "It is free after 6.00 pm; nothing is said about Saturdays." },
+        { "number": 10, "text": "The Garden Café is open on Saturdays.", "answer": ["FALSE"], "explanation": "It is closed at weekends." }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 11, "text": "Who sells the Spanish course book?", "answer": ["the tutor", "tutor"], "explanation": "It can be bought from the tutor." },
+        { "number": 12, "text": "How many people must enrol for a course to go ahead?", "answer": ["8", "eight", "at least eight"], "explanation": "At least eight people." },
+        { "number": 13, "text": "How much does it cost to hire the main hall for one hour?", "answer": ["£30", "30 pounds", "30"], "explanation": "£30 an hour." },
+        { "number": 14, "text": "At what time does the café close on weekdays?", "answer": ["8.30 pm", "8.30", "8.30pm", "8:30 pm"], "explanation": "Open from 9.00 am to 8.30 pm." }
+      ]
+    }
+  ]
+}

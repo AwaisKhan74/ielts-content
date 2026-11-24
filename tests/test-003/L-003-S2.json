@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "L-003-S2",
+  "module": "listening",
+  "testNumber": 3,
+  "sectionNumber": 2,
+  "title": "Welcome Talk for New Garden Guides",
+  "accent": "british",
+  "difficulty": "medium",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Helen (head gardener)",
+      "gender": "female",
+      "voice": "en-GB-LibbyNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Good morning, everyone, and welcome to Hartley Botanic Garden. My name's Helen, and I'm the head gardener. It's wonderful to see so many of you here on your first day as volunteer guides. Before you meet the rest of the team, I'd like to tell you a little about the garden's history, how it's run today, and what you'll be doing over the coming months."
+    },
+    {
+      "speaker": "A",
+      "text": "Let's start with the history. Many visitors assume that the garden has always belonged to the city, but that isn't true. It was created in 1868 by Edward Hartley, a wealthy textile merchant, who had travelled widely and brought back seeds and cuttings from every continent he visited. At first it was simply his private garden, and only his friends were allowed to walk through it. When he died, his family couldn't afford to maintain it, and in 1921 the city council bought the land. The university took over the scientific side of things in 1950, and it still uses the garden for research today, although the council continues to own the site."
+    },
+    {
+      "speaker": "A",
+      "text": "One of the garden's best-known features is the Tropical House, our great glasshouse. Some of you may have heard that the original building was destroyed by a fire. In fact, that was the old café, which burnt down in 1990. The glasshouse itself was wrecked by a storm in 1987, when strong winds blew out most of the glass in a single night. We were lucky that the plants survived, because the staff moved them into the cellars and kept them warm with heaters for almost two years. The new glasshouse opened in 1989, and it's now much bigger than the original, with a much better heating system."
+    },
+    {
+      "speaker": "A",
+      "text": "So what is the garden for today? Well, we have about two hundred thousand visitors a year, and their ticket money is very important, because it pays for around half of our costs. We also run an education programme, and over eight thousand schoolchildren come here every year to learn about plants and nature. But I'd like you to remember that our main priority is conservation. We look after more than three hundred rare and endangered plant species, and some of them no longer grow anywhere else in the wild. Everything else we do, including tourism and teaching, is there to support that work."
+    },
+    {
+      "speaker": "A",
+      "text": "Now, I'd like to give you a quick overview of the different areas of the garden, because you'll be taking visitors around all of them. You'll find a map in your welcome pack, so please take it out now."
+    },
+    {
+      "speaker": "A",
+      "text": "As you come through the main gate, the first area on your left is the Rose Terrace. I'm afraid that's closed at the moment. We're restoring the old stone walls and replanting the beds, and the work should finish in the spring, so you won't be able to take visitors there for a few months. Please apologise to anyone who asks, and suggest that they come back in June, when the roses will be at their best."
+    },
+    {
+      "speaker": "A",
+      "text": "Further along the main path, you'll reach the Alpine Rockery. It's very beautiful in early summer, but it has steep steps and uneven paths, so it isn't suitable for visitors who use wheelchairs. We'll talk about alternative routes later in the week."
+    },
+    {
+      "speaker": "A",
+      "text": "Past the rockery, on the right, is the Water Garden. This is the best place to see dragonflies and, in spring, frogs. Every April we hold a frog survey there, and members of the public are invited to help us count the tadpoles. Guides are always needed for that event, so I hope some of you will volunteer."
+    },
+    {
+      "speaker": "A",
+      "text": "The Herb Walk is just beyond the Water Garden, next to the café. On Saturdays at eleven o'clock, our chef gives a free cooking demonstration there, using herbs picked fresh from the beds. It's very popular, so you might like to remind visitors to arrive early if they want a good view."
+    },
+    {
+      "speaker": "A",
+      "text": "Then, at the far end of the garden, you'll find the Sensory Garden. It was designed for visitors with poor eyesight, and it's the only area where people are actively encouraged to touch the plants and smell them. Children love it, and so do many of our older visitors, so it's a good place to finish a tour."
+    },
+    {
+      "speaker": "A",
+      "text": "And finally, the Tropical House, which, as I mentioned, is our great glasshouse. It's extremely popular, and to avoid overcrowding, we only allow forty people in at a time. Visitors have to collect a timed ticket from the desk by the entrance, and then return at the time shown. Please make sure that you explain this to everybody who asks, because otherwise they'll wait in the queue for ages."
+    },
+    {
+      "speaker": "A",
+      "text": "Now, a few words about what to expect over the next few weeks. Before you start guiding on your own, every new volunteer attends a two-day course on plant identification. It's taught by one of our botanists, and I promise that it's more enjoyable than it sounds. You'll learn to recognise about eighty of the most important species in the garden, and how to explain to visitors why they matter. After that, you'll shadow an experienced guide for at least three tours before you take your own groups."
+    },
+    {
+      "speaker": "A",
+      "text": "As for what to wear, we provide a green jacket and a name badge, so that visitors can recognise you. You can collect these from the gift shop, which is just inside the main entrance. Please ask for Priya, who looks after the uniforms. And please bring your own sturdy shoes, because you'll be walking several kilometres on some days."
+    },
+    {
+      "speaker": "A",
+      "text": "That's all from me for now. Please take a few minutes to look through your welcome pack, and then Priya will take you on a short walk around the site. If you have any questions, don't be afraid to ask. Thank you, and welcome again to Hartley."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 11,
+          "text": "The garden was originally created by",
+          "options": {
+            "A": "a university.",
+            "B": "a wealthy merchant.",
+            "C": "the city council."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "It was created in 1868 by Edward Hartley, a textile merchant. The council bought it later and the university took over research in 1950."
+        },
+        {
+          "number": 12,
+          "text": "What caused the destruction of the original glasshouse?",
+          "options": {
+            "A": "a fire",
+            "B": "a storm",
+            "C": "poor heating"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "The glasshouse was wrecked by a storm in 1987. The fire destroyed the old café."
+        },
+        {
+          "number": 13,
+          "text": "What does Helen say is the garden's main priority?",
+          "options": {
+            "A": "attracting more tourists",
+            "B": "teaching schoolchildren",
+            "C": "protecting rare plants"
+          },
+          "answer": [
+            "C"
+          ],
+          "explanation": "Tourism and teaching are important, but 'our main priority is conservation'."
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Label the map. Which area of the garden is each statement about? Choose the correct letter, A-F, for each answer.",
+      "options": {
+        "A": "Rose Terrace",
+        "B": "Alpine Rockery",
+        "C": "Water Garden",
+        "D": "Herb Walk",
+        "E": "Sensory Garden",
+        "F": "Tropical House"
+      },
+      "questions": [
+        {
+          "number": 14,
+          "text": "a survey of wildlife takes place here every April",
+          "answer": [
+            "C"
+          ],
+          "explanation": "The frog survey is held in the Water Garden."
+        },
+        {
+          "number": 15,
+          "text": "visitors are encouraged to touch the plants",
+          "answer": [
+            "E"
+          ],
+          "explanation": "Sensory Garden."
+        },
+        {
+          "number": 16,
+          "text": "visitors need a timed ticket",
+          "answer": [
+            "F"
+          ],
+          "explanation": "Tropical House: timed tickets from the desk by the entrance."
+        },
+        {
+          "number": 17,
+          "text": "is closed for restoration work",
+          "answer": [
+            "A"
+          ],
+          "explanation": "The Rose Terrace is closed until spring."
+        },
+        {
+          "number": 18,
+          "text": "has a free cooking demonstration on Saturdays",
+          "answer": [
+            "D"
+          ],
+          "explanation": "Herb Walk, Saturdays at eleven."
+        }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questions": [
+        {
+          "number": 19,
+          "text": "New volunteers must first complete a two-day course on ______.",
+          "answer": [
+            "plant identification"
+          ],
+          "explanation": "A two-day course on plant identification."
+        },
+        {
+          "number": 20,
+          "text": "Volunteers can collect their jacket and badge from the ______.",
+          "answer": [
+            "gift shop",
+            "shop"
+          ],
+          "explanation": "From the gift shop just inside the main entrance."
+        }
+      ]
+    }
+  ]
+}

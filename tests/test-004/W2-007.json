@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-007",
+  "module": "writing",
+  "task": 2,
+  "essayType": "advantages-disadvantages",
+  "topic": "education",
+  "prompt": "Many children now use tablets and computers in the classroom from a very young age. Do the advantages of this development outweigh the disadvantages?",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase and give a clear opinion: advantages outweigh disadvantages (with conditions).",
+    "body1": "Advantages: interactive and engaging, access to information, digital skills for future jobs, personalised learning speed.",
+    "body2": "Disadvantages: distraction, less handwriting and face-to-face interaction, screen time and eyesight, cost and inequality. Show that these can be managed.",
+    "conclusion": "Restate opinion."
+  },
+  "modelAnswer": "Digital devices have become a common sight in primary classrooms around the world. Although this trend has certain drawbacks, I believe that its benefits are greater, provided that the technology is used sensibly.\n\nThe main advantage of tablets and computers is that they make lessons more engaging. Young children often find it difficult to concentrate on textbooks, but educational games, videos and interactive exercises can capture their attention and make abstract subjects, such as mathematics, easier to grasp. Devices also give pupils instant access to a wide range of information, and software can adapt to each child's level, allowing slower learners to practise as long as they need while faster ones move ahead. Moreover, since almost every modern job requires digital skills, children who start early are better prepared for the future.\n\nOn the other hand, there are legitimate concerns. Pupils may be distracted by games or messages instead of concentrating on their work, and too much time in front of a screen can harm eyesight and reduce physical activity. Some teachers also worry that children who type most of the time may lose the ability to write neatly by hand and may have fewer opportunities to talk face to face. In addition, buying devices is expensive, which may widen the gap between rich and poor schools.\n\nNevertheless, I believe these problems can be controlled. Schools can limit screen time, ban non-educational applications and make sure that children still spend part of the day writing, reading real books and working in groups. Governments could also fund equipment for schools in poorer areas.\n\nIn conclusion, although digital devices carry some risks, their power to motivate pupils, personalise learning and teach valuable skills means that the advantages outweigh the disadvantages if teachers manage their use carefully.",
+  "vocabulary": [
+    {
+      "word": "engaging",
+      "meaning": "interesting and holding your attention",
+      "example": "Interactive lessons are more engaging."
+    },
+    {
+      "word": "grasp",
+      "meaning": "to understand something",
+      "example": "Games help children grasp difficult ideas."
+    },
+    {
+      "word": "adapt",
+      "meaning": "to change to suit a situation",
+      "example": "Software adapts to each child's level."
+    },
+    {
+      "word": "distracted",
+      "meaning": "unable to concentrate because of something else",
+      "example": "Pupils are distracted by games."
+    },
+    {
+      "word": "legitimate",
+      "meaning": "reasonable and justified",
+      "example": "These are legitimate concerns."
+    },
+    {
+      "word": "widen the gap",
+      "meaning": "to increase the difference between two groups",
+      "example": "Costs may widen the gap between schools."
+    },
+    {
+      "word": "personalise",
+      "meaning": "to make suitable for one person's needs",
+      "example": "Technology can personalise learning."
+    },
+    {
+      "word": "outweigh",
+      "meaning": "to be more important than",
+      "example": "The benefits outweigh the risks."
+    }
+  ],
+  "examinerComment": "A clear position is presented and developed with relevant, well-supported ideas on both sides. Good paragraphing and a wide vocabulary range with accurate complex sentences. Estimated band 8."
+}

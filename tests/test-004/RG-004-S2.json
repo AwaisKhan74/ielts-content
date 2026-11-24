@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "RG-004-S2",
+  "module": "reading",
+  "track": "general",
+  "testNumber": 4,
+  "sectionNumber": 2,
+  "title": "Renting a Home",
+  "difficulty": "medium",
+  "texts": [
+    {
+      "title": "Text A: Tenant's Guide, Parkside Lettings",
+      "paragraphs": [
+        { "label": "A", "text": "DEPOSIT: When you move in, you will be asked to pay a deposit equal to one month's rent. We will place it in a government-approved protection scheme within 30 days and will send you the details. When you leave, the deposit will be returned within ten days, provided that the property is clean and undamaged and that all rent has been paid. Deductions will be itemised in writing." },
+        { "label": "B", "text": "REPAIRS: Please report all problems in writing, by email or through the tenant portal. In an emergency, such as a gas leak, a burst pipe or a loss of heating in winter, telephone our 24-hour helpline immediately. Non-urgent repairs, for example a dripping tap or a broken cupboard door, will be completed within 14 days. Please do not arrange your own repairs without our permission, as we cannot refund the cost." },
+        { "label": "C", "text": "RENT: Rent is due on the first day of each month and must be paid by direct debit. If your payment is more than five days late, a fee of £25 will be added. If rent remains unpaid for more than two months, we may start legal action to recover it. Rent can only be increased once a year, and you will receive two months' written notice." },
+        { "label": "D", "text": "VISITORS AND PETS: Friends and family may stay with you for up to 14 days without informing us. For longer stays, please contact the office. Pets are not allowed unless we have given written permission in advance, which will be considered on request, and a larger deposit may be required. Assistance dogs are always welcome." },
+        { "label": "E", "text": "MOVING OUT: Tenants must give at least 28 days' written notice before leaving. On the last day, the property must be professionally cleaned, all keys returned to our office, and meter readings recorded. We will arrange a final inspection with you." },
+        { "label": "F", "text": "INSPECTIONS: We inspect each property every six months to check its condition. We will give you at least 24 hours' notice, and we will normally visit between 9.00 am and 5.00 pm on a weekday. In an emergency, we may enter without notice." }
+      ]
+    },
+    {
+      "title": "Text B: Waste and Recycling Collections, Ashford Council",
+      "paragraphs": [
+        { "label": "G", "text": "GENERAL WASTE (black bin) is collected every Tuesday. RECYCLING (blue bin) is collected every other Thursday. You may put paper, card, cans and plastic bottles in the blue bin, but glass bottles and jars must be placed in the separate green box, which is collected on the same day. Please rinse containers before recycling them.\n\nGARDEN WASTE (brown bin) is collected on Wednesdays from March to November. This is a subscription service: residents must buy a permit, which costs £40 per year, and stick it to the bin.\n\nBULKY ITEMS such as sofas, mattresses and fridges can be collected for £15 for up to three items. Please book online at least five days in advance; we cannot accept bookings by telephone. Items must be left at the front of your property by 7.00 am on the day of collection.\n\nBINS: Please put your bins out by 7.00 am on collection day, but not before 6.00 pm the evening before. Bins that are overflowing, or that contain the wrong materials, will not be emptied. Please bring your bin back from the pavement as soon as possible after collection.\n\nHOLIDAYS: During the week after Christmas, collections will be one day later than usual. A full calendar can be found on the council website." }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "matching_info",
+      "instruction": "Text A has six sections, A-F. Which section contains the following information? Write the correct letter, A-F.",
+      "questions": [
+        { "number": 15, "text": "what to do if there is a dangerous problem in the property", "answer": ["B"], "explanation": "Section B: telephone the 24-hour helpline." },
+        { "number": 16, "text": "a penalty for paying late", "answer": ["C"], "explanation": "Section C: £25 fee." },
+        { "number": 17, "text": "how much warning the landlord must give before visiting", "answer": ["F"], "explanation": "Section F: 24 hours." },
+        { "number": 18, "text": "a requirement for keeping an animal in the property", "answer": ["D"], "explanation": "Section D: written permission." },
+        { "number": 19, "text": "when money paid at the beginning of a tenancy will be returned", "answer": ["A"], "explanation": "Section A: within ten days." }
+      ]
+    },
+    {
+      "type": "tfng",
+      "instruction": "Do the following statements agree with the information given in Text B? Write TRUE, FALSE or NOT GIVEN.",
+      "questions": [
+        { "number": 20, "text": "Recycling is collected every week.", "answer": ["FALSE"], "explanation": "Every other Thursday." },
+        { "number": 21, "text": "Glass bottles must be put in a separate container.", "answer": ["TRUE"], "explanation": "The green box." },
+        { "number": 22, "text": "Garden waste is collected free of charge.", "answer": ["FALSE"], "explanation": "A permit costs £40 per year." },
+        { "number": 23, "text": "Residents can book a bulky waste collection by telephone.", "answer": ["FALSE"], "explanation": "Bookings are online only." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the texts for each answer.",
+      "questions": [
+        { "number": 24, "text": "Bins must be put out before ______ am on collection day.", "answer": ["7", "7.00", "7.00 am"], "explanation": "By 7.00 am." },
+        { "number": 25, "text": "A bulky collection costs £15 for up to ______ items.", "answer": ["3", "three"], "explanation": "Up to three items." },
+        { "number": 26, "text": "Tenants who wish to leave must give at least ______ days' notice.", "answer": ["28", "twenty-eight"], "explanation": "Text A, section E." },
+        { "number": 27, "text": "Garden waste is collected from March to ______.", "answer": ["November"], "explanation": "March to November." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "L-001-S3",
+  "module": "listening",
+  "testNumber": 1,
+  "sectionNumber": 3,
+  "title": "Planning a Presentation on Green Roofs",
+  "accent": "american",
+  "difficulty": "medium",
+  "speakers": [
+    { "id": "T", "name": "Dr Collins", "gender": "female", "voice": "en-US-AriaNeural" },
+    { "id": "P", "name": "Priya", "gender": "female", "voice": "en-US-JennyNeural" },
+    { "id": "M", "name": "Marcus", "gender": "male", "voice": "en-US-GuyNeural" }
+  ],
+  "script": [
+    { "speaker": "T", "text": "Come in, Priya, Marcus. Take a seat. So, you wanted to talk about your presentation on green roofs?" },
+    { "speaker": "P", "text": "Yes. We've done a first draft of the outline, and we wanted to check that we're on the right track." },
+    { "speaker": "M", "text": "We also wanted to ask about a few problems we've had." },
+    { "speaker": "T", "text": "Of course. Before we start, remind me how you chose the topic. Was it something from the lectures last term?" },
+    { "speaker": "P", "text": "Not really. It was Marcus's idea, actually." },
+    { "speaker": "M", "text": "Yes. When I visited my cousin in Chicago last summer, I saw a huge garden on top of the city hall, and I couldn't believe it was on a roof. I started reading about them when I got back, and I thought it would be perfect for the topic of sustainable cities." },
+    { "speaker": "T", "text": "That's a great starting point. Now, I've read your outline. The structure is clear, and the ideas are well organized. My main concern is that all your examples are from other countries. For a geography assessment, I'd expect you to include some local examples, like the ones on our own city's new buildings." },
+    { "speaker": "P", "text": "That's true. We did think about that, but we couldn't find much information. We'd thought maybe the statistics would be enough." },
+    { "speaker": "T", "text": "The statistics are fine. It's the local examples that are missing. How were you planning to get the information?" },
+    { "speaker": "P", "text": "I wanted to do a survey of people who work in buildings with green roofs, to find out what they think of them." },
+    { "speaker": "M", "text": "But we only have three weeks, and I don't think we'd get enough replies." },
+    { "speaker": "T", "text": "I agree with Marcus. Surveys take a long time to design and analyze, and the response rate is often low. I'd suggest looking at the reports the city council published last year. They include data on every green roof in the city, along with several case studies." },
+    { "speaker": "P", "text": "Oh, I didn't know they existed. That would save us a lot of time." },
+    { "speaker": "T", "text": "Good. Now, how are you going to divide up the work?" },
+    { "speaker": "P", "text": "I'd like to take the cost comparison, between green roofs and ordinary roofs, because I did a finance module last year." },
+    { "speaker": "M", "text": "And I'll do the environmental benefits, since I've already read a lot about those." },
+    { "speaker": "T", "text": "And what about the slides?" },
+    { "speaker": "M", "text": "We'll both work on those, so that they look consistent." },
+    { "speaker": "P", "text": "Yes, we'll sit down together at the end and put them together." },
+    { "speaker": "T", "text": "Sounds sensible. Marcus, when you cover the environmental benefits, make sure you include the effect on rainwater." },
+    { "speaker": "M", "text": "Yes, I found a study that says a green roof can reduce rainwater run-off by up to seventy percent, which helps prevent flooding during heavy storms." },
+    { "speaker": "T", "text": "Excellent. And what about the drawbacks? A good presentation should be balanced." },
+    { "speaker": "P", "text": "Well, the main one is cost. The installation is expensive, of course, but what surprised me was that it's the maintenance that really adds up in the long run, because the plants need regular watering and weeding." },
+    { "speaker": "T", "text": "Yes, that's often overlooked. Now, how will you end?" },
+    { "speaker": "M", "text": "We were thinking of a short video of the bus stops in Utrecht that have plants growing on their roofs. They look fantastic, and it shows that green roofs don't have to be on huge buildings." },
+    { "speaker": "T", "text": "I like that. People remember images. One last point: remember the time limit. The original instructions said twenty minutes, but because there are so many groups this year, it's now a maximum of fifteen minutes, and then five minutes for questions." },
+    { "speaker": "P", "text": "Fifteen. Okay, we'll have to cut a few slides." },
+    { "speaker": "T", "text": "That's no bad thing. Shorter presentations are often clearer." },
+    { "speaker": "M", "text": "Thanks, Dr Collins. That's really helpful." },
+    { "speaker": "P", "text": "Yes, we'll rewrite the draft this week and send it to you on Friday." },
+    { "speaker": "T", "text": "Wonderful. I look forward to reading it." }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 21, "text": "How did the students choose the topic of green roofs?", "options": { "A": "It was recommended by their tutor.", "B": "Marcus saw a green roof while travelling.", "C": "It was covered in a previous module." }, "answer": ["B"], "explanation": "Marcus saw a garden on a roof in Chicago." },
+        { "number": 22, "text": "What does Dr Collins think is the main weakness of the outline?", "options": { "A": "It contains too many statistics.", "B": "It lacks local examples.", "C": "Its structure is unclear." }, "answer": ["B"], "explanation": "She says the structure is clear and the statistics are fine, but local examples are missing." },
+        { "number": 23, "text": "How do the students decide to collect information?", "options": { "A": "by surveying office workers", "B": "by visiting a green roof", "C": "by using council reports" }, "answer": ["C"], "explanation": "The survey is rejected, and they will use the council reports." }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Who will be responsible for each part of the presentation? Choose the correct letter, A, B or C, for each answer.",
+      "options": { "A": "Priya", "B": "Marcus", "C": "both students" },
+      "questions": [
+        { "number": 24, "text": "cost comparison", "answer": ["A"], "explanation": "Priya takes the cost comparison." },
+        { "number": 25, "text": "environmental benefits", "answer": ["B"], "explanation": "Marcus does the environmental benefits." },
+        { "number": 26, "text": "slides", "answer": ["C"], "explanation": "They will both work on the slides." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questions": [
+        { "number": 27, "text": "A green roof can reduce rainwater run-off by up to ______ percent.", "answer": ["70", "seventy"], "explanation": "Marcus quotes up to seventy percent." },
+        { "number": 28, "text": "In the long run, the highest cost of a green roof is ______.", "answer": ["maintenance"], "explanation": "Priya says it's the maintenance that really adds up." },
+        { "number": 29, "text": "They will finish with a short video of ______ in Utrecht.", "answer": ["bus stops", "bus shelters"], "explanation": "The video shows the bus stops with plants on their roofs." },
+        { "number": 30, "text": "The presentation can last a maximum of ______ minutes.", "answer": ["15", "fifteen"], "explanation": "It was twenty minutes originally, but is now fifteen." }
+      ]
+    }
+  ]
+}

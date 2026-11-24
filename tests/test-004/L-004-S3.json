@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "L-004-S3",
+  "module": "listening",
+  "testNumber": 4,
+  "sectionNumber": 3,
+  "title": "Preparing a Psychology Presentation",
+  "accent": "mixed",
+  "difficulty": "medium",
+  "speakers": [
+    {
+      "id": "A",
+      "name": "Dr Hughes (tutor)",
+      "gender": "male",
+      "voice": "en-GB-ThomasNeural"
+    },
+    {
+      "id": "B",
+      "name": "Maya",
+      "gender": "female",
+      "voice": "en-US-AriaNeural"
+    },
+    {
+      "id": "C",
+      "name": "Ben",
+      "gender": "male",
+      "voice": "en-GB-RyanNeural"
+    }
+  ],
+  "script": [
+    {
+      "speaker": "A",
+      "text": "Right, Maya, Ben, come in. I've had a look at your draft for the presentation on background music and studying, and I have a few comments. But first, tell me how you got on with the experiment itself."
+    },
+    {
+      "speaker": "B",
+      "text": "Quite well, on the whole. We're pleased with the results, although there were some surprises."
+    },
+    {
+      "speaker": "C",
+      "text": "I think it was a good topic. I'd noticed that half of the students in the library wear headphones, and I started to wonder whether it actually helps them."
+    },
+    {
+      "speaker": "B",
+      "text": "That's right. I'd read an article about it last year, but it was Ben's observation that convinced us to turn it into a project, wasn't it?"
+    },
+    {
+      "speaker": "A",
+      "text": "Good. It's always better to start from something you've seen for yourselves. Now, I remember that you were worried about finding participants. How did that work out?"
+    },
+    {
+      "speaker": "C",
+      "text": "We managed to recruit forty-five first-year students, which was more than we expected. The problem was that a few of them didn't follow the instructions. For example, some of the people in the silent group put their earphones in anyway, so we had to remove their results."
+    },
+    {
+      "speaker": "B",
+      "text": "In the end, we used the data from forty-one of them, and that was divided evenly enough between the three groups."
+    },
+    {
+      "speaker": "A",
+      "text": "That's still a reasonable number for a student project. And how did you measure the effect of the music?"
+    },
+    {
+      "speaker": "B",
+      "text": "We gave each group a short article to read and then a multiple-choice test on what they'd read. The first group worked in silence, the second listened to instrumental music, and the third listened to songs with words."
+    },
+    {
+      "speaker": "A",
+      "text": "And what were the results?"
+    },
+    {
+      "speaker": "C",
+      "text": "The group with lyrics did worst, with an average of sixty-one per cent. That's what we predicted. But the surprise was that the instrumental group got seventy-six per cent, which was slightly higher than the silent group, who got seventy-four."
+    },
+    {
+      "speaker": "A",
+      "text": "Interesting, though I'd be careful with that last point. A difference of two per cent between those groups is tiny, and with such small numbers it could easily be due to chance. You shouldn't claim that instrumental music improves studying. You can only say that it didn't seem to harm it."
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, we thought that too, so in the conclusion we say that more research is needed."
+    },
+    {
+      "speaker": "A",
+      "text": "Good. Now, let me go through the structure of the presentation with you. Let's start with the introduction. At the moment, it takes up almost four minutes, and you spend a long time on the history of music psychology. That's interesting, but your audience will lose interest, so I'd suggest making it much shorter. Two minutes should be enough."
+    },
+    {
+      "speaker": "C",
+      "text": "That's fine. We can cut the parts about the early research."
+    },
+    {
+      "speaker": "A",
+      "text": "Then there's the description of the method. I'd like you to add more detail here. Explain exactly how you chose the music, how long the participants listened for, and what kind of room you used. Without this information, nobody could repeat your experiment."
+    },
+    {
+      "speaker": "B",
+      "text": "We can easily do that. We have all the details in our notes."
+    },
+    {
+      "speaker": "A",
+      "text": "Next, the results. You have a very large table with all the scores, which is difficult to read on a screen. I'd replace it with a simple bar chart that shows the average for each group. You can put the full table in the handout instead."
+    },
+    {
+      "speaker": "C",
+      "text": "Good idea. A chart would be much clearer."
+    },
+    {
+      "speaker": "A",
+      "text": "As for the conclusion, I think it's very good. It's clear, and it's honest about the limitations, so I wouldn't change it at all."
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you. How long will the whole presentation be? We weren't sure whether it should be ten minutes or fifteen."
+    },
+    {
+      "speaker": "A",
+      "text": "It should be fifteen minutes, and then there'll be five minutes for questions. Please don't go over that, because the next group needs the room."
+    },
+    {
+      "speaker": "C",
+      "text": "And when do you need the slides?"
+    },
+    {
+      "speaker": "A",
+      "text": "Please email them to me by Thursday, so that I can check them before the session. The presentations will be next Monday morning. And do practise it aloud at least once, with a timer."
+    },
+    {
+      "speaker": "B",
+      "text": "We will. Thanks very much, Dr Hughes."
+    },
+    {
+      "speaker": "C",
+      "text": "Yes, that was really helpful."
+    }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "number": 21,
+          "text": "What made the students decide to do this project?",
+          "options": {
+            "A": "an article that Maya had read",
+            "B": "something Ben had noticed in the library",
+            "C": "a suggestion from Dr Hughes"
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Ben's observation of students wearing headphones convinced them."
+        },
+        {
+          "number": 22,
+          "text": "What problem did the students have with their participants?",
+          "options": {
+            "A": "There were not enough volunteers.",
+            "B": "Many participants left the experiment.",
+            "C": "Some did not follow the instructions."
+          },
+          "answer": [
+            "C"
+          ],
+          "explanation": "Some in the silent group put their earphones in, so their results were removed."
+        },
+        {
+          "number": 23,
+          "text": "What was surprising about the results?",
+          "options": {
+            "A": "The silent group scored lowest.",
+            "B": "The instrumental group scored slightly higher than the silent group.",
+            "C": "The group that listened to lyrics scored highest."
+          },
+          "answer": [
+            "B"
+          ],
+          "explanation": "Instrumental 76 per cent versus silent 74 per cent."
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "What does Dr Hughes suggest for each part of the presentation? Choose the correct letter, A-D, for each answer.",
+      "options": {
+        "A": "Make it shorter.",
+        "B": "Add more detail.",
+        "C": "Replace it with a chart.",
+        "D": "Leave it as it is."
+      },
+      "questions": [
+        {
+          "number": 24,
+          "text": "the introduction",
+          "answer": [
+            "A"
+          ],
+          "explanation": "Reduce it to about two minutes."
+        },
+        {
+          "number": 25,
+          "text": "the description of the method",
+          "answer": [
+            "B"
+          ],
+          "explanation": "Add more detail."
+        },
+        {
+          "number": 26,
+          "text": "the table of results",
+          "answer": [
+            "C"
+          ],
+          "explanation": "Replace with a bar chart."
+        },
+        {
+          "number": 27,
+          "text": "the conclusion",
+          "answer": [
+            "D"
+          ],
+          "explanation": "'I wouldn't change it at all.'"
+        }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "number": 28,
+          "text": "The students used the data from ______ participants.",
+          "answer": [
+            "41",
+            "forty-one",
+            "forty one"
+          ],
+          "explanation": "Forty-five were recruited but four were excluded."
+        },
+        {
+          "number": 29,
+          "text": "Participants took a ______ test on the article they read.",
+          "answer": [
+            "multiple-choice",
+            "multiple choice"
+          ],
+          "explanation": "A multiple-choice test."
+        },
+        {
+          "number": 30,
+          "text": "The slides must be emailed to Dr Hughes by ______.",
+          "answer": [
+            "Thursday"
+          ],
+          "explanation": "Please email them by Thursday."
+        }
+      ]
+    }
+  ]
+}

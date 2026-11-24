@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "WA1-003",
+  "module": "writing",
+  "track": "academic",
+  "task": 1,
+  "prompt": "The bar chart below shows the average number of hours per week that teenagers spent on five leisure activities in 2005 and in 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "minWords": 150,
+  "chartSpec": {
+    "type": "bar",
+    "title": "Teenagers' leisure time (hours per week)",
+    "unit": "hours",
+    "xLabel": "Activity",
+    "yLabel": "Hours per week",
+    "categories": [
+      "Watching TV",
+      "Playing sport",
+      "Social media",
+      "Reading",
+      "Video games"
+    ],
+    "series": [
+      {
+        "name": "2005",
+        "values": [
+          14,
+          7,
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "name": "2020",
+        "values": [
+          9,
+          5,
+          11,
+          2,
+          8
+        ]
+      }
+    ]
+  },
+  "modelAnswer": "The bar chart compares the number of hours per week that teenagers devoted to five leisure activities in 2005 and 2020.\n\nOverall, the most striking change was the huge rise in time spent on social media, while three of the other activities became less popular. Total leisure time rose slightly, from 31 hours to 35 hours.\n\nIn 2005, watching television was by far the most common pastime, at 14 hours a week, followed by playing sport at 7 hours. Video games and reading took up 5 and 4 hours respectively, and social media was almost unused at only one hour.\n\nBy 2020, the picture had changed considerably. Social media had become the leading activity, rising elevenfold to 11 hours, which was two hours more than the figure for television. Television itself dropped by five hours to 9 hours. Sport fell more modestly to 5 hours, and reading halved from 4 hours to just 2. By contrast, video games was the only other activity to gain ground, increasing from 5 to 8 hours.",
+  "examinerComment": "Clear overview, accurate figures and logical grouping. The writer compares the two years and highlights the biggest change. Avoid giving reasons that are not in the data.",
+  "usefulPhrases": [
+    "The chart compares ...",
+    "the most striking change was ...",
+    "rose elevenfold / halved",
+    "took up ... hours",
+    "followed by ...",
+    "By contrast, ...",
+    "gained ground",
+    "a more modest fall"
+  ]
+}

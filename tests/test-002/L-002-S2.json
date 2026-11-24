@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "L-002-S2",
+  "module": "listening",
+  "testNumber": 2,
+  "sectionNumber": 2,
+  "title": "Volunteer Induction at Riverside Science Museum",
+  "accent": "british",
+  "difficulty": "easy",
+  "speakers": [
+    { "id": "A", "name": "Tom (volunteer coordinator)", "gender": "male", "voice": "en-GB-RyanNeural" }
+  ],
+  "script": [
+    { "speaker": "A", "text": "Good morning, everyone, and welcome to the volunteer induction at Riverside Science Museum. My name's Tom Hargreaves, and I'm the volunteer coordinator. Over the next half an hour, I'll tell you a little about the museum, and what we expect from you." },
+    { "speaker": "A", "text": "First, some background. Many visitors assume that this building used to be a railway station, because of the tall arches and the old chimney. In fact, it was built in eighteen ninety-three as a cotton mill, and for almost eighty years hundreds of people worked here making fabric. When the mill closed in the nineteen seventies, the building stood empty for a while, and there were even plans to knock it down and build a car park. Fortunately, a group of local teachers and scientists campaigned to save it, and the museum finally opened in nineteen eighty-nine." },
+    { "speaker": "A", "text": "Now, why are we recruiting new volunteers this term? Some of you may think it's because we're extending our opening hours into the evening, but in fact we've had late openings on Thursdays for several years. The real reason is that our new wing, which will house a gallery on space travel, opens next spring, and we'll need around forty extra volunteers to look after the visitors there." },
+    { "speaker": "A", "text": "So what will you actually be doing? Mostly, you'll be helping visitors find their way, answering simple questions and supervising our hands-on activities. There are a number of rules, but the one I want to stress is this: if an exhibit breaks, or something doesn't look safe, please don't try to fix it yourself, even if it looks like an easy job. Many of our machines are very old, and a well-meaning repair can do more harm than good. Instead, report it to a member of staff straight away. Of course, you shouldn't move exhibits either, and school groups always come with their own teachers, so you don't need to supervise them, though you may be asked to help with activities." },
+    { "speaker": "A", "text": "Let me now tell you where things are, because you'll be asked about them constantly. We have five levels. In the basement is the Early Machines gallery, which contains our collection of old steam engines. On the ground floor, next to the café, is the Discovery Zone, which is for children under eight. It's the busiest area in the museum, so you'll probably spend a lot of your time there. On the first floor, you'll find the Energy Lab, where visitors can generate electricity by pedalling bicycles. The Ocean Room is on the second floor, and finally, up on the roof terrace, we have the Weather Station, which is only open when it isn't raining, naturally." },
+    { "speaker": "A", "text": "Now, a few practical points. When you're on duty, you must wear a green badge, which you collect from the volunteer office, so that visitors can recognise you. Shifts last four hours, either in the morning or in the afternoon, and you can choose how often you come, though we do ask for at least one shift every two weeks. If your shift covers midday, you'll receive a lunch voucher for the café." },
+    { "speaker": "A", "text": "As for training, there are two sessions. The first is a general introduction on the first Saturday of next month, at ten o'clock, when you'll learn about fire safety and first aid. The second is specific to the area where you'll be working, and your supervisor will arrange that with you individually. Please also remember to sign the safety form in your welcome pack, and return it to the volunteer office before your first shift." },
+    { "speaker": "A", "text": "One final thing: we run a small newsletter for volunteers, in which we announce new exhibitions and social events, such as our summer picnic, so please make sure we have your email address. Right, does anybody have any questions before I take you on a tour?" }
+  ],
+  "questionGroups": [
+    {
+      "type": "mcq",
+      "instruction": "Choose the correct letter, A, B or C.",
+      "questions": [
+        { "number": 11, "text": "What was the museum building originally used for?", "options": { "A": "a textile factory", "B": "a railway station", "C": "a hospital" }, "answer": ["A"], "explanation": "It was built as a cotton mill. The railway station is a common mistake." },
+        { "number": 12, "text": "Why is the museum recruiting more volunteers?", "options": { "A": "It will open in the evenings.", "B": "A new wing is opening.", "C": "Some staff are leaving." }, "answer": ["B"], "explanation": "The new space-travel wing opens next spring; late openings already exist." },
+        { "number": 13, "text": "What is the most important rule for volunteers?", "options": { "A": "Never move any exhibits.", "B": "Always supervise school groups.", "C": "Report problems instead of fixing them." }, "answer": ["C"], "explanation": "Volunteers must not repair exhibits themselves but report problems to staff." }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction": "Which level is each gallery on? Choose the correct letter, A-E, for each gallery.",
+      "options": { "A": "basement", "B": "ground floor", "C": "first floor", "D": "second floor", "E": "roof terrace" },
+      "questions": [
+        { "number": 14, "text": "Early Machines", "answer": ["A"], "explanation": "In the basement." },
+        { "number": 15, "text": "Energy Lab", "answer": ["C"], "explanation": "On the first floor." },
+        { "number": 16, "text": "Ocean Room", "answer": ["D"], "explanation": "On the second floor." },
+        { "number": 17, "text": "Weather Station", "answer": ["E"], "explanation": "On the roof terrace." },
+        { "number": 18, "text": "Discovery Zone", "answer": ["B"], "explanation": "On the ground floor, next to the café." }
+      ]
+    },
+    {
+      "type": "sentence_completion",
+      "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questions": [
+        { "number": 19, "text": "Volunteers must wear a ______ at all times.", "answer": ["green badge", "badge"], "explanation": "A green badge from the volunteer office." },
+        { "number": 20, "text": "Each shift lasts ______ hours.", "answer": ["4", "four"], "explanation": "Shifts last four hours." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "W2-010",
+  "module": "writing",
+  "task": 2,
+  "essayType": "discussion",
+  "topic": "education",
+  "prompt": "Some people think that parents should teach their children how to behave, while others believe that this is the responsibility of schools. Discuss both views and give your own opinion.",
+  "minWords": 250,
+  "plan": {
+    "intro": "Paraphrase; say you will discuss both and give your opinion (shared responsibility, with parents primary).",
+    "body1": "View 1 (parents): they spend most time with children, set examples, values start at home, consistency.",
+    "body2": "View 2 (schools): teachers see children among peers, teach rules, cooperation, some parents too busy or poor role models. Then your opinion.",
+    "conclusion": "Summarise and restate your opinion."
+  },
+  "modelAnswer": "The question of who should teach children good behaviour is widely debated. Some argue that this is a task for parents, whereas others believe that schools should take the lead. In my opinion, both have a role, but parents bear the main responsibility.\n\nThose who favour parents point out that children spend their early years at home, where their basic attitudes are formed. A child who sees his parents behaving politely, solving disagreements calmly and treating others with respect is likely to imitate them. Moreover, parents know their children's characters and can respond to their individual needs, which a teacher with thirty pupils cannot do. Values such as honesty and kindness are also more convincing when they come from people the child loves and trusts.\n\nOn the other hand, there are reasons why schools should contribute. Teachers see children interacting with others of the same age, and so they are well placed to teach skills such as cooperation, waiting for a turn and dealing with conflict. Schools also have clear rules about punctuality and respect for others, which prepare children for the workplace. In addition, some parents work long hours or lack the confidence to guide their children, and for those pupils, school may be the only place where they receive consistent guidance.\n\nIn my view, behaviour is best taught when home and school work together. Parents should provide the foundation through example and discipline, while teachers should reinforce it and deal with problems that arise in a group. Regular communication between the two, such as meetings and reports, would make this partnership more effective.\n\nIn conclusion, although schools have a valuable part to play, I believe that the primary responsibility lies with parents, and that children behave best when both work together.",
+  "vocabulary": [
+    {
+      "word": "bear responsibility",
+      "meaning": "to be the person who must deal with something",
+      "example": "Parents bear the main responsibility."
+    },
+    {
+      "word": "imitate",
+      "meaning": "to copy the behaviour of someone",
+      "example": "Children imitate their parents."
+    },
+    {
+      "word": "convincing",
+      "meaning": "able to persuade people to believe something",
+      "example": "Values are more convincing from parents."
+    },
+    {
+      "word": "cooperation",
+      "meaning": "working together with others",
+      "example": "Schools teach cooperation."
+    },
+    {
+      "word": "punctuality",
+      "meaning": "the habit of arriving on time",
+      "example": "Schools value punctuality."
+    },
+    {
+      "word": "consistent",
+      "meaning": "always behaving or happening in the same way",
+      "example": "Children need consistent guidance."
+    },
+    {
+      "word": "reinforce",
+      "meaning": "to make something stronger",
+      "example": "Teachers reinforce what is learned at home."
+    },
+    {
+      "word": "partnership",
+      "meaning": "a relationship in which people work together",
+      "example": "A partnership between home and school works best."
+    }
+  ],
+  "examinerComment": "Both views are discussed fully and the writer's own view is clear throughout. Logical organisation, appropriate vocabulary and a good range of structures. Estimated band 8."
+}
